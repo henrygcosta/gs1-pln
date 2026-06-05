@@ -1,0 +1,244 @@
+ABNT NBR 15575 — Edificações Habitacionais — Desempenho
+Associação Brasileira de Normas Técnicas (ABNT)
+Primeira edição: 2013 | Atualização: 2021
+Idioma: Português
+
+===============================================================
+ESCOPO E APLICAÇÃO
+===============================================================
+
+Esta norma estabelece os requisitos e critérios de desempenho que se
+aplicam aos sistemas que compõem as edificações habitacionais, bem como
+à edificação habitacional como um todo.
+
+APLICAÇÃO: Edificações habitacionais de interesse social e de mercado,
+térreas ou multifamiliares, com estruturas de qualquer material.
+
+A norma é composta por 6 partes:
+- Parte 1: Requisitos Gerais
+- Parte 2: Requisitos para os sistemas estruturais
+- Parte 3: Requisitos para os sistemas de pisos
+- Parte 4: Requisitos para os sistemas de vedações verticais internas e externas
+- Parte 5: Requisitos para os sistemas de coberturas
+- Parte 6: Requisitos para os sistemas hidrossanitários
+
+===============================================================
+PARTE 1 — REQUISITOS GERAIS
+===============================================================
+
+SEÇÃO 4 — NÍVEIS DE DESEMPENHO
+
+A norma define três níveis de desempenho para os sistemas avaliados:
+
+Nível M — Mínimo:
+Corresponde ao desempenho mínimo admissível, abaixo do qual a
+edificação não satisfaz as exigências dos usuários. O nível M é
+obrigatório para que a edificação possa ser habitada com segurança.
+
+Nível I — Intermediário:
+Representa um nível de desempenho superior ao mínimo, com melhor
+qualidade de uso e habitabilidade. O nível I é recomendado para
+edificações de padrão médio.
+
+Nível S — Superior:
+Representa o melhor nível de desempenho avaliado pela norma. Edificações
+no nível S apresentam excelente qualidade de uso e habitabilidade.
+O nível S é recomendado para edificações de alto padrão.
+
+SEÇÃO 5 — VIDA ÚTIL DE PROJETO (VUP)
+Vida útil mínima obrigatória:
+- Estrutura: 50 anos
+- Vedações verticais: 40 anos
+- Impermeabilização: 20 anos
+- Revestimentos de piso internos: 13 anos
+- Revestimentos de piso externos: 20 anos
+- Esquadrias e janelas: 30 anos
+- Sistemas hidrossanitários: 20 anos
+
+===============================================================
+PARTE 1 — DESEMPENHO TÉRMICO
+===============================================================
+
+SEÇÃO 6 — MÉTODOS DE AVALIAÇÃO DE DESEMPENHO TÉRMICO
+
+Método 1 — Simplificado:
+Avaliação por parâmetros construtivos: transmitância térmica (U),
+capacidade térmica (CT), absortância solar (α) e percentual de
+abertura de fachada (PAF).
+
+Método 2 — Simulação Computacional:
+Avaliação por simulação dinâmica com software validado (DesignBuilder,
+EnergyPlus, DOE-2). A simulação deve representar fielmente a geometria,
+os materiais e as condições de uso da edificação.
+
+ZONAS BIOCLIMÁTICAS BRASILEIRAS
+O Brasil é dividido em 8 zonas bioclimáticas (NBR 15220-3):
+- Zona 1: Clima frio (serra gaúcha, parte do RS e SC)
+- Zona 2: Clima temperado (sul do Brasil)
+- Zona 3: Clima temperado a quente
+- Zona 4: Clima continental seco (planalto central)
+- Zona 5: Clima quente e úmido (litoral nordestino)
+- Zona 6: Clima quente e seco (semiárido)
+- Zona 7: Clima muito quente e seco (sertão nordestino)
+- Zona 8: Clima quente e úmido (Amazônia e litoral norte)
+
+SEÇÃO 7 — CRITÉRIOS DE DESEMPENHO TÉRMICO — VERÃO
+
+Temperatura de Bulbo Seco (TBS) máxima admissível no interior:
+
+Nível M (Mínimo):
+A temperatura máxima operativa interna no dia mais quente do ano
+deve ser igual ou inferior à temperatura máxima externa no mesmo dia.
+
+Nível I (Intermediário):
+A temperatura máxima interna deve ser igual ou inferior à temperatura
+máxima externa menos 2°C (TiMax ≤ TeMax - 2°C).
+
+Nível S (Superior):
+A temperatura máxima interna deve ser igual ou inferior à temperatura
+máxima externa menos 4°C (TiMax ≤ TeMax - 4°C).
+
+Horas de desconforto por calor (critério complementar):
+- Nível M: máximo de 800 horas anuais com temperatura > 26°C
+- Nível I: máximo de 400 horas anuais
+- Nível S: máximo de 200 horas anuais
+
+SEÇÃO 8 — CRITÉRIOS DE DESEMPENHO TÉRMICO — INVERNO
+
+Temperatura mínima interna admissível:
+
+Nível M: A temperatura mínima do ar interno não deve ser inferior
+em mais de 3°C à temperatura mínima externa.
+
+Nível I: Diferença máxima de 1°C em relação à temperatura externa mínima.
+
+Nível S: A temperatura mínima interna deve ser igual ou superior
+a 18°C (para zonas 1 e 2) e 15°C (para demais zonas).
+
+SEÇÃO 9 — PARÂMETROS CONSTRUTIVOS PARA MÉTODO SIMPLIFICADO
+
+Transmitância Térmica Máxima de Paredes (U em W/m²K):
+
+Zonas 1, 2 e 3:
+- Nível M: U ≤ 2,5 W/m²K (para α ≤ 0,6)
+- Nível I: U ≤ 1,5 W/m²K
+- Nível S: U ≤ 1,0 W/m²K
+
+Zonas 4, 5, 6, 7 e 8:
+- Nível M: U ≤ 3,7 W/m²K (para α ≤ 0,6)
+- Nível I: U ≤ 2,5 W/m²K
+- Nível S: U ≤ 1,5 W/m²K
+
+Capacidade Térmica mínima de paredes (CT em kJ/m²K):
+- Zonas 1 a 7: CT ≥ 130 kJ/m²K
+- Zona 8: sem requisito mínimo de CT
+
+Transmitância Térmica Máxima de Cobertura (U em W/m²K):
+- Nível M: U ≤ 2,3 W/m²K (para α ≤ 0,6)
+- Nível I: U ≤ 1,5 W/m²K
+- Nível S: U ≤ 1,0 W/m²K
+
+===============================================================
+PARTE 4 — SISTEMAS DE VEDAÇÕES VERTICAIS
+===============================================================
+
+SEÇÃO 10 — REQUISITOS ESTRUTURAIS
+As vedações verticais devem ser capazes de suportar:
+- Cargas permanentes próprias
+- Cargas acidentais verticais e horizontais
+- Pressão e sucção de vento (conforme ABNT NBR 6118 e NBR 7190)
+- Impactos de corpo duro e corpo mole
+
+Tabela de cargas de impacto:
+Corpo mole (saco de areia 40 kg):
+- Aplicação externa: E = 360 J
+- Aplicação interna: E = 120 J (paredes internas), E = 180 J (externas)
+
+Corpo duro (pêndulo de 1 kg):
+- Aplicação externa: E = 10 J
+- Aplicação interna: E = 4 J
+
+SEÇÃO 11 — REQUISITOS DE ESTANQUEIDADE
+As vedações externas devem ser estanques à penetração de água de
+chuva com vento. O ensaio é realizado conforme NBR 15498:
+- Fachadas com baixo índice pluviométrico: ensaio a 50 Pa (10 min)
+  seguido de 300 Pa (15 min) e 500 Pa (15 min)
+- Fachadas com alto índice pluviométrico: ensaio a 50 Pa (10 min)
+  seguido de 300 Pa (15 min), 500 Pa (15 min) e 700 Pa (15 min)
+
+Não é admitida nenhuma infiltração de água através do painel,
+apenas umidecimento superficial é tolerado.
+
+SEÇÃO 12 — ISOLAMENTO ACÚSTICO DE VEDAÇÕES
+Índice de Redução Sonora Ponderado (Rw) mínimo:
+
+Paredes entre unidades habitacionais autônomas:
+- Nível M: Rw ≥ 45 dB (DnTw ≥ 40 dB)
+- Nível I: Rw ≥ 50 dB (DnTw ≥ 45 dB)
+- Nível S: Rw ≥ 55 dB (DnTw ≥ 50 dB)
+
+Paredes entre dormitório e área de uso comum:
+- Nível M: Rw ≥ 40 dB (DnTw ≥ 35 dB)
+- Nível I: Rw ≥ 45 dB (DnTw ≥ 40 dB)
+
+===============================================================
+PARTE 5 — SISTEMAS DE COBERTURAS
+===============================================================
+
+SEÇÃO 13 — IMPERMEABILIZAÇÃO E ESTANQUEIDADE
+Critérios de estanqueidade da cobertura:
+Não é admitida a penetração de água nas condições de chuva
+definidas para a localidade do projeto.
+
+Teste de estanqueidade: lâmina de água de 50 mm por 72 horas
+sem presença de infiltração, manchamento ou escorrimento.
+
+SEÇÃO 14 — DESEMPENHO TÉRMICO DE COBERTURAS
+Absortância solar máxima:
+- Telhas de cor clara (α ≤ 0,4): sem restrição de U
+- Telhas de cor escura (α > 0,6): U ≤ 1,5 W/m²K
+
+===============================================================
+PARTE 6 — SISTEMAS HIDROSSANITÁRIOS
+===============================================================
+
+SEÇÃO 15 — ABASTECIMENTO DE ÁGUA FRIA
+Pressão dinâmica mínima nos pontos de utilização: 5 kPa (0,5 mca)
+Pressão estática máxima nos pontos de utilização: 400 kPa (40 mca)
+Velocidade máxima do escoamento: 3,0 m/s
+
+Ruído do sistema hidráulico:
+- Nível M: LA,F,máx ≤ 37 dB(A) para tubulações e comandos
+- Nível S: LA,F,máx ≤ 27 dB(A)
+
+SEÇÃO 16 — ESGOTO SANITÁRIO E VENTILAÇÃO
+O sistema deve garantir:
+- Vedação hidráulica mínima de 25 mm nos sifões
+- Variação máxima de pressão de ±250 Pa sem perda de fecho hídrico
+- Eliminação de gases e odores desagradáveis dos ambientes
+
+SEÇÃO 17 — ÁGUAS PLUVIAIS
+O sistema de drenagem deve:
+- Não permitir infiltração de água da chuva pela cobertura
+- Escoar o volume correspondente ao período de retorno de 5 anos
+- Não causar erosão, depósito de sedimentos ou contaminação
+
+===============================================================
+VERIFICAÇÃO E CERTIFICAÇÃO DA NBR 15575
+===============================================================
+
+A NBR 15575 não é uma norma de certificação voluntária.
+O atendimento é obrigatório a partir de julho de 2013 para
+todas as edificações habitacionais submetidas ao alvará de construção.
+
+O cumprimento deve ser demonstrado pelo construtor/incorporador
+por meio de:
+- Memorial descritivo com especificação dos materiais
+- Ensaios de laboratório de materiais e sistemas
+- Documentação de inspeção durante a obra
+- Manual de uso e manutenção da edificação
+
+Órgãos responsáveis pela fiscalização:
+- Municípios (aprovação de projetos e habite-se)
+- PROCON (proteção ao consumidor)
+- Poder Judiciário (em casos de vícios construtivos)

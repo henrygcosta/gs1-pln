@@ -1,0 +1,245 @@
+CBCS — Água em Edificações: Boas Práticas para Conservação
+Conselho Brasileiro de Construção Sustentável (CBCS)
+Publicação técnica 2022 | São Paulo, Brasil
+Idioma: Português
+
+===============================================================
+APRESENTAÇÃO
+===============================================================
+
+O Conselho Brasileiro de Construção Sustentável (CBCS) é uma
+organização sem fins lucrativos que promove a construção sustentável
+no Brasil. Esta publicação consolida boas práticas para conservação
+de água em edificações residenciais, comerciais e industriais,
+com foco no contexto brasileiro.
+
+===============================================================
+CAPÍTULO 1 — PANORAMA DO USO DA ÁGUA NO BRASIL
+===============================================================
+
+1.1 DISPONIBILIDADE HÍDRICA
+O Brasil possui 12% da água doce superficial do planeta, mas a
+distribuição é extremamente desigual:
+- Região Norte: 68% da disponibilidade hídrica, 8% da população
+- Região Nordeste: 3% da disponibilidade hídrica, 28% da população
+- Região Sudeste: 6% da disponibilidade hídrica, 43% da população
+
+1.2 CONSUMO URBANO DE ÁGUA
+Consumo médio per capita no Brasil: 154 L/hab.dia (SNIS 2022)
+Consumo recomendado pela OMS: 50 a 100 L/hab.dia
+Cidades com maior consumo: São Paulo (200 L/hab.dia), Brasília (186 L/hab.dia)
+
+Distribuição do consumo doméstico típico:
+- Descarga sanitária (vaso): 27%
+- Banho e higiene pessoal: 36%
+- Lavagem de roupas: 22%
+- Preparo de alimentos e bebidas: 7%
+- Lavagem de louças: 6%
+- Outros: 2%
+
+1.3 PERDAS NO SISTEMA DE DISTRIBUIÇÃO
+Índice médio de perdas nas redes de distribuição: 38,5% (SNIS 2022)
+Meta do governo federal: reduzir para 25% até 2033 (Novo Marco do Saneamento)
+Perdas reais (físicas): fugas em tubulações, reservatórios e conexões
+Perdas aparentes (comerciais): erros de medição, fraudes, submedição
+
+===============================================================
+CAPÍTULO 2 — DIAGNÓSTICO DO CONSUMO EM EDIFICAÇÕES
+===============================================================
+
+2.1 AUDITORIA HÍDRICA
+A auditoria hídrica é o levantamento sistemático de todos os pontos
+de consumo de água em uma edificação. Etapas:
+
+PASSO 1 — Levantamento dos pontos de consumo:
+Identificação e inventário de todos os dispositivos consumidores:
+vasos sanitários, torneiras, chuveiros, máquinas de lavar, torres
+de resfriamento, irrigação, processos industriais.
+
+PASSO 2 — Medição de consumo por setor:
+Instalação temporária de medidores setoriais ou uso de dados
+históricos de conta de água.
+
+PASSO 3 — Cálculo do Indicador de Consumo (IC):
+IC residencial: litros/habitante/dia
+IC comercial: litros/funcionário/dia ou litros/m²/dia
+IC industrial: litros/unidade produzida
+
+PASSO 4 — Identificação de desperdícios:
+Comparação do IC medido com o IC de referência para a tipologia.
+Diferenças acima de 20% indicam desperdício significativo.
+
+2.2 INDICADORES DE CONSUMO DE REFERÊNCIA (por tipologia)
+Residencial unifamiliar: 100 a 200 L/hab.dia
+Residencial multifamiliar: 120 a 180 L/hab.dia
+Escritórios: 40 a 80 L/func.dia
+Hospitais: 400 a 700 L/leito.dia
+Escolas: 15 a 25 L/aluno.dia
+Shopping centers: 5 a 15 L/m²/dia
+Hotéis: 150 a 350 L/apartamento.dia
+Restaurantes: 10 a 25 L/refeição
+
+===============================================================
+CAPÍTULO 3 — DISPOSITIVOS ECONOMIZADORES
+===============================================================
+
+3.1 VASOS SANITÁRIOS
+Evolução histórica das descargas:
+- Pré-1980: 15 a 20 L/descarga
+- 1980-2000: 10 a 12 L/descarga
+- 2000-2010: 6 a 9 L/descarga
+- Atual (eficiente): 3 a 6 L/descarga (duplo acionamento)
+- Vaso com fluxo reduzido (low flow): 4,8 L/descarga
+- Vaso sem água (dry toilet / compostagem): 0 L/descarga
+
+Economia com vaso duplo acionamento vs. vaso 6L simples:
+Uso parcial (3L) em 75% das ocasiões e total (6L) em 25%:
+Consumo médio efetivo: 3,75 L/descarga
+Redução: 37,5% em relação ao modelo de 6L simples
+
+3.2 TORNEIRAS E AREJADORES
+Torneiras convencionais: 12 a 15 L/min
+Torneiras eficientes com arejador: 4 a 8 L/min
+Torneiras temporizadas (uso público): 1,5 a 3 L por acionamento
+Torneiras eletrônicas (sensor infravermelho): 1,5 a 2 L/uso
+
+Economia: 40 a 60% de redução em relação às torneiras convencionais
+
+3.3 CHUVEIROS
+Chuveiro convencional (elétrico): 8 a 12 L/min
+Chuveiro eficiente (com limitador de fluxo): 5 a 7 L/min
+Ducha (alta pressão, baixo volume): 4 a 5 L/min
+Chuveiro de imersão (banho de imersão): variável (100 a 200 L total)
+
+3.4 MICTÓRIOS
+Mictório convencional automático: 2 a 4 L/descarga
+Mictório de baixo consumo: 0,5 a 1 L/descarga
+Mictório sem água (waterless urinals): 0 L/descarga
+Economia: até 100% de redução hídrica com mictórios sem água
+
+3.5 TORNEIRAS EXTERNAS E IRRIGAÇÃO
+Mangueira convencional: 600 a 1.200 L/hora
+Sistema de irrigação por aspersão: 6 a 12 mm/hora (por área)
+Sistema de gotejamento (drip): 1 a 4 L/hora por ponto
+Sistema de microaspersão: 40 a 100 L/hora por emissor
+
+Redução do consumo com gotejamento vs. aspersão: 30 a 50%
+Redução com sensor de umidade de solo: 20 a 30% adicional
+
+===============================================================
+CAPÍTULO 4 — REÚSO DE ÁGUA CINZA
+===============================================================
+
+4.1 DEFINIÇÃO E CLASSIFICAÇÃO
+Água cinza: efluente gerado em atividades de higiene pessoal
+(excluindo vasos sanitários).
+
+Classificação por nível de contaminação:
+Água cinza clara: de lavatórios, sem contato com fezes.
+Contaminação mais baixa. Mais fácil de tratar e reutilizar.
+
+Água cinza escura: de chuveiros, banheiras e pias de cozinha.
+Presença de sabão, detergente, óleos e resíduos orgânicos.
+
+Água negra: de vasos sanitários. NÃO é água cinza.
+Requer tratamento de esgoto convencional.
+
+4.2 POTENCIAL DE REDUÇÃO COM REÚSO DE ÁGUA CINZA
+O reúso de água cinza pode reduzir o consumo de água potável
+em até 40% em edificações multifamiliares típicas brasileiras.
+
+Distribuição do consumo doméstico favorável ao reúso:
+Descarga sanitária: 27% do consumo total (principal uso do reúso)
+Irrigação e limpeza: 10% do consumo total
+
+Volume de água cinza disponível:
+- Lavatórios: ~15 L/pessoa/dia
+- Chuveiros: ~45 L/pessoa/dia
+- Banheiras: ~120 L/uso (eventual)
+- Total disponível para reúso: 45 a 80 L/pessoa/dia
+
+4.3 TRATAMENTO NECESSÁRIO
+Para descarga sanitária (classe de reúso 2 — ABNT NBR 13969):
+
+Tratamento mínimo obrigatório:
+ETAPA 1 — Gradeamento: remoção de cabelos, fiapos e sólidos grosseiros
+ETAPA 2 — Filtração: remoção de sólidos finos (filtro de areia ou cartucho)
+ETAPA 3 — Desinfecção: eliminação de microrganismos patogênicos
+  - Cloração: 0,5 a 2,0 mg/L de cloro residual livre
+  - Radiação UV: 30 mJ/cm² mínimo
+  - Ozônio: 1 mg/L mínimo por 5 minutos de contato
+
+Parâmetros de qualidade para descarga sanitária (NBR 13969):
+- Turbidez: ≤ 5 UNT
+- DBO5: ≤ 10 mg/L
+- Coliformes termotolerantes: ausência em 100 mL
+- pH: 6,0 a 9,0
+- Cloro residual livre: 0,5 a 2,0 mg/L
+
+4.4 SISTEMA DE TUBULAÇÃO DUPLA (OBRIGATÓRIO)
+Edificações com reúso de água cinza devem ter tubulação separada:
+- Tubulação de água potável: identificada em azul
+- Tubulação de água cinza: identificada em lilás ou cinza escuro
+  com inscrição "ÁGUA NÃO POTÁVEL" a cada 2 metros
+- Conexão cruzada (ligação entre os sistemas) é EXPRESSAMENTE PROIBIDA
+- Recalque ou gravidade para distribuição da água cinza tratada
+
+4.5 RESERVATÓRIO DE ÁGUA CINZA
+Volume do reservatório de coleta = Volume diário de geração × 1,5
+Volume do reservatório de distribuição = Demanda diária × 1 dia
+Os reservatórios devem ser tampados e sem acesso de luz para
+evitar proliferação de algas e mosquitos.
+
+===============================================================
+CAPÍTULO 5 — APROVEITAMENTO DE ÁGUA PLUVIAL
+===============================================================
+
+5.1 POTENCIAL POR REGIÃO BRASILEIRA
+Precipitação média anual:
+- Amazônia: 2.000 a 3.500 mm/ano
+- Centro-Oeste: 1.200 a 2.000 mm/ano
+- Sudeste litoral: 1.400 a 2.200 mm/ano
+- Sul: 1.200 a 2.000 mm/ano
+- Nordeste (semiárido): 400 a 800 mm/ano
+- Nordeste (litoral): 1.000 a 2.000 mm/ano
+
+5.2 EFICIÊNCIA DE APROVEITAMENTO
+Volume anual aproveitável:
+V = Precipitação anual (mm) × Área de captação (m²) × 0,001 × Coef. escoamento
+
+Coeficiente de escoamento por tipo de superfície:
+- Telha cerâmica: 0,80 a 0,90
+- Telha metálica: 0,90 a 0,95
+- Laje impermeabilizada: 0,85 a 0,95
+- Jardim intensivo (substrato > 10 cm): 0,50 a 0,70
+
+5.3 POTENCIAL DE REDUÇÃO
+O aproveitamento de água pluvial pode substituir:
+- 15 a 30% do consumo total de água potável em edificações residenciais
+- 20 a 50% do consumo em edificações comerciais com grandes coberturas
+
+===============================================================
+CAPÍTULO 6 — GESTÃO DE VAZAMENTOS
+===============================================================
+
+6.1 TIPOS DE VAZAMENTOS
+Vazamento visível: identificado por gotejamento ou escorrimento
+Vazamento silencioso: em registros, vasos sanitários e redutores de pressão
+Vazamento subterrâneo: em ramais enterrados
+
+6.2 TESTES SIMPLES DE DETECÇÃO
+Teste do vaso sanitário com corante:
+Adicionar 10 gotas de corante alimentar no reservatório. Se a
+cor aparecer no vaso sem acionar a descarga após 15 minutos,
+há vazamento no mecanismo de válvula ou flutuador.
+
+Teste de leitura do hidrômetro:
+1. Fechar todos os pontos de consumo
+2. Anotar a leitura do hidrômetro
+3. Aguardar 30 minutos sem usar água
+4. Se a leitura avançou: há vazamento na instalação
+
+6.3 IMPACTO FINANCEIRO E AMBIENTAL DOS VAZAMENTOS
+Gotejamento em torneira (1 gota/segundo): 46 L/dia = 16.790 L/ano
+Vaso com vazamento silencioso: 100 a 500 L/dia
+Ramal com fissura de 1 mm: até 1.000 L/hora

@@ -1,0 +1,313 @@
+Guia Selo Casa Azul+ CAIXA — Boas Práticas para uma Habitação Sustentável
+Caixa Econômica Federal (CAIXA)
+Versão 2021 (Fase 3) | Atualização: 2023
+Idioma: Português
+
+===============================================================
+APRESENTAÇÃO DO SELO CASA AZUL+
+===============================================================
+
+O Selo Casa Azul+ CAIXA é um instrumento de classificação socioambiental
+destinado a empreendimentos habitacionais que adotem soluções eficientes
+na concepção, execução, uso, ocupação e manutenção das edificações.
+
+Criado em 2009 e reformulado em 2021, o Selo é exclusivo para
+empreendimentos habitacionais financiados ou analisados pela CAIXA.
+A adesão é voluntária.
+
+ETAPAS DA CERTIFICAÇÃO (desde julho de 2021):
+- Selo Casa Azul+ CAIXA PROJETAR: concedido na análise do projeto
+- Selo Casa Azul+ CAIXA HABITAR: concedido após conclusão da obra
+
+===============================================================
+NÍVEIS DE CERTIFICAÇÃO
+===============================================================
+
+O Selo é concedido em quatro níveis, conforme pontuação obtida
+e critérios obrigatórios atendidos:
+
+NÍVEL BRONZE (Cristal):
+- Pontuação mínima: 50 pontos
+- Critérios obrigatórios: 17 (Projetar) / 16 (Habitar)
+- Representa o nível de entrada da certificação
+
+NÍVEL PRATA (Topázio):
+- Pontuação mínima: 60 pontos
+- Critérios obrigatórios: 18 (Projetar) / 17 (Habitar)
+- Nível intermediário com desempenho superior ao Bronze
+
+NÍVEL OURO (Safira):
+- Pontuação mínima: 80 pontos
+- Critérios obrigatórios: 18 (Projetar) / 17 (Habitar)
+- Alto desempenho socioambiental
+
+NÍVEL DIAMANTE:
+- Pontuação mínima: 100 pontos
+- Critérios obrigatórios: 23 (Projetar) / 22 (Habitar)
+- Nível máximo de desempenho sustentável
+
+===============================================================
+CATEGORIAS DE AVALIAÇÃO (6 CATEGORIAS)
+===============================================================
+
+CATEGORIA 1 — QUALIDADE URBANA E BEM-ESTAR
+Objetivo: Verificar se a área atende ao dimensionamento e distribuição
+espacial que permita o acesso equânime à habitação e infraestrutura.
+
+Critérios:
+1.1 Qualidade e Infraestrutura no Espaço Urbano (OBRIGATÓRIO)
+    Pontuação: 2 a 4 pontos
+    O empreendimento deve estar inserido em área com infraestrutura
+    urbana consolidada: rede de água, esgoto, energia elétrica,
+    coleta de lixo, iluminação pública e pavimentação.
+
+1.2 Melhoria do Entorno (opcional)
+    Pontuação: 2 pontos
+    Implantação de melhorias no entorno: calçadas, áreas de lazer,
+    iluminação adicional ou arborização urbana.
+
+1.3 Recuperação de Área Degradada (opcional)
+    Pontuação: 2 pontos
+    Construção em área anteriormente degradada, contaminada ou
+    com vegetação de baixo valor ecológico.
+
+1.4 Reabilitação de Imóvel (opcional)
+    Pontuação: 2 pontos
+    Empreendimento resultante de reforma ou reabilitação de imóvel
+    existente, sem necessidade de nova infraestrutura.
+
+CATEGORIA 2 — PROJETO E CONFORTO
+Objetivo: Valorizar projetos que considerem as condições climáticas
+locais e promovam o conforto dos moradores.
+
+Critérios:
+2.1 Paisagismo (OBRIGATÓRIO)
+    Pontuação: 2 pontos
+    Implantação de vegetação nativa ou adaptada ao clima local
+    em pelo menos 10% da área do terreno.
+    Uso de espécies frutíferas ou medicinais é incentivado.
+
+2.2 Flexibilidade de Projeto (opcional)
+    Pontuação: 2 pontos
+    Projeto que permita ampliação ou adaptação futura sem
+    comprometimento estrutural.
+
+2.3 Desempenho Térmico — Vedações (OBRIGATÓRIO para Ouro e Diamante)
+    Pontuação: 0 a 4 pontos
+    Apresentar laudo de desempenho térmico conforme NBR 15575:2021.
+    A partir do nível Ouro, exige-se laudo com ART comprovando
+    atendimento ao Nível Intermediário ou Superior da NBR 15575.
+
+2.4 Desempenho Térmico — Orientação Solar (opcional)
+    Pontuação: 2 pontos
+    Orientação do maior eixo da edificação no sentido Leste-Oeste,
+    maximizando insolação no inverno e sombreamento no verão.
+
+2.5 Iluminação Natural dos Ambientes (OBRIGATÓRIO)
+    Pontuação: 0 a 4 pontos
+    Garantir iluminação natural mínima em todos os ambientes
+    de permanência prolongada, com percentual de abertura
+    para iluminação (PAI) mínimo conforme NBR 15575:
+    - Dormitórios e salas: 1/8 da área de piso
+    - Cozinhas: 1/8 da área de piso
+
+2.6 Ventilação e Circulação de Ar (OBRIGATÓRIO)
+    Pontuação: 0 a 4 pontos
+    Garantir ventilação cruzada em pelo menos 50% das unidades
+    habitacionais. Percentual de abertura para ventilação (PAV)
+    mínimo conforme NBR 15575:
+    - Dormitórios: 1/16 da área de piso
+    - Salas e cozinhas: 1/16 da área de piso
+
+2.7 Adequação às Condições Físicas do Terreno (opcional)
+    Pontuação: 2 pontos
+    Projeto que minimize movimentos de terra, aproveitando a
+    topografia existente.
+
+CATEGORIA 3 — EFICIÊNCIA ENERGÉTICA
+Objetivo: Estimular o uso eficiente de energia nas edificações.
+
+Critérios:
+3.1 Lâmpadas de Baixo Consumo nas Áreas Comuns (OBRIGATÓRIO)
+    Pontuação: 2 pontos
+    100% das luminárias em áreas comuns devem ser LED ou de
+    tecnologia equivalente com eficiência mínima de 75 lm/W.
+
+3.2 Dispositivos Economizadores — Áreas Comuns (opcional)
+    Pontuação: 2 pontos
+    Sensores de presença em corredores, escadas e garagens.
+    Dimmer ou automação de iluminação em áreas com luz natural.
+
+3.3 Sistemas de Aquecimento Solar (opcional)
+    Pontuação: 2 a 4 pontos
+    Instalação de sistema de aquecimento solar de água com
+    capacidade mínima de 40 L/dia por unidade habitacional.
+    Coletores com certificação ENCE nível A (INMETRO).
+
+3.4 Sistemas de Energia Renovável (opcional)
+    Pontuação: 2 a 4 pontos
+    Instalação de sistema fotovoltaico com capacidade mínima
+    para cobrir 10% do consumo das áreas comuns.
+
+3.5 Elevadores Eficientes (opcional — para edificações com elevador)
+    Pontuação: 2 pontos
+    Elevadores com acionamento por inversor de frequência e
+    iluminação LED interna.
+
+3.6 Monitoramento do Consumo de Energia (opcional)
+    Pontuação: 2 pontos
+    Sistema de medição individualizada de energia elétrica
+    por unidade habitacional e por área comum.
+
+CATEGORIA 4 — CONSERVAÇÃO DE RECURSOS MATERIAIS
+Objetivo: Estimular o uso consciente de materiais e a geração
+de resíduos sólidos da construção.
+
+Critérios:
+4.1 Coordenação Modular (opcional)
+    Pontuação: 2 pontos
+    Uso de coordenação modular no projeto, reduzindo perdas de
+    material por cortes desnecessários.
+
+4.2 Qualidade de Materiais e Componentes (OBRIGATÓRIO)
+    Pontuação: 0 pontos (obrigação)
+    Todos os materiais e componentes devem possuir certificação
+    de conformidade ou aprovação técnica.
+
+4.3 Componentes Industrializados ou Pré-fabricados (opcional)
+    Pontuação: 2 pontos
+    Uso de componentes industrializados que reduzam perdas e
+    acelerem o processo construtivo.
+
+4.4 Formas e Escoramentos Reutilizáveis (opcional)
+    Pontuação: 2 pontos
+    Uso de formas metálicas, plásticas ou de madeira reutilizável
+    por pelo menos 5 vezes.
+
+4.5 Gestão de Resíduos da Construção (OBRIGATÓRIO)
+    Pontuação: 2 pontos
+    Plano de gerenciamento de resíduos sólidos da construção (PGRCC)
+    com segregação por classe e destinação adequada:
+    Classe A (concreto, cerâmica, argamassa): reciclagem
+    Classe B (plástico, papel, vidro, metal): reciclagem
+    Classe C (gesso): destinação específica
+    Classe D (tintas, solventes, amianto): destinação especial
+
+4.6 Concreto com Escória ou Cinza Volante (opcional)
+    Pontuação: 2 pontos
+    Substituição de pelo menos 40% do cimento por escória de
+    alto-forno ou cinza volante (material pozolânico).
+
+CATEGORIA 5 — GESTÃO DA ÁGUA
+Objetivo: Promover o uso racional e a conservação da água.
+
+Critérios:
+5.1 Medição Individualizada da Água (OBRIGATÓRIO para Prata, Ouro e Diamante)
+    Pontuação: 2 a 4 pontos
+    Instalação de medidores individuais de consumo de água potável
+    por unidade habitacional (hidrômetros individuais).
+    Permite identificar vazamentos e promove uso consciente.
+
+5.2 Dispositivos Economizadores — Sistemas de Descarga (OBRIGATÓRIO)
+    Pontuação: 2 pontos
+    Vasos sanitários com caixa acoplada de duplo acionamento:
+    acionamento parcial: 3 L/descarga
+    acionamento total: 6 L/descarga
+    Meta: redução de até 40% no consumo de água em descargas.
+
+5.3 Dispositivos Economizadores — Torneiras e Chuveiros (OBRIGATÓRIO para Prata e acima)
+    Pontuação: 2 pontos
+    Torneiras de lavatório e pia com arejadores ou temporizadores:
+    Vazão máxima: 6 L/min (lavatório) e 8 L/min (pia de cozinha)
+    Chuveiros eficientes: máximo 6 L/min
+
+5.4 Aproveitamento de Águas Pluviais (opcional)
+    Pontuação: 2 a 4 pontos
+    Sistema de captação, armazenamento e uso de água pluvial
+    para fins não potáveis (irrigação, limpeza de calçadas, descarga).
+    Reservatório dimensionado para precipitação local.
+    Potencial de redução: 15 a 30% do consumo de água potável.
+
+5.5 Reúso de Águas Cinzas (opcional)
+    Pontuação: 2 a 4 pontos
+    Sistema de coleta, tratamento e reúso de água cinza
+    (lavatórios, chuveiros) para descargas sanitárias.
+    Tratamento mínimo: filtração e desinfecção.
+    Potencial de redução: 20 a 40% do consumo de água potável.
+
+5.6 Retenção de Águas Pluviais no Lote (opcional)
+    Pontuação: 2 pontos
+    Jardins de chuva, pavimentos permeáveis ou reservatórios de
+    detenção que reduzam o escoamento superficial em pelo menos 30%.
+
+CATEGORIA 6 — PRÁTICAS SOCIAIS
+Objetivo: Promover a educação ambiental e melhoria da qualidade
+de vida dos moradores e trabalhadores.
+
+Critérios:
+6.1 Educação para a Gestão de Resíduos Sólidos (OBRIGATÓRIO)
+    Pontuação: 2 pontos
+    Realização de ação educativa sobre coleta seletiva e
+    destinação adequada de resíduos antes da entrega das unidades.
+
+6.2 Educação Ambiental dos Empregados (opcional)
+    Pontuação: 2 pontos
+    Programa de treinamento ambiental para trabalhadores do canteiro
+    abordando: gestão de resíduos, uso racional de água e energia.
+
+6.3 Desenvolvimento Pessoal dos Empregados (opcional)
+    Pontuação: 2 pontos
+    Programas de qualificação profissional e alfabetização para
+    trabalhadores da obra.
+
+6.4 Capacitação para Gestão do Empreendimento (opcional)
+    Pontuação: 2 pontos
+    Treinamento dos moradores para uso e manutenção adequados
+    dos sistemas da edificação: instalações hidráulicas, elétricas,
+    equipamentos e gestão do condomínio.
+
+6.5 Ações para Mitigação de Riscos Sociais (opcional)
+    Pontuação: 2 pontos
+    Levantamento e plano de ação para mitigação de riscos sociais
+    identificados na área do empreendimento.
+
+===============================================================
+PROCESSO DE OBTENÇÃO DO SELO
+===============================================================
+
+PASSO 1 — INTENÇÃO DE PLEITEAR
+Manifestação de interesse pelo Selo junto à CAIXA no ato da
+contratação do financiamento habitacional.
+
+PASSO 2 — CARTA PROPOSTA PROJETAR
+Envio da Carta Proposta com documentação mínima comprovando
+o atendimento aos critérios selecionados na fase de projeto.
+
+PASSO 3 — ANÁLISE CAIXA PROJETAR
+A CAIXA analisa a documentação e, em caso de aprovação, emite
+o Certificado do Selo Casa Azul+ CAIXA Projetar no nível alcançado.
+
+PASSO 4 — EXECUÇÃO DA OBRA
+Durante a obra, a CAIXA realiza o acompanhamento de engenharia
+verificando a conformidade com o projeto certificado.
+
+PASSO 5 — CARTA PROPOSTA HABITAR
+Após conclusão da obra, envio da Carta Proposta Habitar com
+documentação comprovando a implantação das soluções projetadas.
+
+PASSO 6 — ANÁLISE CAIXA HABITAR
+Vistoria técnica da CAIXA na obra concluída. Aprovação resulta
+no Certificado do Selo Casa Azul+ CAIXA Habitar.
+
+===============================================================
+IDENTIFICADORES #MAIS
+===============================================================
+
+O Selo admite identificadores especiais (#MAIS) que reconhecem
+desempenho exemplar em categorias específicas:
+
+#MaisQualidadeUrbana: excelência em mobilidade e infraestrutura
+#MaisEficiênciaEnergética: geração própria de energia renovável
+#MaisGestãoÁgua: uso de pelo menos 2 estratégias de conservação hídrica
+#MaisPráticasSociais: programa social abrangente durante e após a obra
+#MaisInovação: uso de tecnologia inovadora certificada

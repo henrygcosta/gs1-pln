@@ -1,0 +1,253 @@
+IEA Tracking Clean Energy Progress — Buildings Sector
+International Energy Agency (IEA)
+Relatório de acompanhamento 2023 | Paris, França
+Idioma: Inglês
+
+===============================================================
+EXECUTIVE SUMMARY — BUILDINGS SECTOR 2023
+===============================================================
+
+The buildings sector remains off track for achieving net zero emissions
+by mid-century. Despite progress in some areas, the pace of
+decarbonization is insufficient to meet the IEA's Net Zero Emissions
+by 2050 Scenario (NZE Scenario).
+
+KEY FIGURES (2022 data):
+- Buildings sector share of global final energy consumption: 30%
+- Direct CO2 emissions from buildings operations: 3 Gt CO2 (26% of global)
+- Indirect CO2 emissions (from electricity used in buildings): 6.8 Gt CO2
+- Total buildings sector emissions (direct + indirect): approximately 10 Gt CO2
+- Buildings account for over 40% of total energy-related emissions
+  when including embodied carbon from construction materials.
+
+ASSESSMENT: Buildings sector — "More efforts needed" (TCEP 2023)
+Only Building Lighting received "On Track" status.
+
+===============================================================
+SECTION 1 — ENERGY CONSUMPTION TRENDS
+===============================================================
+
+1.1 GLOBAL ENERGY CONSUMPTION
+Buildings consumed approximately 130 EJ of final energy in 2022.
+This represents 30% of global total final energy consumption.
+
+Breakdown by end use:
+- Space heating: 42% of buildings energy consumption
+- Water heating: 18%
+- Lighting: 14%
+- Cooling: 10%
+- Cooking: 9%
+- Appliances and other: 7%
+
+1.2 REGIONAL DISTRIBUTION
+China: largest buildings energy consumer globally (~25% of total)
+United States: second largest (~20%)
+European Union: ~15%
+Developing Asia (ex-China): fastest growing region
+
+1.3 FLOOR AREA GROWTH
+Global buildings floor area grew by approximately 2.5% annually,
+reaching approximately 235 billion m² in 2022.
+By 2050, floor area is projected to reach 330 billion m².
+This growth — concentrated in emerging economies — poses a
+major challenge: new buildings being constructed today will
+determine energy patterns for the next 50 years.
+
+===============================================================
+SECTION 2 — EMISSIONS AND CLIMATE TARGETS
+===============================================================
+
+2.1 CURRENT EMISSIONS STATUS
+Direct CO2 emissions from buildings declined slightly in 2022
+(approximately 3.0 Gt CO2) compared to 2021 peak.
+However, this decline is insufficient — emissions must fall
+by 50% from 2022 levels by 2030 to align with NZE Scenario.
+
+2.2 NZE SCENARIO REQUIREMENTS
+To reach net zero by 2050, the buildings sector must achieve:
+- 50% reduction in operational emissions by 2030
+- Zero-carbon-ready new buildings by 2030 in all markets
+- Deep renovation of at least 2.5% of existing building stock annually
+- Full electrification of space and water heating by 2030 in new buildings
+- 25% reduction in embodied carbon from steel by 2030
+- 20% reduction in embodied carbon from cement by 2030
+
+2.3 EMISSIONS INTENSITY
+Global operational emissions intensity:
+- 2022: approximately 23 kgCO2/m² (global average)
+- NZE 2030 target: approximately 12 kgCO2/m²
+- NZE 2050 target: approximately 2 kgCO2/m²
+
+===============================================================
+SECTION 3 — KEY TECHNOLOGY AREAS
+===============================================================
+
+3.1 BUILDING ENVELOPES
+Status: More efforts needed
+Improving the thermal performance of building envelopes is the
+single largest opportunity for reducing buildings energy demand.
+
+Key metrics:
+- Only about 1% of existing buildings undergo deep renovation annually
+- Target: 2.5% annual renovation rate by 2030
+- Energy savings potential from envelope upgrades: up to 70%
+
+Technologies:
+- High-performance insulation (EPS, XPS, PIR, mineral wool)
+- Triple-pane windows (U-value ≤ 0.8 W/m²K)
+- Phase-change materials for thermal mass
+- Vacuum insulation panels (emerging)
+
+3.2 SPACE HEATING AND COOLING
+Status: More efforts needed
+
+Heat pumps — key technology for decarbonization:
+- Sales of heat pumps increased 11% in 2022 globally
+- Still only represent ~12% of heating equipment sales
+- Coefficient of Performance (COP): 2.5 to 5.0 (seasonal average)
+- Heat pumps must reach 50% of all new heating sales by 2025 (NZE)
+
+Air conditioning:
+- Global cooling demand is rising rapidly (climate change)
+- Minimum Energy Performance Standards (MEPS) critical
+- Smart thermostats and demand response integration needed
+
+3.3 LIGHTING
+Status: ON TRACK (only sector in buildings reaching this status)
+LED adoption exceeded 50% of global lighting stock in 2022.
+LED lifetime: 15,000 to 50,000 hours vs 1,000 hours for incandescent
+LED efficiency: 80 to 200 lm/W vs 10-15 lm/W for incandescent
+Projected savings: LED transition could save 1,400 TWh globally by 2030.
+
+3.4 APPLIANCES AND EQUIPMENT
+Status: More efforts needed
+Appliance energy standards must cover >80% of sales in all markets.
+Key appliances for efficiency: refrigerators, washing machines, TVs.
+Standby power remains a significant waste: ~1% of global electricity.
+
+3.5 WATER HEATING
+Solar thermal and heat pump water heaters are key alternatives
+to fossil fuel and resistance electric water heating.
+Heat pump water heaters: 3-4x more efficient than resistance heating.
+Solar thermal collectors: displace 60-80% of water heating demand.
+
+===============================================================
+SECTION 4 — BUILDING ENERGY CODES AND STANDARDS
+===============================================================
+
+4.1 GLOBAL STATUS OF BUILDING CODES
+Approximately 60% of countries have mandatory building energy codes.
+However, only about 35% have codes that cover both residential and
+commercial buildings comprehensively.
+
+Key finding: Countries without mandatory codes are responsible for
+a rapidly growing share of new construction.
+
+4.2 ZERO-CARBON-READY BUILDINGS
+Definition: A zero-carbon-ready building is highly energy efficient
+and either uses low-carbon energy directly or is enabled to do so
+with changes to the energy system.
+
+Progress: Only 5 countries have adopted zero-carbon-ready building
+standards for new construction: Norway, Denmark, Germany, Netherlands,
+and France (EU directive-driven).
+
+4.3 MINIMUM ENERGY PERFORMANCE STANDARDS (MEPS)
+Appliance MEPS in place in countries representing >70% of global sales.
+Building code MEPS adopted by countries representing ~60% of global floor area.
+
+===============================================================
+SECTION 5 — NET ZERO ENERGY BUILDINGS (NZEB)
+===============================================================
+
+5.1 DEFINITION
+A Net Zero Energy Building (NZEB) produces as much energy from
+renewable sources as it consumes on an annual basis.
+
+Key elements:
+- Ultra-low energy demand (typically <30 kWh/m²/year for space heating)
+- High-performance building envelope (super-insulation, air-tightness)
+- Efficient mechanical systems (heat recovery ventilation)
+- On-site renewable energy generation (typically photovoltaic)
+- Energy storage (battery or thermal) for demand flexibility
+
+5.2 CURRENT STATUS
+NZEBs represent less than 0.5% of global building stock.
+However, with strong policies and falling renewable costs,
+NZEBs are becoming economically viable in an increasing number
+of markets, including in emerging economies.
+
+5.3 PASSIVE HOUSE STANDARD
+The Passive House (Passivhaus) standard is the leading NZEB framework:
+- Heating demand: ≤ 15 kWh/m²/year
+- Total primary energy: ≤ 120 kWh/m²/year
+- Air leakage: ≤ 0.6 air changes per hour at 50 Pa
+- Over 65,000 certified buildings globally (2023)
+
+===============================================================
+SECTION 6 — RETROFITTING EXISTING BUILDINGS
+===============================================================
+
+6.1 IMPORTANCE OF RETROFITS
+Existing buildings represent the greatest decarbonization challenge:
+- 80% of buildings standing in 2050 already exist today
+- Deep retrofits can reduce energy consumption by 50-80%
+- Average building lifetime: 50-100 years
+- High retrofit costs are the primary barrier
+
+6.2 RETROFIT LEVELS
+Shallow retrofit: simple measures — insulation top-up, LED lighting
+(energy reduction: 10-30%, cost: $50-200/m²)
+
+Medium retrofit: envelope improvements + system upgrades
+(energy reduction: 30-50%, cost: $200-500/m²)
+
+Deep retrofit: whole-building approach, near-NZEB performance
+(energy reduction: 60-80%, cost: $500-1,500/m²)
+
+6.3 FINANCING MECHANISMS
+Green mortgages, on-bill financing, energy performance contracts (EPC),
+and government incentive programs are key enablers.
+IEA recommends combining minimum energy standards for existing buildings
+with accessible financing to overcome the split incentive problem.
+
+===============================================================
+SECTION 7 — DIGITAL TECHNOLOGIES IN BUILDINGS
+===============================================================
+
+7.1 BUILDING AUTOMATION AND CONTROL SYSTEMS (BACS)
+Smart building controls can reduce energy consumption by 10-30%
+with minimal capital investment.
+Key systems: smart thermostats, occupancy sensors, demand-controlled
+ventilation, predictive heating/cooling algorithms.
+
+7.2 DIGITAL TWINS
+Building digital twins enable real-time monitoring and optimization
+of energy performance.
+Projected savings from digital optimization: 5-15% of building energy.
+
+7.3 ARTIFICIAL INTELLIGENCE
+AI-based predictive control of HVAC and lighting systems:
+- Occupancy prediction: 10-20% HVAC energy savings
+- Grid interaction optimization: shifting flexible loads to low-carbon periods
+- Predictive maintenance: reducing equipment energy waste from degradation
+
+===============================================================
+SECTION 8 — POLICY RECOMMENDATIONS
+===============================================================
+
+IEA KEY POLICY RECOMMENDATIONS FOR BUILDINGS:
+
+1. Mandatory zero-carbon-ready building codes for all new construction by 2025
+2. Minimum energy performance standards for existing buildings
+3. Strong financial incentives for deep retrofits
+4. Accelerated adoption of heat pumps — phase-out of fossil fuel heating
+5. Mandatory disclosure of building energy performance ratings
+6. Carbon pricing to drive investment in low-carbon buildings
+7. Skills and workforce development for green construction
+8. Urban planning to support compact, transit-oriented development
+
+"The buildings sector has some of the most cost-effective
+decarbonization opportunities available. What is missing is
+not technology but rather policy ambition and implementation."
+— IEA World Energy Outlook 2023

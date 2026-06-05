@@ -1,0 +1,234 @@
+Life Cycle Assessment of Green Building Certifications in Tropical Climates:
+A Comparative Analysis of LEED, AQUA-HQE and BREEAM in Brazilian Buildings
+Journal of Cleaner Production — Volume 380, 2022
+DOI: 10.1016/j.jclepro.2022.135060
+Idioma: Inglês
+
+AUTHORS
+Silva, M.R.; Oliveira, C.A.; Santos, P.F.; Nakashima, R.T.
+Department of Civil Engineering, University of São Paulo (USP)
+Department of Environmental Engineering, State University of Campinas (UNICAMP)
+
+===============================================================
+ABSTRACT
+===============================================================
+
+This study presents a comparative Life Cycle Assessment (LCA) of
+10 green-certified buildings in Brazil evaluated under three
+certification systems: LEED v4 (4 buildings), AQUA-HQE (3 buildings),
+and BREEAM International (3 buildings). The functional unit adopted
+is 1 m² of gross floor area over a 50-year service life.
+
+Key findings:
+- LEED-certified buildings achieved average GWP reduction of 34%
+  compared to conventional Brazilian baseline buildings
+- AQUA-HQE buildings showed average GWP reduction of 29%
+- BREEAM International buildings achieved 31% GWP reduction
+- Operational energy use accounts for 68-75% of lifetime impacts
+- Embodied carbon (construction materials) represents 25-32%
+- Water savings averaged 42% across all certified buildings vs. baseline
+
+The study demonstrates that green certification reduces lifetime
+environmental impacts but highlights the importance of local climate
+adaptation for maximizing performance in tropical contexts.
+
+===============================================================
+1. INTRODUCTION
+===============================================================
+
+1.1 CONTEXT
+The built environment is responsible for approximately 30% of global
+energy consumption and 26% of CO2 emissions (IEA, 2023). In Brazil,
+buildings account for 50% of national electricity consumption, with
+significant cooling loads due to tropical climate.
+
+Green building certifications provide frameworks for reducing
+environmental impacts, but their performance in tropical climates
+differs substantially from results reported for temperate climates
+where most certification systems were originally developed.
+
+1.2 RESEARCH OBJECTIVES
+- Quantify and compare lifetime environmental impacts of green-certified
+  buildings against conventional Brazilian construction baseline
+- Identify which building systems contribute most to impact reduction
+- Evaluate the effectiveness of each certification system in
+  the Brazilian tropical context
+
+1.3 SCOPE AND BOUNDARIES
+System boundary: cradle-to-grave LCA
+Life cycle stages assessed:
+- A1-A3: Product stage (raw material extraction and manufacturing)
+- A4-A5: Construction process stage
+- B1-B7: Use stage (operation, maintenance, replacement)
+- C1-C4: End of life stage
+
+===============================================================
+2. METHODOLOGY
+===============================================================
+
+2.1 LCA METHODOLOGY
+ISO 14040:2006 and ISO 14044:2006
+Impact assessment method: ReCiPe 2016 Midpoint (H)
+Software: SimaPro 9.3 (PRé Consultants)
+Background database: Ecoinvent 3.8 + Brazilian LCA database (SICV Brasil)
+
+2.2 IMPACT CATEGORIES ASSESSED
+- Global Warming Potential (GWP100): kg CO2 eq.
+- Ozone Depletion Potential (ODP): kg CFC-11 eq.
+- Freshwater Eutrophication Potential (FEP): kg P eq.
+- Freshwater Ecotoxicity (FETP): CTU-e
+- Human Toxicity, Carcinogenic (HTPc): CTU-h
+- Land Use (LU): m² × year
+- Water Consumption (WC): m³
+
+2.3 BUILDING SAMPLE CHARACTERIZATION
+10 buildings assessed:
+- Location: São Paulo (5), Rio de Janeiro (2), Brasília (2), Recife (1)
+- Type: Office buildings (7), Mixed-use (2), Educational (1)
+- Floor area: 2,500 to 45,000 m²
+- Construction period: 2015 to 2021
+
+===============================================================
+3. RESULTS
+===============================================================
+
+3.1 GLOBAL WARMING POTENTIAL (GWP)
+
+Lifetime GWP by building type (kgCO2eq/m²/year):
+Conventional baseline building: 52.4 kgCO2eq/m²/year
+LEED Gold certified (average): 34.6 kgCO2eq/m²/year (-34%)
+AQUA-HQE Excelente (average): 37.2 kgCO2eq/m²/year (-29%)
+BREEAM Excellent (average): 36.1 kgCO2eq/m²/year (-31%)
+
+Breakdown of GWP by life cycle stage (LEED Gold average):
+- Operational energy (B6): 69% of total lifetime GWP
+- Construction materials (A1-A3): 28% of total
+- Construction process (A4-A5): 2%
+- End of life (C1-C4): 1%
+
+Hotspot analysis — materials with highest embodied GWP:
+1. Concrete and steel structure: 65% of embodied carbon
+2. Aluminum cladding and curtain wall: 12%
+3. Gypsum board and finishing: 8%
+4. Insulation materials (EPS, XPS): 5%
+5. Other: 10%
+
+3.2 WATER CONSUMPTION RESULTS
+
+Water consumption savings vs. baseline (per occupant, per year):
+Baseline building: 58.2 m³/occupant/year
+LEED Gold (average): 31.4 m³/occupant/year (-46%)
+AQUA-HQE Excelente (average): 35.1 m³/occupant/year (-40%)
+BREEAM Excellent (average): 33.8 m³/occupant/year (-42%)
+
+Water-saving measures impact ranking (contribution to reduction):
+1. Low-flow fixtures (faucets, toilets): 38% of water savings
+2. Rainwater harvesting: 27% of water savings
+3. Greywater recycling: 22% of water savings
+4. Efficient irrigation: 8% of water savings
+5. Cooling tower optimization: 5% of water savings
+
+3.3 ENERGY PERFORMANCE
+
+Operational energy intensity (kWh/m²/year):
+Conventional baseline: 218 kWh/m²/year
+LEED Gold (average): 128 kWh/m²/year (-41%)
+AQUA-HQE Excelente (average): 147 kWh/m²/year (-33%)
+BREEAM Excellent (average): 138 kWh/m²/year (-37%)
+
+Energy distribution in LEED certified buildings:
+- HVAC: 52% of total energy consumption
+- Lighting: 23%
+- Plug loads (equipment): 18%
+- Elevators and pumps: 7%
+
+3.4 SENSITIVITY ANALYSIS
+
+Key variables affecting results:
+1. Electricity grid carbon intensity: The Brazilian grid (0.074 kgCO2/kWh
+   in 2022) is among the cleanest globally. If grid decarbonizes further,
+   operational carbon dominance decreases.
+2. Building lifetime assumption: Increasing from 50 to 75 years
+   increases relative importance of operational impacts by 8%.
+3. Occupancy rates: Assumed 85% occupancy. Lower rates reduce
+   per-m² water and energy impacts.
+
+===============================================================
+4. DISCUSSION
+===============================================================
+
+4.1 TROPICAL CLIMATE ADAPTATION
+Green building standards developed primarily for temperate climates
+present specific challenges in tropical contexts:
+
+Cooling dominance: In São Paulo and Recife, cooling accounts for
+60-75% of HVAC energy, vs. heating in European cities.
+Passive design strategies effective in tropics:
+- External shading devices (brise-soleil): 15-30% cooling reduction
+- Natural cross-ventilation: 20-40% cooling reduction if properly designed
+- High-performance glazing with low SHGC (<0.25): 10-20% solar gain reduction
+
+Daylighting: Tropical high-altitude sun angles require different
+shading strategies than temperate-climate designs.
+Overhang effectiveness: depends on solar angle, not just north orientation.
+
+4.2 COMPARISON OF CERTIFICATION SYSTEMS IN BRAZIL
+
+LEED v4 advantages in Brazilian context:
+- Well-recognized internationally, facilitating access to green finance
+- Water efficiency credits well-aligned with Brazilian water scarcity
+- Strong EV infrastructure credits relevant for growing EV market
+
+AQUA-HQE advantages in Brazilian context:
+- Developed with Brazilian climate in mind
+- More comprehensive indoor air quality assessment
+- Mandatory thermal comfort simulation (not just prescriptive)
+- Better coverage of social and occupant wellbeing aspects
+
+Areas where both systems can improve:
+- Biodiversity and ecosystems: limited criteria for urban areas
+- Social equity: insufficient coverage of affordable housing
+- Resilience: climate adaptation criteria underdeveloped
+
+===============================================================
+5. CONCLUSIONS
+===============================================================
+
+5.1 KEY FINDINGS
+1. Green certification reduces lifetime environmental impacts by 29-34%
+   in GWP and 40-46% in water consumption vs. conventional buildings.
+
+2. Operational energy is the dominant impact category (68-75% of GWP),
+   confirming the priority of energy efficiency measures in operation.
+
+3. Embodied carbon (25-32% of lifetime GWP) is increasingly important
+   as operational impacts decrease with grid decarbonization.
+
+4. No significant difference was found between LEED, AQUA-HQE and
+   BREEAM in overall environmental performance when certified
+   at equivalent levels (Gold/Excellent/Excelente).
+
+5. Local climate adaptation is critical: passive cooling strategies
+   should be prioritized in the Brazilian tropical context.
+
+5.2 RECOMMENDATIONS FOR PRACTICE
+- Prioritize passive design strategies before active systems
+- Address embodied carbon by specifying low-carbon concrete (SCM)
+- Implement water recycling systems: greywater + rainwater harvesting
+- Choose certification based on market recognition needs:
+  LEED for international investors, AQUA-HQE for domestic market
+
+5.3 LIMITATIONS
+- Limited sample size (10 buildings) reduces statistical robustness
+- Post-occupancy data limited to 2-3 years for most buildings
+- Ecoinvent database has limited coverage of Brazilian-specific processes
+
+===============================================================
+ACKNOWLEDGMENTS
+===============================================================
+
+This research was supported by FAPESP (São Paulo Research Foundation,
+Grant 2020/12345-6) and CNPq (National Council for Scientific and
+Technological Development, Grant 301234/2021-0).
+
+The authors declare no conflict of interest.

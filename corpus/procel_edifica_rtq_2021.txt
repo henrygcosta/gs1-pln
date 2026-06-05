@@ -1,0 +1,225 @@
+PROCEL Edifica — Regulamento Técnico da Qualidade para Eficiência Energética
+RTQ-C (Edificações Comerciais, de Serviços e Públicas)
+RTQ-R (Edificações Residenciais)
+INMETRO / ELETROBRAS PROCEL — 2021
+Idioma: Português
+
+===============================================================
+APRESENTAÇÃO DO PROCEL EDIFICA
+===============================================================
+
+O PROCEL Edifica é o programa de eficiência energética em edificações
+do Programa Nacional de Conservação de Energia Elétrica (PROCEL),
+gerido pela Eletrobras em parceria com o INMETRO.
+
+O sistema de etiquetagem energética (ENCE) avalia e classifica o
+desempenho energético de edificações na escala de A (mais eficiente)
+a E (menos eficiente).
+
+MODALIDADES DE ETIQUETAGEM:
+- Etiquetagem Projetada: realizada na fase de projeto, antes da construção
+  Validade: até a entrega do empreendimento
+- Etiquetagem As-Built (Construída): realizada após conclusão da obra
+  Validade: 5 anos, podendo ser renovada
+
+O PROCEL Edifica é voluntário, mas é exigido por órgãos públicos
+para concessão de financiamentos incentivados e participação em
+programas governamentais de eficiência energética.
+
+===============================================================
+RTQ-C — EDIFICAÇÕES COMERCIAIS, DE SERVIÇOS E PÚBLICAS
+===============================================================
+
+SEÇÃO 1 — SISTEMAS AVALIADOS
+
+O RTQ-C avalia três sistemas prediais de forma independente:
+
+SISTEMA 1 — ENVOLTÓRIA
+Avalia o desempenho térmico e luminoso da envoltória (paredes,
+coberturas, aberturas, elementos de sombreamento).
+
+Indicador: Indicador de Consumo da Envoltória (ICenv)
+O ICenv é calculado por equação que considera:
+- Transmitância térmica das paredes (U em W/m²K)
+- Absortância solar das paredes (α)
+- Transmitância térmica da cobertura (U em W/m²K)
+- Absortância solar da cobertura (α)
+- Percentual de abertura de fachada (PAF)
+- Ângulo Vertical de Sombreamento (AVS) por fachada
+- Ângulo Horizontal de Sombreamento (AHS) por fachada
+
+Classificação da envoltória:
+- Nível A: ICenv ≤ ICenv_máx_A
+- Nível B: ICenv_máx_A < ICenv ≤ ICenv_máx_B
+- Nível C: ICenv_máx_B < ICenv ≤ ICenv_máx_C
+- Nível D: ICenv_máx_C < ICenv ≤ ICenv_máx_D
+- Nível E: ICenv > ICenv_máx_D
+
+Os limites de ICenv variam por zona bioclimática (ZB 1 a 8)
+e por tipo de edificação (escritório, hotel, shopping, etc.).
+
+SISTEMA 2 — SISTEMA DE ILUMINAÇÃO ARTIFICIAL
+Avalia a eficiência do sistema de iluminação instalado.
+
+Indicador: Densidade de Potência de Iluminação (DPI em W/m²)
+DPI = Potência total instalada (W) / Área iluminada (m²)
+
+DPI máxima para nível A (escritórios):
+- Zona Bioclimática 1 a 3: DPI ≤ 8,0 W/m²
+- Zona Bioclimática 4 a 8: DPI ≤ 9,5 W/m²
+
+DPI máxima por tipo de ambiente (exemplos):
+- Escritório aberto: DPI ≤ 9,5 W/m²
+- Sala de reunião: DPI ≤ 12,5 W/m²
+- Auditório: DPI ≤ 11,5 W/m²
+- Corredor: DPI ≤ 6,0 W/m²
+- Banheiro: DPI ≤ 8,0 W/m²
+- Garagem: DPI ≤ 3,0 W/m²
+
+Tecnologias aceitas: LED, fluorescente T5, indução.
+Incandescente e halógeno: não aceitos para nível A.
+
+Automação de iluminação (adicional de pontos):
+- Sensor de presença em ambientes com ocupação variável: +0,5 ponto
+- Sensor de luz natural (daylight harvesting): +0,5 ponto
+- Temporizador em ambientes de uso eventual: +0,5 ponto
+
+SISTEMA 3 — SISTEMA DE CONDICIONAMENTO DE AR
+Avalia a eficiência dos equipamentos de ar-condicionado instalados.
+
+Indicador: Coeficiente de Performance (COP) ou EER
+- COP para aquecimento (ciclo reverso)
+- EER (Energy Efficiency Ratio) para resfriamento
+
+Classificação de equipamentos por tipo:
+
+Split convencional e multi-split:
+- Nível A: EER ≥ 3,02 (12.000 BTU/h) ou EER ≥ 2,93 (24.000 BTU/h)
+- Nível B: EER ≥ 2,75 (12.000 BTU/h)
+- Nível C: EER ≥ 2,50 (12.000 BTU/h)
+
+Sistemas centrais (chillers de expansão indireta):
+- Classificados por kW de refrigeração/kW elétrico consumido
+- Nível A para chiller centrífugo: EER ≥ 5,80
+
+VRF (Variable Refrigerant Flow):
+- Nível A: COP ≥ 3,5 (aquecimento), EER ≥ 3,0 (resfriamento)
+
+SEÇÃO 2 — PONTUAÇÃO E CLASSIFICAÇÃO FINAL
+
+A classificação final (ENCE geral) é calculada por média ponderada:
+
+EqNum_total = (EqNum_env × A_env + EqNum_il × A_il + EqNum_ac × A_ac) /
+               (A_env + A_il + A_ac)
+
+onde EqNum = equivalente numérico de cada sistema (A=5, B=4, C=3, D=2, E=1)
+
+Classificação final:
+- Nível A: EqNum_total ≥ 4,5
+- Nível B: 3,5 ≤ EqNum_total < 4,5
+- Nível C: 2,5 ≤ EqNum_total < 3,5
+- Nível D: 1,5 ≤ EqNum_total < 2,5
+- Nível E: EqNum_total < 1,5
+
+Para obtenção da etiqueta nível A, os três sistemas devem atingir
+individualmente a classificação máxima (EqNum ≥ 4,5 em cada sistema).
+
+SEÇÃO 3 — MÉTODOS DE AVALIAÇÃO
+
+MÉTODO PRESCRITIVO:
+Verificação direta de parâmetros construtivos e especificações
+de equipamentos em tabelas do regulamento.
+Mais simples, porém mais conservador (menos favorável ao projeto).
+
+MÉTODO DE SIMULAÇÃO:
+Modelagem computacional do consumo energético da edificação usando
+softwares validados pelo PROCEL (EnergyPlus, DesignBuilder, etc.).
+Permite compensações entre sistemas (ex.: envoltória excelente
+compensa condicionamento menos eficiente).
+
+SEÇÃO 4 — PONDERAÇÃO POR ZONA BIOCLIMÁTICA
+
+Os parâmetros de referência (limites de ICenv, DPI e COP) variam
+pelas 8 zonas bioclimáticas brasileiras:
+
+Zona 1 (fria): maior rigor para aquecimento, menos para resfriamento
+Zona 4 (planalto central): rigor equilibrado entre aquecimento e resfriamento
+Zona 8 (Amazônia): maior rigor para resfriamento, menor para aquecimento
+
+===============================================================
+RTQ-R — EDIFICAÇÕES RESIDENCIAIS
+===============================================================
+
+SEÇÃO 5 — UNIDADE HABITACIONAL AUTÔNOMA (UH)
+
+O RTQ-R avalia a unidade habitacional (apartamento ou casa) em
+três categorias:
+- Envoltória (obrigatório)
+- Aquecimento de água (quando aplicável)
+- Bonificações (ventilação natural, iluminação, geração renovável)
+
+ENVOLTÓRIA RESIDENCIAL:
+Indicador de Grau Hora de Resfriamento (GHR)
+
+GHR = Σ (Ti - Tbase) × Δt    para Ti > Tbase
+
+onde:
+Ti = temperatura interna simulada (°C)
+Tbase = temperatura base de conforto = 26°C
+Δt = intervalo de tempo de simulação (horas)
+
+Classificação por GHR:
+- Nível A: GHR ≤ 0 (edificação passiva em resfriamento)
+- Nível B: 0 < GHR ≤ GHR_max_B
+- Nível C: GHR_max_B < GHR ≤ GHR_max_C (linha de base)
+- Nível D: GHR_max_C < GHR ≤ GHR_max_D
+- Nível E: GHR > GHR_max_D
+
+Os limites de GHR variam por zona bioclimática e por tamanho da UH.
+
+SEÇÃO 6 — EDIFICAÇÃO COMO UM TODO (ÁREA COMUM)
+
+Sistemas avaliados nas áreas comuns:
+- Iluminação das áreas comuns (corredores, hall, garagem)
+- Sistema de aquecimento de água coletivo (quando aplicável)
+- Elevadores (em edificações acima de 4 pavimentos)
+
+DPI máximo para áreas comuns:
+- Corredores e halls: DPI ≤ 5,0 W/m²
+- Garagens: DPI ≤ 3,0 W/m²
+- Escadas: DPI ≤ 4,0 W/m²
+
+SEÇÃO 7 — BONIFICAÇÕES RESIDENCIAIS
+
+Ventilação natural (até 0,5 ponto): edificações com percentual de
+abertura efetiva de janelas ≥ 8% da área de piso em dormitórios.
+
+Iluminação natural (até 0,5 ponto): ambientes com PAI ≥ 1/8 da
+área de piso em todos os cômodos de permanência prolongada.
+
+Geração de energia renovável (até 1,0 ponto):
+- Sistema fotovoltaico cobrindo ≥ 10% do consumo da UH: +0,5
+- Sistema fotovoltaico cobrindo ≥ 50% do consumo da UH: +1,0
+
+Aquecimento solar de água (até 1,0 ponto):
+- AQS solar cobrindo ≥ 40% da demanda: +0,5
+- AQS solar cobrindo ≥ 80% da demanda: +1,0
+
+===============================================================
+SEÇÃO 8 — RESPONSABILIDADE TÉCNICA
+===============================================================
+
+A etiquetagem PROCEL exige:
+- Profissional habilitado (engenheiro ou arquiteto com CREA/CAU)
+- ART (Anotação de Responsabilidade Técnica) pelo profissional
+- OAC (Organismo de Avaliação da Conformidade) credenciado pelo INMETRO
+
+Organismos credenciados: FALQ (PUC-Rio), LABCON (UFSC),
+LEPTEN (UFSC), LABEEE (UFSC), dentre outros.
+
+PENALIDADES:
+Declaração falsa ou fraudulenta de classificação energética é
+passível de sanções pelo INMETRO e pelo Código de Defesa do Consumidor.
+
+A ENCE deve ser afixada de forma visível no acesso principal
+da edificação após conclusão da certificação as-built.

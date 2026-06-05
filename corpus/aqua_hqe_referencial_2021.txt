@@ -1,0 +1,256 @@
+Referencial Técnico de Certificação AQUA-HQE — Edifícios em Construção
+Fundação Vanzolini / Cerway
+Edição 2021 — Idioma: Português
+
+===============================================================
+APRESENTAÇÃO DO SISTEMA AQUA-HQE
+===============================================================
+
+O AQUA-HQE (Alta Qualidade Ambiental — Haute Qualité Environnementale)
+é um sistema de certificação de sustentabilidade de edificações desenvolvido
+originalmente na França pelo Cerway e adaptado para o Brasil pela Fundação
+Vanzolini desde 2008.
+
+O sistema avalia o desempenho ambiental da edificação em 14 categorias
+técnicas, agrupadas em 4 temas: Ecoconstrução, Ecoclima, Ecosaúde e
+Ecosite.
+
+Níveis de certificação:
+- Bom (Bon): nível mínimo de certificação
+- Muito Bom (Très Bon): desempenho superior
+- Excelente (Excellent): alto desempenho
+- Excepcional (Exceptionnel): máximo nível de desempenho
+
+===============================================================
+TEMA 1: ECOCONSTRUÇÃO
+===============================================================
+
+Categoria 1 — Relação do Edifício com Seu Entorno
+Avaliar o impacto da edificação sobre seu entorno imediato:
+- Análise do terreno antes do projeto (topografia, ventos, sol)
+- Proteção e valorização do patrimônio vegetal e da biodiversidade
+- Gestão do escoamento pluvial no terreno
+- Controle de perturbações para a vizinhança (poeira, ruído, luz)
+
+Critérios de desempenho:
+BASE: Atender às regulamentações locais de uso e ocupação do solo
+BOAS PRATICAS: Mapa de ventos e estudo de sombreamento realizados
+MELHORES PRATICAS: Análise de ilhas de calor e plano de vegetação nativa
+
+Categoria 2 — Escolha Integrada de Produtos, Sistemas e Processos Construtivos
+Duração de vida dos produtos e sistemas construtivos.
+Adaptabilidade e manutenção dos sistemas.
+Impactos ambientais dos produtos de construção.
+
+Critérios de desempenho:
+BASE: Duração de vida mínima de 30 anos para estrutura
+BOAS PRATICAS: ACV (Análise do Ciclo de Vida) realizada para estrutura
+MELHORES PRATICAS: ACV de toda a envoltória, incluindo caixilhos
+
+Categoria 3 — Canteiro de Obras com Baixo Impacto Ambiental
+Gestão ambiental do canteiro de obras:
+- Plano de gestão ambiental do canteiro
+- Controle de resíduos de construção (classes A, B, C e D)
+- Preservação dos recursos naturais (água, energia) no canteiro
+- Treinamento ambiental dos trabalhadores
+
+Meta: Desvio de aterro de pelo menos 60% dos resíduos de construção.
+
+===============================================================
+TEMA 2: ECOCLIMA
+===============================================================
+
+Categoria 4 — Gestão de Energia
+
+4.1 CONSUMO DE ENERGIA PRIMÁRIA
+A edificação deve demonstrar redução no consumo de energia primária
+em relação à linha de base regulamentar brasileira (PROCEL Edifica RTQ-C).
+
+Metas de redução:
+BASE: Atender ao RTQ-C nível A para cada sistema avaliado
+BOAS PRATICAS: Redução de 20% em relação ao consumo de referência
+MELHORES PRATICAS: Redução de 40% em relação ao consumo de referência
+EXCEPCIONAL: Edificação Net Zero Energy (balanço energético nulo ou positivo)
+
+4.2 FONTES DE ENERGIA RENOVÁVEL
+O uso de energias renováveis é incentivado:
+- Energia fotovoltaica integrada à edificação (BIPV)
+- Aquecimento solar de água (AQS)
+- Aproveitamento de calor residual
+
+4.3 MEDIÇÃO E MONITORAMENTO
+Obrigatório para nível Excelente:
+- Medidores de energia por setor (HVAC, iluminação, equipamentos)
+- Sistema de gestão de energia predial (BEMS) recomendado
+
+Categoria 5 — Gestão da Água
+
+5.1 CATEGORIAS DE AVALIAÇÃO HÍDRICA
+O referencial AQUA-HQE avalia a gestão de água em três categorias:
+- Água potável: redução do consumo nas instalações internas
+- Aproveitamento de águas pluviais
+- Gestão e tratamento de águas cinzas
+
+5.2 MEDIÇÃO INDIVIDUALIZADA (OBRIGATÓRIO)
+O sistema exige medição individualizada por setor de consumo:
+- Medidor geral de entrada
+- Medidor para HVAC (torres de resfriamento)
+- Medidor para uso sanitário (vasos, chuveiros)
+- Medidor para irrigação
+A medição permite identificar vazamentos e desperdícios por área.
+
+5.3 INDICADORES DE DESEMPENHO
+Indicadores adotados:
+- Consumo per capita (litros/habitante/dia ou litros/usuário/dia)
+- Índice de eficiência hídrica da edificação (IEH)
+- Percentual de água não potável utilizada (ANP%)
+
+Metas por nível:
+BASE: Redução de 10% em relação à linha de base
+BOAS PRATICAS: Redução de 25%
+MELHORES PRATICAS: Redução de 40%
+EXCEPCIONAL: Redução de 55% ou maior
+
+5.4 ESTRATÉGIAS DE REDUÇÃO
+Dispositivos economizadores:
+- Vasos sanitários com duplo acionamento (6/3 L)
+- Torneiras com arejadores e temporizadores (máx. 5 L/min)
+- Chuveiros eficientes (máx. 6 L/min)
+- Sistemas de pressurização com controle de pressão máxima
+
+5.5 APROVEITAMENTO DE ÁGUA PLUVIAL
+O sistema de coleta e uso de água pluvial deve:
+- Ter reservatório dimensionado para o regime pluviométrico local
+- Utilizar a água para fins não potáveis (descarga, irrigação, limpeza)
+- Possuir tratamento mínimo de filtração e desinfecção
+- Ter identificação visual das tubulações (cor azul)
+
+Potencial de redução com aproveitamento pluvial: 20 a 40% do consumo total
+
+5.6 APROVEITAMENTO DE ÁGUA CINZA
+O reúso de água cinza tratada e o aproveitamento de água pluvial
+são estratégias que geram pontuação de bonificação no referencial.
+A água cinza deve passar por sistema de tratamento biológico e
+desinfecção antes do reúso em descargas sanitárias.
+
+Categoria 6 — Análise do Ciclo de Vida (ACV) das Construções
+Avaliação do impacto ambiental global da edificação durante seu ciclo de vida:
+- Aquecimento global (kg CO2 eq.)
+- Destruição da camada de ozônio (kg CFC-11 eq.)
+- Acidificação (kg SO2 eq.)
+- Eutrofização (kg PO4 eq.)
+- Depleção de recursos energéticos não renováveis (MJ)
+
+===============================================================
+TEMA 3: ECOSAÚDE
+===============================================================
+
+Categoria 7 — Manutenção: Permanência do Desempenho Ambiental
+Facilitar a manutenção preventiva dos sistemas:
+- Manual de uso e manutenção para o usuário
+- Ficha técnica de cada sistema instalado
+- Indicação de periodicidade de manutenção
+- Registro de operações de manutenção realizadas
+
+Categoria 8 — Conforto Higrotérmico
+Garantir condições de temperatura e umidade confortáveis:
+- Temperatura operativa entre 20°C e 26°C (condição de verão)
+- Temperatura operativa entre 18°C e 24°C (condição de inverno)
+- Umidade relativa entre 35% e 65%
+
+Métodos de avaliação:
+- Simulação computacional dinâmica (EnergyPlus, DesignBuilder)
+- Método simplificado por parâmetros construtivos
+
+Categoria 9 — Conforto Acústico
+Limites de nível de pressão sonora:
+- Dormitórios: máximo 35 dB(A) - nível NR
+- Sala de estar: máximo 40 dB(A)
+- Escritórios: máximo 45 dB(A)
+
+Critérios de isolamento acústico entre unidades:
+- Rw mínimo de 45 dB para paredes divisórias
+- Nível de pressão de impacto máximo de 60 dB
+
+Categoria 10 — Conforto Visual
+Iluminação natural:
+- Nível de iluminância natural mínimo de 300 lux nos planos de trabalho
+- Uniformidade de iluminação mínima de 0,6
+- Proteção contra ofuscamento (índice UGR ≤ 19)
+
+Iluminação artificial:
+- Eficiência mínima de 70 lm/W para luminárias de uso geral
+- Controles individuais para espaços de trabalho
+
+Categoria 11 — Conforto Olfativo
+Controle de fontes de odor:
+- Ventilação mínima conforme ABNT NBR 15575
+- Extração forçada em cozinhas (mínimo 5 renovações/hora)
+- Extração forçada em banheiros (mínimo 6 renovações/hora)
+
+Categoria 12 — Qualidade Sanitária dos Espaços
+Controle da qualidade do ar interior:
+- Concentração máxima de CO2: 1.000 ppm
+- Concentração máxima de CO: 10 mg/m³
+- Concentração máxima de formaldeído: 10 μg/m³
+- Concentração máxima de material particulado PM10: 50 μg/m³
+- Concentração máxima de PM2.5: 25 μg/m³
+
+Estratégias de controle:
+- Seleção de materiais com baixa emissão de VOCs
+- Ventilação controlada com medição de CO2
+- Filtros de ar MERV 11 ou superior
+
+Categoria 13 — Qualidade Sanitária da Água
+Prevenção de riscos à saúde pela água:
+- Prevenção de Legionella em torres de resfriamento (tratamento químico
+  e controle de temperatura: > 50°C no reservatório, < 20°C na saída)
+- Prevenção de choque térmico (protetor anti-escaldamento em chuveiros)
+- Material das tubulações aprovado pela ANVISA
+- Análise de qualidade da água semestral
+
+===============================================================
+TEMA 4: ECOSITE
+===============================================================
+
+Categoria 14 — Qualidade Ambiental do Sítio
+Valorização do sítio urbano:
+- Integração com a infraestrutura urbana existente
+- Gestão sustentável do território
+- Biodiversidade: áreas permeáveis e vegetação local
+
+Meta de permeabilidade: mínimo 20% da área do terreno
+Índice de vegetação: 1 árvore nativa por cada 50 m² de área verde
+
+===============================================================
+PROCESSO DE CERTIFICAÇÃO NO BRASIL
+===============================================================
+
+ETAPA 1 — PROGRAMA
+Definição do programa do empreendimento e metas de desempenho.
+Registro do empreendimento junto à Fundação Vanzolini.
+
+ETAPA 2 — CONCEPÇÃO
+Verificação das opções de projeto em relação às metas.
+Análise das categorias pelo projetista e consultor AQUA.
+
+ETAPA 3 — REALIZAÇÃO
+Auditoria de canteiro durante a construção.
+Verificação da conformidade construtiva com as especificações.
+
+ETAPA 4 — ENTREGA
+Auditoria final com verificação dos sistemas instalados.
+Medições in loco de conforto acústico, visual e qualidade do ar.
+Emissão do certificado AQUA-HQE com validade de 3 anos.
+
+AUDITOR CREDENCIADO
+A certificação exige a contratação de um Organismo Certificador
+credenciado pela Fundação Vanzolini. O auditor é independente
+do projetista e do construtor.
+
+DIFERENCIAIS DO AQUA-HQE EM RELAÇÃO AO LEED
+- Foco no contexto tropical brasileiro (clima quente e úmido)
+- Avaliação de conforto higrotérmico por simulação dinâmica obrigatória
+- Maior ênfase em qualidade do ar interior (14 categorias vs 9 no LEED)
+- Processo de auditoria presencial em todas as etapas
+- Não adota sistema de pontos: avalia cada categoria individualmente

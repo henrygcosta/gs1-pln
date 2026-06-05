@@ -1,0 +1,231 @@
+Guia Técnico de Reúso de Água Cinza em Edificações Residenciais
+SINDUSCON-SP — Sindicato da Indústria da Construção Civil do Estado de São Paulo
+Publicação Técnica 2021 | São Paulo, Brasil
+Idioma: Português
+
+===============================================================
+APRESENTAÇÃO
+===============================================================
+
+O SINDUSCON-SP representa as empresas de construção civil do Estado
+de São Paulo. Este guia técnico consolida as boas práticas para
+implementação de sistemas de reúso de água cinza em edificações
+residenciais multifamiliares, com foco no contexto construtivo e
+regulatório brasileiro.
+
+O guia é resultado de parceria com a Fundação Instituto de Pesquisas
+Tecnológicas (IPT) e foi desenvolvido com base em 15 projetos piloto
+acompanhados em São Paulo, Rio de Janeiro e Porto Alegre entre 2018 e 2021.
+
+===============================================================
+CAPÍTULO 1 — JUSTIFICATIVA TÉCNICA E ECONÔMICA
+===============================================================
+
+1.1 ESTRESSE HÍDRICO NAS CIDADES BRASILEIRAS
+A crise hídrica de 2014-2015 em São Paulo evidenciou a vulnerabilidade
+do abastecimento urbano. As projeções climáticas indicam aumento
+da frequência e severidade de estiagens nas regiões Sudeste e Nordeste.
+
+Consumo médio de água em edifícios residenciais multifamiliares:
+- Consumo per capita: 120 a 180 L/hab.dia
+- Descarga sanitária: 27 a 35% do total
+- Banho e higiene: 30 a 40% do total
+- Lavagem de louça e roupas: 20 a 25% do total
+
+1.2 OPORTUNIDADE DO REÚSO
+A água cinza gerada em banhos e lavatórios (30 a 45% do consumo total)
+pode ser tratada e reutilizada nas descargas sanitárias, que consomem
+quantidade similar.
+
+Resultado: equilíbrio entre geração e demanda.
+Redução potencial de consumo de água potável: 25 a 40%.
+
+1.3 ANÁLISE DE VIABILIDADE ECONÔMICA
+Custo médio de instalação (edificações residenciais):
+Edifício de até 5 andares (até 20 UH): R$ 800 a 1.200/UH
+Edifício de 5 a 15 andares (20 a 80 UH): R$ 500 a 900/UH
+Edifício acima de 15 andares (acima de 80 UH): R$ 400 a 700/UH
+
+Economia mensal por unidade (tarifa de água em SP, 2021):
+Com 30% de redução no consumo de água: R$ 30 a 80/mês/UH
+
+Payback simples: 5 a 12 anos (dependendo do tamanho do edifício
+e da tarifa de água local)
+
+Nota: A tarifa de água tende a aumentar com a escassez hídrica,
+melhorando a viabilidade econômica ao longo do tempo.
+
+===============================================================
+CAPÍTULO 2 — FONTES DE ÁGUA CINZA
+===============================================================
+
+2.1 CLASSIFICAÇÃO DAS FONTES
+
+Água cinza CLARA (menor contaminação):
+- Lavatórios: 10 a 20 L/pessoa/dia
+  Contaminantes: sabonete, creme dental, vestígios de bactérias
+  Tratamento mínimo: filtração + desinfecção
+
+- Máquinas de lavar roupas (enxágue): 20 a 40 L/ciclo
+  Contaminantes: sabão, sujeira de roupas, fibras têxteis
+  Observação: água do enxágue tem menos contaminantes que a lavagem
+
+Água cinza ESCURA (maior contaminação):
+- Chuveiros e banheiras: 30 a 80 L/pessoa/dia
+  Contaminantes: sabão, xampu, células epiteliais, óleos corporais
+  Tratamento adequado: filtração + tratamento biológico + desinfecção
+
+- Pias de cozinha: 20 a 40 L/dia por residência
+  Contaminantes: óleos, gorduras, restos alimentares
+  NÃO RECOMENDADA para reúso simples: alta DBO, difícil tratamento
+
+2.2 VOLUMES DISPONÍVEIS POR TIPOLOGIA
+Apartamento de 2 quartos (3,5 pessoas em média):
+- Lavatórios: 45 L/dia
+- Chuveiro: 140 L/dia (40 L/pessoa × 3,5 pessoas)
+- Total disponível: 185 L/dia
+
+Demanda de descarga (3,5 pessoas × 8 descargas/dia × 4,5 L):
+Demanda diária: 126 L/dia
+
+Conclusão: volume disponível (185 L/dia) supera a demanda (126 L/dia)
+com margem de 47%. O excedente vai para o esgoto ou serve como reserva.
+
+===============================================================
+CAPÍTULO 3 — SISTEMAS DE TRATAMENTO
+===============================================================
+
+3.1 SISTEMA SIMPLIFICADO (para edifícios pequenos, até 10 UH)
+
+ETAPA 1 — GRADEAMENTO / PENEIRA
+Peneira de 1 a 2 mm na entrada do sistema.
+Função: remoção de cabelos, fios, sólidos grosseiros.
+Manutenção: limpeza semanal.
+
+ETAPA 2 — FILTRAÇÃO MULTICAMADAS
+Filtro composto por camadas (de cima para baixo):
+- Areia grossa (2-4 mm): 30 cm
+- Areia fina (0,5-1 mm): 30 cm
+- Brita zero (5-10 mm): 20 cm
+- Tela de suporte
+Taxa de filtração: 0,1 a 0,3 m³/h por m² de área filtrante.
+
+ETAPA 3 — DESINFECÇÃO
+Cloração com hipoclorito de sódio (água sanitária):
+Dosagem: 2 a 5 mg/L de cloro ativo.
+Tempo de contato: mínimo 30 minutos.
+Cloro residual: 0,5 a 2,0 mg/L no ponto de uso.
+
+Sistema alternativo de desinfecção: lâmpada UV
+Dose mínima de UV: 30 mJ/cm²
+Vantagem: não altera o sabor e o odor da água (sem subprodutos).
+
+3.2 SISTEMA COM TRATAMENTO BIOLÓGICO (para edifícios médios e grandes)
+
+ETAPA 1 — Gradeamento
+ETAPA 2 — Tanque de equalização (4 a 8 horas de detenção)
+ETAPA 3 — Tratamento biológico:
+  Opção A — Reator de leito móvel (MBBR):
+  Biomassa aderida em suportes plásticos de alta área específica.
+  Tempo de detenção: 4 a 8 horas.
+  Remoção de DBO: 85 a 95%.
+
+  Opção B — Reator de membrana (MBR):
+  Ultrafiltração por membranas de 0,04 μm.
+  Remove 99,9% de bactérias e vírus.
+  Efluente de alta qualidade sem etapa de desinfecção UV.
+
+ETAPA 4 — Desinfecção (cloro ou UV)
+ETAPA 5 — Reservatório de distribuição
+
+3.3 PARÂMETROS DE CONTROLE DE QUALIDADE
+
+Parâmetro | Padrão NBR 13969 | Frequência de análise recomendada
+Turbidez | ≤ 5 UNT | Diária (sensor automático)
+Cloro residual | 0,5 a 2,0 mg/L | Diária (kit de campo)
+pH | 6,0 a 9,0 | Semanal
+Coliformes termotolerantes | Ausência em 100 mL | Mensal (laboratório)
+DBO5 | ≤ 10 mg/L | Trimestral (laboratório)
+Sólidos suspensos totais | ≤ 5 mg/L | Mensal
+
+===============================================================
+CAPÍTULO 4 — INSTALAÇÃO E PROJETO
+===============================================================
+
+4.1 INTEGRAÇÃO COM O PROJETO HIDRÁULICO
+O sistema de reúso deve ser integrado ao projeto hidráulico desde
+a fase de anteprojeto, pois requer:
+- Tubulação separada de coleta de água cinza (adicional)
+- Reservatório de tratamento (adicional no subsolo ou cobertura)
+- Tubulação de distribuição de água cinza tratada (adicional)
+- Espaço físico para o sistema de tratamento
+
+Custo adicional na fase de projeto vs. retrofit:
+Em obra nova: +15 a 25% no custo do sistema hidráulico
+Em retrofit (adaptação de edifício existente): +40 a 80%
+
+4.2 TUBULAÇÃO DUAL (OBRIGATÓRIO)
+É obrigatória a instalação de tubulação separada e identificada
+para a água cinza tratada, independente da rede de água potável.
+
+Identificação das tubulações:
+Água cinza tratada: cor roxa ou lilás (NBR 6493)
+Marcação: inscrição "ÁGUA NÃO POTÁVEL" a cada 2 metros
+Conexões: somente com outros sistemas de água não potável
+
+Conexão entre a rede de água potável e a rede de água cinza:
+EXPRESSAMENTE PROIBIDA pela NBR 5626:2020.
+Penalidade: embargo da obra e responsabilização do responsável técnico.
+
+4.3 RESERVATÓRIO DE ÁGUA CINZA TRATADA
+Volume mínimo: 1 dia de demanda de descarga sanitária.
+Material: PEAD, fibra de vidro ou concreto impermeabilizado.
+Características obrigatórias:
+- Tampa vedada (impedindo entrada de luz, insetos e roedores)
+- Respiro com tela mosquiteiro (evita vetores de doenças)
+- Extravasor com selo hídrico (evita refluxo de gases)
+- Acesso para limpeza e inspeção (mínimo 60 cm de diâmetro)
+- Sistema de alimentação automática de água potável em falta de
+  água cinza (válvula solenóide com intertravamento anti-contaminação)
+
+4.4 SINALIZAÇÃO E IDENTIFICAÇÃO
+Nos pontos de uso (vasos sanitários):
+Placa "ÁGUA NÃO POTÁVEL — USO EM DESCARGA" em local visível.
+Cor do botão acionador diferenciado (recomendado: roxo ou cinza).
+
+===============================================================
+CAPÍTULO 5 — DADOS DOS PROJETOS PILOTO
+===============================================================
+
+5.1 RESULTADOS DOS 15 PROJETOS ACOMPANHADOS (2018-2021)
+
+Redução média de consumo de água potável: 31% (22 a 40%)
+
+Projetos com maior redução (> 35%):
+- Edifício de alto padrão em São Paulo: 38% de redução
+  Sistema MBR, 200 UH, tratamento centralizado
+- Condomínio horizontal em Porto Alegre: 37% de redução
+  Sistema MBBR + UV, 60 UH, aproveitamento pluvial associado
+
+Projetos com menor redução (< 25%):
+- Edifício econômico em São Paulo: 22% de redução
+  Sistema simples, 30 UH, limitações de espaço para o reservatório
+
+Principais causas de subutilização do sistema:
+1. Falta de manutenção preventiva (responsável pela operação)
+2. Falhas na bomba de recalque (reposição por água potável)
+3. Mau dimensionamento do reservatório de coleta (subdimensionado)
+4. Resistência dos moradores ao uso de água cinza em descargas
+
+5.2 RECOMENDAÇÕES BASEADAS NOS PROJETOS PILOTO
+
+Para garantir o desempenho esperado:
+- Contratar empresa especializada em manutenção do sistema
+- Instalar sistema de monitoramento com alerta para falhas
+- Realizar programa de educação ambiental com moradores
+- Auditar o desempenho anualmente (análises laboratoriais)
+
+Redução verificada média nos projetos bem operados: 35 a 40%
+O potencial de redução de consumo de água potável em edificações
+multifamiliares com reúso de água cinza bem implementado pode
+chegar a 40% do consumo total de água potável.

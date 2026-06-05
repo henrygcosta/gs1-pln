@@ -1,0 +1,294 @@
+Manual de Engenharia para Sistemas Fotovoltaicos
+Associação Brasileira de Energia Solar Fotovoltaica (ABSOLAR)
+Edição 2023 | São Paulo, Brasil
+Idioma: Português
+
+===============================================================
+APRESENTAÇÃO
+===============================================================
+
+A ABSOLAR (Associação Brasileira de Energia Solar Fotovoltaica) é
+a entidade que representa a cadeia produtiva da energia solar
+fotovoltaica no Brasil. Este manual consolida as melhores práticas
+de engenharia para projeto, instalação e operação de sistemas
+fotovoltaicos no contexto brasileiro.
+
+O Brasil atingiu 35 GW de capacidade instalada em energia solar FV
+em 2023, tornando-se o 6° maior mercado do mundo. O crescimento
+é impulsionado pela excelente irradiação solar e pelo marco
+regulatório favorável à microgeração distribuída.
+
+===============================================================
+SEÇÃO 1 — FUNDAMENTOS DE SISTEMAS FOTOVOLTAICOS
+===============================================================
+
+1.1 EFEITO FOTOVOLTAICO
+O efeito fotovoltaico converte energia luminosa em energia elétrica
+quando fótons de luz incidem sobre um material semicondutor (silício).
+A célula fotovoltaica gera tensão contínua (CC) de 0,5 a 0,7 V por célula.
+
+1.2 CURVA CARACTERÍSTICA I-V
+A curva corrente-tensão (I-V) do módulo FV é caracterizada por:
+- Isc: corrente de curto-circuito (máxima corrente)
+- Voc: tensão de circuito aberto (máxima tensão)
+- Impp: corrente no ponto de máxima potência
+- Vmpp: tensão no ponto de máxima potência
+- Pmpp: potência máxima (Pmpp = Impp × Vmpp)
+
+1.3 CONDIÇÕES PADRÃO DE TESTE (STC)
+Irradiância: 1.000 W/m²
+Temperatura de célula: 25°C
+Massa de ar: AM 1,5
+
+A potência nominal do módulo (Wp — Watt-pico) é sempre medida nas STC.
+Em condições reais, a potência gerada difere das STC.
+
+1.4 ASSOCIAÇÃO DE MÓDULOS
+Em série (string): soma as tensões, mantém a corrente
+V_string = N × Vmpp
+I_string = Impp
+
+Em paralelo: soma as correntes, mantém a tensão
+V = Vmpp
+I_total = M × Impp
+
+Potência total do arranjo (N módulos em série, M strings em paralelo):
+P_arranjo = N × M × Pmpp
+
+===============================================================
+SEÇÃO 2 — CLASSIFICAÇÃO DE SISTEMAS FV
+===============================================================
+
+2.1 SISTEMAS ISOLADOS (OFF-GRID)
+Não conectados à rede elétrica. Comuns em áreas rurais e remotas.
+Componentes: módulos + controlador de carga + banco de baterias + inversor off-grid
+
+Dimensionamento: baseado na autonomia desejada (dias sem sol)
+Banco de baterias: energia_necessária × dias_autonomia / (DOD × eficiência)
+DOD (Depth of Discharge): profundidade de descarga (máximo 50% para chumbo-ácido,
+80% para lítio)
+
+2.2 SISTEMAS CONECTADOS À REDE (ON-GRID / GRID-TIE)
+Mais comuns em aplicações urbanas e comerciais.
+Componentes: módulos + inversor grid-tie + medidor bidirecional
+O inversor sincroniza com a rede e desliga automaticamente em falta de rede (anti-ilhamento)
+
+2.3 SISTEMAS HÍBRIDOS (COM ARMAZENAMENTO)
+Combinam geração FV com armazenamento em baterias e conexão à rede.
+Permitem consumo do excedente à noite e continuidade em queda de energia.
+
+===============================================================
+SEÇÃO 3 — DIMENSIONAMENTO DE SFCR PARA EDIFICAÇÕES
+===============================================================
+
+3.1 DADOS NECESSÁRIOS PARA DIMENSIONAMENTO
+- Consumo mensal de energia elétrica (kWh/mês) — últimos 12 meses
+- Tarifa de energia (R$/kWh) incluindo impostos e taxas
+- Área de telhado disponível e orientada (m²)
+- Localização geográfica (latitude, longitude)
+- Tipo de telhado (inclinação, material, sombreamento)
+- Padrão de entrada da edificação (bifásico/trifásico)
+
+3.2 IRRADIAÇÃO SOLAR (FONTE DE DADOS)
+Fontes de dados de irradiação recomendadas pela ABSOLAR:
+- CRESESB/CEPEL: Atlas Solarimétrico do Brasil (gratuito)
+- NASA POWER: base de dados por coordenada geográfica (gratuito)
+- SolarGIS: base de dados global de alta precisão (pago)
+- EPE: Atlas de Energia Elétrica do Brasil
+
+Para projetos de engenharia, recomenda-se usar dados mensais por
+coordenada geográfica para considerar sazonalidade.
+
+3.3 FÓRMULA DE GERAÇÃO ESPERADA
+
+Geração mensal (kWh/mês) = Ppico (kWp) × HSP (h/dia) × PR × 30 (dias)
+
+onde:
+Ppico = potência de pico do sistema em kWp
+HSP = Horas de Sol Pleno médias mensais em h/dia
+PR = Performance Ratio do sistema (adimensional)
+
+Geração anual (kWh/ano) = Ppico (kWp) × GHI_anual (kWh/m²/ano) × PR
+
+3.4 PERFORMANCE RATIO (PR) — CONCEITO FUNDAMENTAL
+
+O Performance Ratio (PR) representa a eficiência real do sistema
+em relação ao ideal calculado com as condições STC.
+
+PR = Energia gerada real / Energia teórica máxima
+
+Valores típicos de PR para sistemas brasileiros:
+- Sistemas residenciais bem instalados: PR = 0,75 a 0,82
+- Sistemas comerciais com monitoramento: PR = 0,80 a 0,85
+- Sistemas industriais de grande porte: PR = 0,78 a 0,84
+- Sistemas com sombreamento significativo: PR = 0,60 a 0,70
+
+3.5 PRINCIPAIS PERDAS QUE REDUZEM O PR
+
+PERDA 1 — TEMPERATURA DOS MÓDULOS (5 a 12%)
+Em climas quentes, a temperatura de célula pode atingir 60-80°C.
+A eficiência cai aproximadamente 0,4% por °C acima de 25°C.
+Para temperatura de célula de 65°C: perda = (65-25) × 0,4% = 16%
+
+Mitigação: instalar módulos com ventilação na face traseira;
+escolher módulos com baixo coeficiente de temperatura.
+
+PERDA 2 — SOMBREAMENTO PARCIAL (0 a 20%)
+Sombreamento em um único módulo pode reduzir geração de toda
+uma string devido ao efeito de corrente limitante.
+Tipos: sombreamento por edificações, árvores, antenas, chaminés.
+Mitigação: otimizadores de potência por módulo (MLPE) ou
+inversores com múltiplos MPPTs.
+
+PERDA 3 — PERDAS NOS CABOS CC E CA (2 a 4%)
+Queda de tensão nos cabos deve ser limitada a:
+- Cabos CC (módulos ao inversor): máximo 1% de queda
+- Cabos CA (inversor ao quadro): máximo 1% de queda
+Seção dos cabos: calculada conforme NBR 5410 e NBR 16690
+
+PERDA 4 — EFICIÊNCIA DO INVERSOR (2 a 4%)
+Inversores modernos de string: eficiência 97,5 a 99,0%
+Microinversores: eficiência 95 a 97%
+Inversores centrais: eficiência 97 a 98%
+
+PERDA 5 — SUJIDADE SUPERFICIAL (2 a 6%)
+Acúmulo de poeira, fuligem e poluentes reduz a irradiância incidente.
+Áreas com alta poluição ou longos períodos secos: até 6% de perda.
+Limpeza semestral com água e esponja macia: restaura a geração.
+Não usar produtos abrasivos ou detergentes sobre a superfície do módulo.
+
+PERDA 6 — DEGRADAÇÃO AO LONGO DO TEMPO (0,5% a 0,8%/ano)
+Módulos perdem eficiência gradualmente ao longo dos anos.
+Garantia típica de desempenho dos fabricantes:
+- Ano 1: mínimo 98% da potência nominal
+- Anos 2 a 10: máximo 0,7% de degradação por ano
+- Anos 11 a 25: máximo 0,5% de degradação por ano
+- Ao final de 25 anos: mínimo 80% da potência nominal
+
+PERDA 7 — MISMATCH ENTRE MÓDULOS (1 a 3%)
+Diferenças de fabricação entre módulos de mesma especificação.
+A corrente da string é limitada pelo módulo de menor potência.
+Mitigação: usar módulos da mesma fabricação, lote e potência.
+
+3.6 ORIENTAÇÃO E INCLINAÇÃO DOS MÓDULOS
+
+Orientação ideal no Brasil: NORTE geográfico (face norte)
+Justificativa: O sol percorre o hemisfério norte durante todo o ano
+no Brasil. Face norte maximiza a irradiação anual acumulada.
+
+ATENÇÃO: No Brasil, a orientação é ao NORTE, não ao sul como
+no hemisfério norte. Confundir as orientações é erro grave de projeto.
+
+Inclinação ótima (ângulo em relação à horizontal):
+A inclinação ótima é próxima à latitude geográfica do local.
+Latitude = 0° (Macapá): inclinação ótima = 0° a 5°
+Latitude 10°S (Recife): inclinação ótima = 10° a 12°
+Latitude 20°S (Rio de Janeiro): inclinação ótima = 20° a 22°
+Latitude 25°S (Curitiba): inclinação ótima = 25° a 28°
+Latitude 30°S (Porto Alegre): inclinação ótima = 30° a 33°
+
+Impacto da inclinação: a variação de ±10° da inclinação ótima
+reduz a geração em apenas 1 a 3%. Para edificações existentes,
+aproveita-se a inclinação do telhado disponível.
+
+3.7 SELEÇÃO DO INVERSOR
+
+O inversor deve ser compatível com o arranjo fotovoltaico:
+- Tensão de entrada CC mínima/máxima: deve conter a faixa de
+  operação das strings em todas as condições de temperatura
+- Potência de entrada CC: 1,05 a 1,30 × Ppico do arranjo
+  (fator de sobredimensionamento FSD)
+- Potência de saída CA: conforme demanda do cliente e limites
+  da distribuidora (geralmente limitado a 75 kW para microgeração)
+
+Tipos de inversores:
+- String inverter: 1 a 250 kW, conexão de 1 a 4 strings
+- Micro-inversor (microinversor): 0,2 a 2 kW por módulo
+- Inversor central: >250 kW para usinas de grande porte
+- Otimizadores de potência + string inverter: melhor para sombreamento
+
+===============================================================
+SEÇÃO 4 — INSTALAÇÃO ELÉTRICA E NORMAS
+===============================================================
+
+4.1 NORMAS APLICÁVEIS
+- NBR 16690:2019 — Instalações elétricas de sistemas fotovoltaicos
+- NBR 5410:2004 — Instalações elétricas de baixa tensão
+- NBR 16149:2013 — Interfaces de conexão de SFCRs com a rede
+- Resolução Normativa ANEEL 1.000/2021 — Geração distribuída
+- IEC 61215 e IEC 61730 — Qualificação e segurança de módulos
+
+4.2 PROTEÇÕES OBRIGATÓRIAS
+Lado CC (entre módulos e inversor):
+- Disjuntor CC ou fusíveis por string
+- DPS (Dispositivo de Proteção contra Surtos) CC
+
+Lado CA (entre inversor e rede):
+- Disjuntor CA de proteção do inversor
+- DPS CA no quadro de distribuição
+
+Aterramento:
+- Estrutura metálica dos módulos: aterrada ao sistema de proteção
+- Inversores: aterramentos conforme especificação do fabricante
+
+4.3 MEDIDOR BIDIRECIONAL
+A distribuidora instala medidor bidirecional gratuito na conexão.
+O medidor registra separadamente:
+- Energia consumida da rede (kWh importados)
+- Energia injetada na rede (kWh exportados)
+O sistema de compensação (net metering) é calculado pela diferença.
+
+===============================================================
+SEÇÃO 5 — MANUTENÇÃO E MONITORAMENTO
+===============================================================
+
+5.1 MANUTENÇÃO PREVENTIVA
+Frequência recomendada pela ABSOLAR:
+Semestral:
+- Limpeza dos módulos (água e esponja macia)
+- Verificação visual de cabos, conectores e estruturas
+- Verificação do sistema de aterramento
+
+Anual:
+- Inspeção termográfica de módulos e conexões
+- Verificação do desempenho do inversor
+- Limpeza interna do inversor (se necessário)
+- Aperto de conexões elétricas
+
+5.2 MONITORAMENTO DO SISTEMA
+Inversores modernos possuem monitoramento integrado com:
+- Geração instantânea (W) e acumulada (kWh)
+- Tensão, corrente e potência de cada string
+- Temperatura do inversor
+- Alertas de falhas e alarmes
+
+Plataformas de monitoramento remoto:
+- SolarEdge, SMA, Growatt, Fronius: plataformas proprietárias
+- Accesso via aplicativo smartphone e web browser
+
+5.3 INDICADORES DE DESEMPENHO
+PR (Performance Ratio) monitorado: deve se manter acima de 0,70
+Queda abrupta no PR indica: sombreamento, sujeira, falha de string
+YF (Yield Final): kWh gerados por kWp instalado por dia
+Comparar YF real vs. YF esperado (simulado) identifica problemas
+
+===============================================================
+SEÇÃO 6 — FINANCIAMENTO E PROGRAMAS DE APOIO
+===============================================================
+
+6.1 FINANCIAMENTO BANCÁRIO
+Principais linhas de crédito disponíveis:
+- Financiamento por bancos privados: até 100% do valor do sistema
+  Prazo: até 60 meses. Taxa: IPCA + 3% a.a. a 15% a.a.
+- Banco do Brasil — Crédito Solar: condições especiais para clientes
+- Caixa Econômica Federal — Habitação Verde: inclui sistemas FV em
+  financiamentos habitacionais do MCMV
+
+6.2 INCENTIVOS FISCAIS
+Isenção de ICMS: a maioria dos estados brasileiros isenta o ICMS
+sobre a energia elétrica gerada por sistemas FV (convênio ICMS 16/2015)
+
+Redução de IPI e II: módulos FV importados têm alíquota zero de IPI
+
+Empresas (Lucro Real): possibilidade de depreciar o investimento
+em até 12 meses (depreciação acelerada)

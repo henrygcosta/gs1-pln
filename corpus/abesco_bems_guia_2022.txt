@@ -1,0 +1,325 @@
+Guia de Sistemas de Gestão de Energia Predial (BEMS) e Automação
+Associação Brasileira das Empresas de Serviços de Conservação de Energia (ABESCO)
+Publicação Técnica 2022 | São Paulo, Brasil
+Idioma: Português
+
+===============================================================
+APRESENTAÇÃO
+===============================================================
+
+A ABESCO (Associação Brasileira das Empresas de Serviços de Conservação
+de Energia) representa empresas de Eficiência Energética (ESCOs) no Brasil.
+Este guia técnico abrange os fundamentos, componentes, projeto e
+operação de Building Energy Management Systems (BEMS), com foco
+na redução do consumo de energia em edificações comerciais e industriais.
+
+O Brasil desperdiça estimados 18% de toda a energia consumida nas
+edificações comerciais por falta de sistemas de controle e automação.
+A implantação de BEMS representa uma das oportunidades mais
+custo-efetivas de eficiência energética no setor de edificações.
+
+===============================================================
+CAPÍTULO 1 — FUNDAMENTOS DO BEMS
+===============================================================
+
+1.1 DEFINIÇÃO E CONCEITO
+Um Building Energy Management System (BEMS) é um sistema computadorizado
+para monitoramento, controle e otimização dos sistemas de energia
+de uma edificação.
+
+O BEMS integra os seguintes sistemas prediais em uma plataforma única:
+- Sistemas de HVAC (Heating, Ventilation and Air Conditioning)
+- Sistemas de iluminação artificial
+- Sistemas de força motriz (bombas, compressores, elevadores)
+- Sistemas de geração própria de energia (fotovoltaico, gerador)
+- Sistemas de medição de energia elétrica e gás
+- Sistemas de segurança e controle de acesso (quando integrados)
+
+1.2 OBJETIVOS DO BEMS
+O BEMS persegue quatro objetivos principais:
+
+OBJETIVO 1 — Redução do consumo de energia:
+Identificar e eliminar desperdícios por meio de controle automático
+e programação eficiente dos sistemas.
+Redução típica comprovada: 10 a 30% do consumo total de energia.
+
+OBJETIVO 2 — Manutenção do conforto:
+Garantir as condições de temperatura, umidade e iluminação adequadas
+para os ocupantes, sem desperdício de energia.
+
+OBJETIVO 3 — Monitoramento em tempo real:
+Identificar anomalias e desvios de desempenho imediatamente,
+permitindo intervenção rápida antes que o problema se agrave.
+
+OBJETIVO 4 — Análise histórica e benchmarking:
+Comparar o desempenho energético ao longo do tempo e entre
+edificações similares, identificando oportunidades de melhoria.
+
+1.3 REDUÇÃO DE CONSUMO COMPROVADA POR ESTUDOS
+Estudos realizados pela ABESCO em 45 edificações comerciais brasileiras
+entre 2015 e 2021 mostram os seguintes resultados:
+
+Redução média com BEMS implementado adequadamente: 15 a 25%
+Redução máxima observada: 38% (edifício de escritórios, São Paulo)
+Redução mínima observada: 8% (edificação já bem controlada)
+
+Distribuição das reduções:
+- HVAC: representa 60% das economias obtidas
+- Iluminação: representa 25% das economias
+- Força motriz e outros: 15%
+
+Prazo médio de retorno do investimento em BEMS: 2 a 5 anos
+
+===============================================================
+CAPÍTULO 2 — COMPONENTES DO BEMS
+===============================================================
+
+2.1 SENSORES E TRANSDUTORES
+
+Sensores de temperatura:
+- Temperatura de bulbo seco do ar: ±0,1°C de precisão
+- Temperatura de água quente/gelada: ±0,1°C
+- Temperatura de superfície: termopares ou RTDs (Pt100, Pt1000)
+
+Sensores de umidade:
+- Umidade relativa do ar: ±1 a 3% UR de precisão
+- Sensores capacitivos: mais comuns e econômicos
+- Sensores psicrométricos: para aplicações de alta precisão
+
+Sensores de CO2:
+- Faixa: 0 a 5.000 ppm CO2
+- Precisão: ±30 ppm + 3% do valor medido
+- Uso: controle de ventilação por demanda (DCV)
+- Sensor de ocupação substituível por contadores de pessoas em entradas
+
+Medidores de energia elétrica:
+- Medidores de energia ativa (kWh): precisão classe 0,5 (±0,5%)
+- Medidores de energia reativa (kVArh): para controle de fator de potência
+- Analisadores de qualidade de energia: tensão, corrente, THD, harmônicos
+- Medidores bidirecionais: para sistemas com geração fotovoltaica
+
+Medidores de água e gás:
+- Hidrômetros pulsados (RS-485) ou ultrassônicos
+- Medidores de gás: térmico ou por efeito Coriolis
+- Medidores de vazão de ar: sondas de tubo de Pitot ou ultrassônicas
+
+Sensores de iluminação:
+- Fotossensores para medição de iluminância (lux)
+- Sensores de presença: PIR (infrared) ou micro-ondas
+- Sensores de dupla tecnologia: PIR + micro-ondas (menos falsos positivos)
+
+2.2 CONTROLADORES DE CAMPO (DDC)
+
+DDC (Direct Digital Controllers):
+Processadores locais que recebem sinais dos sensores, executam
+os algoritmos de controle e comandam os atuadores.
+
+Características dos DDCs modernos:
+- Processamento local sem dependência de comunicação com servidor central
+- Armazenamento local de dados históricos (24 horas a 7 dias)
+- Múltiplas entradas e saídas: analógicas (0-10V, 4-20mA) e digitais (on/off)
+- Protocolos de comunicação: BACnet IP, BACnet MS/TP, LonWorks, Modbus
+
+PLCs (Programmable Logic Controllers):
+Utilizados para controle de sistemas de geração de energia, processos
+industriais integrados à edificação e equipamentos que exigem tempo
+de resposta muito rápido (< 10 ms).
+
+2.3 CONTROLADORES DE AMBIENTE (Termostatos e Painéis Locais)
+
+Termostato inteligente de ambiente:
+- Controle de temperatura e umidade local
+- Interface com usuário (touchscreen ou botões)
+- Aprendizado de padrões de ocupação (machine learning)
+- Comunicação wireless (Zigbee, Z-Wave) ou com fio (BACnet)
+- Override manual para atender necessidades pontuais dos ocupantes
+
+2.4 INTERFACE DE SUPERVISÃO (SCADA/BMS)
+
+Software de supervisão SCADA (Supervisory Control and Data Acquisition):
+- Interface gráfica com esquemáticos dos sistemas (Mimic Diagrams)
+- Monitoramento em tempo real de todos os pontos do sistema
+- Geração de alarmes e notificações (e-mail, SMS)
+- Historizador de dados (trending): armazenamento de até 10 anos
+- Relatórios de consumo energético por período, setor e sistema
+- Dashboards de KPIs (Indicadores-Chave de Desempenho)
+
+Servidores e infraestrutura de TI:
+- Servidor local (on-premises) ou em nuvem (Cloud BMS)
+- Redundância de servidor (ativo-passivo) para aplicações críticas
+- Backup de dados diário
+- Cibersegurança: rede segregada para BEMS (isolada da rede corporativa)
+
+2.5 ATUADORES
+
+Válvulas de controle:
+- Válvulas de 2 vias (ligado/desligado) e 3 vias (proporcional)
+- Atuadores elétricos (24VCC ou 220VCA)
+- Válvulas proporcionais: V (%) = função de e(t) — controle PID
+- Faixas de Cv: 0,1 a 1.000 Gpm/psi (selecionada conforme vazão)
+
+Variadores de Frequência (VFDs/inversores):
+- Controle de velocidade de motores elétricos de bombas e ventiladores
+- Economias típicas com VFD: 40 a 60% em sistemas com demanda variável
+- Lei do cubo: Potência ∝ (rotação)³ — redução de 20% da rotação
+  implica redução de 49% no consumo de energia
+
+Atuadores de dampers (registros de ar):
+- Controle de vazão de ar em sistemas VAV (Variable Air Volume)
+- Registros motorizados de 2 posições ou proporcionais (0-100%)
+
+Sistemas de iluminação DALI/DMX:
+- DALI (Digital Addressable Lighting Interface): endereçamento individual
+  por luminária, controle de nível de 0 a 100%, agrupamentos flexíveis
+- DMX512: sistemas de iluminação arquitetônica e cenários programados
+
+===============================================================
+CAPÍTULO 3 — ESTRATÉGIAS DE CONTROLE E ECONOMIA
+===============================================================
+
+3.1 CONTROLE DE HVAC
+
+Setpoint ótimo de temperatura:
+Temperatura de resfriamento: 24°C (não 22°C) — cada 1°C de aumento
+reduz o consumo do ar-condicionado em 5 a 8%.
+Temperatura de aquecimento: 20°C (não 22°C) — cada 1°C de redução
+economiza 5 a 8% no aquecimento.
+
+Setpoint flutuante (floating setpoint):
+Ajuste automático do setpoint conforme temperatura externa e ocupação:
+- Verão: permite temperatura interna de até 26°C em dias muito quentes
+- Madrugadas: mantém apenas 18°C em escritórios desocupados
+
+Controle por CO2 (Demand Controlled Ventilation — DCV):
+Aumenta a ventilação quando CO2 > 800 ppm (indício de alta ocupação).
+Reduz a ventilação quando CO2 < 600 ppm (ocupação baixa).
+Economia típica: 15 a 25% no consumo de energia de ventilação.
+
+Economizador de ar exterior:
+Usa ar externo para resfriamento gratuito quando temperatura e
+umidade externas são favoráveis.
+Temperatura de chaveamento: T_ext < T_int - 2°C (típico: 18°C)
+Economia típica: 10 a 30% no consumo de resfriamento em climas temperados.
+
+3.2 CONTROLE DE ILUMINAÇÃO
+
+Sensor de presença:
+Desliga automaticamente a iluminação quando o ambiente está desocupado.
+Temporização: 10 a 15 minutos após a última detecção de movimento.
+Economia típica em salas de reunião: 30 a 50% do consumo de iluminação.
+
+Aproveitamento de luz natural (daylight harvesting):
+Diminui o nível de iluminação artificial quando há luz natural suficiente.
+Sensor fotossensível: mantém iluminância constante no plano de trabalho.
+Economia típica em zonas perimetrais com janelas: 20 a 40%.
+
+Cenas de iluminação programadas:
+Programação de diferentes níveis e grupos de luminárias por horário:
+- Horário de trabalho normal: 100% em áreas operacionais
+- Após horário: 30% de redução em corredores
+- Fim de semana: 0% exceto circulação e segurança (20%)
+- Noite: apenas iluminação de emergência e segurança
+
+3.3 PROGRAMAÇÃO HORÁRIA (SCHEDULING)
+
+Plano semanal de funcionamento dos sistemas:
+- Dias úteis: acionamento 30 min antes da chegada dos usuários
+  (pré-condicionamento do ambiente)
+- Desligamento automático 30 min após o horário de saída
+- Feriados: operação reduzida conforme calendário programado
+- Gerenciamento de ausências: desliga sistemas em períodos de férias
+
+Economy cycle — ciclo econômico noturno:
+Durante a noite (edificações de escritório desocupadas):
+- HVAC: para ou opera em manutenção mínima (22°C a 28°C permissível)
+- Iluminação: apenas lâmpadas de emergência
+- Equipamentos: sinalização para desligar computadores e monitores
+- Bombas: operação mínima para manutenção de pressão de rede
+
+3.4 GERENCIAMENTO DE DEMANDA (DEMAND RESPONSE)
+
+O gerenciamento de demanda reduz os picos de consumo e os
+custos de demanda na tarifa de energia elétrica.
+
+Estratégias de redução de pico:
+- Deslocar cargas para horários de menor tarifação (horário fora de ponta)
+- Pré-resfriar o edifício antes do horário de pico (thermal flywheel)
+- Desligar cargas não essenciais durante o horário de pico
+
+Tarifa branca (ANEEL — residencial) e horosazonal (comercial):
+- Período de ponta: 18h às 21h (segunda a sexta)
+- Tarifa na ponta: 3 a 5× maior que fora de ponta
+- O BEMS gerencia automaticamente o despacho de cargas
+
+===============================================================
+CAPÍTULO 4 — IMPLANTAÇÃO E NORMAS
+===============================================================
+
+4.1 NORMAS E REFERÊNCIAS
+ABNT NBR ISO 50001:2018 — Sistemas de gestão da energia
+ISO 16484 — Building automation and control systems (BACS)
+ASHRAE Guideline 36 — High-performance sequences of operation for HVAC systems
+EN 15232 — Energy performance of buildings — Impact of BACS
+BACnet/IP: ANSI/ASHRAE 135 — protocolo de comunicação padrão
+
+4.2 PROJETO DO BEMS
+
+FASE 1 — Auditoria energética (obrigatória):
+Levantar o perfil de consumo atual: dados de 12 meses de faturas.
+Identificar os principais consumidores de energia por sistema.
+Estabelecer linha de base (baseline) para comparação pós-implantação.
+
+FASE 2 — Definição de pontos de monitoramento:
+Regra geral: monitorar tudo que consome > 5% do total.
+Mínimo recomendado para edificação de porte médio (5.000 m²):
+- 1 medidor geral de entrada (kWh, kW, kVAr)
+- 1 medidor por pavimento ou zona de HVAC
+- 1 medidor para iluminação das áreas comuns
+- 1 medidor por equipamento de grande porte (chiller, gerador)
+- Sensores de temperatura por zona de controle de HVAC
+
+FASE 3 — Seleção dos equipamentos:
+Garantir compatibilidade de protocolo (BACnet, Modbus, DALI).
+Prever redundância para sistemas críticos (saúde, data centers).
+Considerar escalabilidade para futura expansão.
+
+FASE 4 — Instalação e comissionamento:
+Seguir o plano de comissionamento de sistemas de automação.
+Verificar todos os pontos de medição com instrumento padrão rastreado.
+Calibrar sensores conforme especificações do fabricante.
+Testar todas as sequências de controle em campo.
+
+FASE 5 — Treinamento e operação:
+Treinar a equipe de manutenção em operação e resolução de falhas.
+Documentar todas as sequências de controle (SOPs — Standard Operating Procedures).
+Estabelecer rotina de revisão mensal de performance (energy review).
+
+4.3 INDICADORES DE DESEMPENHO (KPIs)
+
+EUI — Energy Use Intensity:
+EUI = Consumo total anual de energia (kWh) / Área bruta (m²)
+Benchmark para escritórios no Brasil: 150 a 250 kWh/m²/ano
+Edifícios eficientes: < 100 kWh/m²/ano
+
+PUE — Power Usage Effectiveness (para data centers):
+PUE = Energia total do data center / Energia dos equipamentos de TI
+Padrão mínimo: PUE < 1,5 | Boa prática: PUE < 1,2
+
+Economia relativa (Energy Savings %):
+Savings% = (Consumo_base - Consumo_atual) / Consumo_base × 100%
+Verificar mensalmente comparando com ano anterior (ajustado por graus-dia).
+
+4.4 CERTIFICAÇÕES RELACIONADAS AO BEMS
+
+LEED — Crédito EA (Energy and Atmosphere):
+O BEMS contribui para os créditos de comissionamento avançado (EA Credit 3)
+e resposta à demanda (EA Credit 6).
+
+AQUA-HQE — Categoria 4 (Gestão de Energia):
+O BEMS é instrumento para atingir os níveis mais elevados de desempenho
+energético (Excelente e Excepcional) no referencial AQUA-HQE.
+
+ISO 50001 — Sistema de Gestão de Energia:
+O BEMS fornece os dados de monitoramento e controle necessários para
+implementar, operar e auditar um Sistema de Gestão de Energia conforme
+a ISO 50001, padrão internacional de gestão energética.

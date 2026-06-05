@@ -1,0 +1,214 @@
+ABNT NBR 10844 — Instalações Prediais de Águas Pluviais
+Associação Brasileira de Normas Técnicas (ABNT)
+Primeira edição: 1989 | Atualização: 2023
+Idioma: Português
+
+===============================================================
+ESCOPO E OBJETIVO
+===============================================================
+
+Esta norma fixa os requisitos exigíveis para o projeto de instalações
+prediais destinadas a coletar, conduzir e encaminhar o escoamento
+superficial resultante da precipitação pluviométrica sobre coberturas,
+terraços, pátios e demais áreas descobertas das edificações.
+
+APLICAÇÃO: Instalações prediais de águas pluviais em edificações de
+todos os tipos: residenciais, comerciais, industriais e mistas.
+
+===============================================================
+SEÇÃO 3 — CONCEITOS E DEFINIÇÕES
+===============================================================
+
+Calha: Canal destinado a receber e conduzir as águas pluviais
+captadas na cobertura.
+
+Condutor vertical (Tubo de queda): Tubulação vertical destinada
+a conduzir as águas pluviais coletadas pelas calhas ou terraços.
+
+Condutor horizontal: Tubulação horizontal ou com declividade
+mínima, destinada a conduzir as águas pluviais até o exterior
+da edificação ou rede pública.
+
+Ralo: Dispositivo instalado na cobertura ou piso para captação
+das águas pluviais.
+
+Área de contribuição: Área projetada horizontalmente da superfície
+que drena para um determinado ponto de captação.
+
+===============================================================
+SEÇÃO 4 — DADOS DE PROJETO
+===============================================================
+
+SEÇÃO 4.1 — INTENSIDADE PLUVIOMÉTRICA
+
+A intensidade pluviométrica (I) utilizada no dimensionamento deve
+ser obtida para:
+- Período de retorno: mínimo de 5 anos para uso geral
+- Período de retorno: mínimo de 25 anos para áreas com risco de
+  dano a pessoas ou patrimônio (hospitais, aeroportos, etc.)
+- Duração da chuva: 5 minutos (chuvas de alta intensidade)
+
+Valores típicos de intensidade por região brasileira:
+- São Paulo (capital): I = 150 mm/h (período 5 anos)
+- Rio de Janeiro: I = 157 mm/h
+- Fortaleza: I = 133 mm/h
+- Manaus: I = 161 mm/h
+- Porto Alegre: I = 113 mm/h
+- Brasília: I = 118 mm/h
+
+SEÇÃO 4.2 — ÁREA DE CONTRIBUIÇÃO
+
+A área de contribuição é a projeção horizontal da superfície drenante.
+Para superfícies inclinadas, usa-se a projeção horizontal.
+
+Coeficiente de escoamento (C):
+- Cobertura impermeável: C = 1,00
+- Jardins e gramados com declividade < 2%: C = 0,25
+- Jardins e gramados com declividade 2 a 7%: C = 0,35
+- Paralelepípedos com areia: C = 0,40
+
+===============================================================
+SEÇÃO 5 — DIMENSIONAMENTO DE CALHAS
+===============================================================
+
+SEÇÃO 5.1 — VAZÃO DE PROJETO
+Q = r × A / 60.000
+
+onde:
+Q = vazão de projeto (L/s)
+r = intensidade pluviométrica (mm/h)
+A = área de contribuição (m²)
+
+SEÇÃO 5.2 — TIPOS DE CALHAS
+Calhas de beiral: instaladas nas extremidades da cobertura
+Calhas de platibanda: embutidas em platibandas
+Calhas centrais: localizadas no centro da cobertura (uso restrito)
+
+SEÇÃO 5.3 — DECLIVIDADE DAS CALHAS
+Declividade mínima das calhas: 0,5% (5 mm/m)
+Recomendada para calhas longas: 1% (10 mm/m)
+
+SEÇÃO 5.4 — TABELA DE DIMENSIONAMENTO DE CALHAS (Seção retangular)
+Largura útil (cm) | Altura útil (cm) | Q máx (L/s) - declividade 0,5%
+10                | 10               | 2,4
+15                | 10               | 4,2
+20                | 15               | 8,3
+25                | 15               | 11,6
+30                | 20               | 18,5
+
+===============================================================
+SEÇÃO 6 — DIMENSIONAMENTO DE CONDUTORES VERTICAIS
+===============================================================
+
+SEÇÃO 6.1 — TABELA DE CONDUTORES VERTICAIS (circulares)
+Diâmetro interno (mm) | Q máx (L/s) para H ≤ 6 m | para H > 6 m
+70                    | 4,0                        | 5,0
+100                   | 9,0                        | 11,0
+125                   | 15,0                       | 18,0
+150                   | 23,0                       | 28,0
+200                   | 46,0                       | 56,0
+
+H = altura do condutor vertical até o ponto de captação
+
+SEÇÃO 6.2 — POSICIONAMENTO
+Máxima distância entre ralos e condutores: 10 m (calhas sem
+declividade definida) ou conforme cálculo hidráulico.
+
+===============================================================
+SEÇÃO 7 — DIMENSIONAMENTO DE CONDUTORES HORIZONTAIS
+===============================================================
+
+SEÇÃO 7.1 — DECLIVIDADE MÍNIMA
+Condutores horizontais circulares: declividade mínima de 0,5%
+Condutores horizontais de seção retangular: mínimo de 0,5%
+Recomendado: 1% para facilitar limpeza e manutenção.
+
+SEÇÃO 7.2 — TABELA DE DIMENSIONAMENTO (tubos circulares)
+Diâmetro interno (mm) | Q máx (L/s) para i = 0,5% | para i = 1%
+75                    | 1,4                         | 2,0
+100                   | 2,9                         | 4,1
+150                   | 8,0                         | 11,4
+200                   | 16,7                        | 23,6
+250                   | 29,5                        | 41,8
+300                   | 47,0                        | 66,5
+
+===============================================================
+SEÇÃO 8 — APROVEITAMENTO DE ÁGUA PLUVIAL
+===============================================================
+
+SEÇÃO 8.1 — SISTEMAS DE CAPTAÇÃO PARA REÚSO
+A norma atualizada de 2023 incorpora diretrizes para aproveitamento
+de água pluvial para fins não potáveis:
+
+Usos permitidos para água pluvial captada e tratada:
+- Descarga de bacias sanitárias
+- Irrigação de jardins e áreas verdes
+- Lavagem de pisos, calçadas e veículos
+- Reposição de água em reservatórios de torres de resfriamento
+
+Usos não permitidos (sem tratamento adicional):
+- Consumo humano (beber, cozinhar, higiene pessoal)
+- Lavagem de alimentos
+
+SEÇÃO 8.2 — DIMENSIONAMENTO DO RESERVATÓRIO
+Método simplificado (Rippl):
+Volume mínimo do reservatório = Demanda mensal / (Precipitação mensal × Área)
+
+Método de simulação:
+Simulação diária ou mensal do balanço hídrico com série histórica
+de precipitação de pelo menos 10 anos.
+
+SEÇÃO 8.3 — QUALIDADE DA ÁGUA PLUVIAL CAPTADA
+A água pluvial deve atender à ABNT NBR 15527 para uso em descargas
+sanitárias (classe de uso 2). Os parâmetros mínimos de tratamento:
+- Turbidez: ≤ 2,0 UNT
+- Coliformes termotolerantes: ausência em 100 mL
+- Cloro residual livre: 0,5 a 2,0 mg/L
+
+SEÇÃO 8.4 — IDENTIFICAÇÃO DAS TUBULAÇÕES
+As tubulações de água pluvial para reúso devem ser identificadas
+visualmente por cor diferenciada:
+- Cor recomendada: cinza ou lilás
+- Marcação a cada 2 metros com inscrição "ÁGUA NÃO POTÁVEL"
+- Conexões com a rede de água potável são expressamente proibidas
+
+SEÇÃO 8.5 — POTENCIAL DE ECONOMIA
+O aproveitamento de água pluvial pode substituir de 20% a 50% do
+consumo de água potável, dependendo do regime pluviométrico local,
+da área de captação disponível e da demanda de usos não potáveis.
+
+===============================================================
+SEÇÃO 9 — DISPOSITIVOS DE CAPTAÇÃO
+===============================================================
+
+Ralos hemisféricos: para coberturas planas e terraços
+- Taxa de escoamento: área de grelha ≥ 1,5 × área do condutor
+- Espaçamento máximo entre ralos: 15 m
+
+Ralos de piso: para áreas descobertas e garagens
+- Área efetiva de escoamento: ≥ 2 × área do condutor
+
+Saídas livres (tipo escoamento por calha): para grandes superfícies
+- Largura mínima do orifício de saída: 3 cm
+- Posicionamento no ponto mais baixo da superfície
+
+===============================================================
+SEÇÃO 10 — MATERIAIS E EXECUÇÃO
+===============================================================
+
+Materiais aceitos para condutores pluviais:
+- PVC rígido (NBR 5688): mais utilizado, resistente a UV com aditivos
+- Aço galvanizado: para calhas expostas
+- Cobre: para edificações de alto padrão
+- Ferro fundido: para situações de alto impacto
+- Polipropileno: resistência química e térmica superior
+- Alumínio: calhas de beiral em edificações residenciais
+
+Juntas e conexões:
+- Devem garantir estanqueidade em toda a extensão
+- Dilatações térmicas devem ser previstas (juntas de dilatação
+  a cada 12 metros em condutores de PVC)
+
+Inspeção e limpeza:
+- Ralos devem ser facilmente acessíveis para limpeza
+- Registro de inspeção recomendado a cada 3 metros em condutores horizontais

@@ -1,0 +1,397 @@
+LEED v4.1 BD+C Reference Guide
+U.S. Green Building Council (USGBC)
+Versão 4.1 — 2019, atualizado 2021
+Idioma: Inglês
+
+===============================================================
+INTRODUÇÃO AO SISTEMA LEED
+===============================================================
+
+O LEED (Leadership in Energy and Environmental Design) é o sistema de
+certificação ambiental de edificações mais utilizado no mundo, desenvolvido
+pelo U.S. Green Building Council (USGBC). O LEED v4.1 BD+C (Building
+Design and Construction) aplica-se a edificações novas ou grandes reformas
+em fase de projeto e construção.
+
+O sistema organiza os requisitos em categorias de créditos, cada um com
+pontuação específica. A certificação é concedida em quatro níveis:
+- Certified: 40 a 49 pontos
+- Silver: 50 a 59 pontos
+- Gold: 60 a 79 pontos
+- Platinum: 80 pontos ou mais
+
+===============================================================
+CATEGORIA: LOCATION AND TRANSPORTATION (LT)
+===============================================================
+
+LT Credit — Sensitive Land Protection
+Pontuação: 1 ponto
+Não construir em áreas ambientalmente sensíveis como planícies de
+inundação de 100 anos, habitats de espécies ameaçadas, terrenos a
+menos de 15 metros de corpos d'água.
+
+LT Credit — High Priority Site
+Pontuação: 2 pontos
+Construir em áreas de revitalização urbana, brownfields certificados
+ou zonas de desenvolvimento de alta prioridade ambiental.
+
+LT Credit — Surrounding Density and Diverse Uses
+Pontuação: 1 a 5 pontos
+Edificações em áreas com densidade de ocupação ≥ 22.000 m² de área
+bruta de piso por hectare no raio de 800 metros recebem pontuação
+máxima. Exige-se acesso a pelo menos 4 tipos distintos de uso do solo
+a até 800 metros a pé.
+
+LT Credit — Access to Quality Transit
+Pontuação: 1 a 5 pontos
+O projeto deve estar a no máximo 800 metros de parada de ônibus com
+frequência mínima de 1 viagem por hora nos dias úteis, ou a 1.200 metros
+de estação de metrô, trem ou VLT com frequência mínima de 1 viagem
+por hora.
+
+LT Credit — Bicycle Facilities
+Pontuação: 1 ponto
+Fornecer bicicletários seguros na proporção de 5% das vagas de
+estacionamento regulares para ocupantes. Para visitantes, mínimo de
+2 racks para edificações com até 100 ocupantes.
+
+LT Credit — Reduced Parking Footprint
+Pontuação: 1 ponto
+Não superar 100% da capacidade mínima de estacionamento definida
+pelos códigos locais, ou reduzir em pelo menos 20% em relação
+à linha de base.
+
+LT Credit — Electric Vehicles
+Pontuação: 1 ponto
+Fornecer infraestrutura para carregamento de veículos elétricos em
+pelo menos 2% das vagas totais. Instalar eletrodutos em pelo menos
+8% das vagas adicionais.
+
+===============================================================
+CATEGORIA: SUSTAINABLE SITES (SS)
+===============================================================
+
+SS Prerequisite — Construction Activity Pollution Prevention
+Obrigatório para todas as certificações.
+Implementar Erosion and Sedimentation Control Plan (ESCP) conforme
+os requisitos EPA CGP (Construction General Permit) ou norma local
+equivalente mais restritiva.
+
+SS Credit — Site Assessment
+Pontuação: 1 ponto
+Realizar avaliação do terreno antes do projeto abordando: topografia,
+hidrologia, clima, vegetação existente, solos, uso humano e recursos
+humanos do entorno.
+
+SS Credit — Site Development: Protect or Restore Habitat
+Pontuação: 1 a 2 pontos
+Para áreas desenvolvidas: restaurar 30% da área do terreno (excluindo
+a pegada da edificação) com vegetação nativa ou adaptada.
+Para terrenos greenfield: limitar a perturbação a 12 metros além da
+pegada da edificação.
+
+SS Credit — Open Space
+Pontuação: 1 ponto
+Prover espaço aberto exterior equivalente a 30% da área total do terreno.
+Pelo menos 25% do espaço aberto deve ser vegetado permeável.
+
+SS Credit — Rainwater Management
+Pontuação: 1 a 3 pontos
+Nível 1 (1 ponto): Gerenciar no local o escoamento de eventos de chuva
+correspondentes ao percentil 85 das precipitações locais.
+Nível 2 (2 pontos): Percentil 95 das precipitações.
+Nível 3 (3 pontos): Percentil 98 ou retenção de 100% da precipitação
+média anual.
+
+SS Credit — Heat Island Reduction
+Pontuação: 1 a 2 pontos
+Opção 1 — Não-telhado e Telhado (2 pontos): Cobrir 75% das superfícies
+não-telhado com pavimentos de SRI ≥ 29 ou sombra. Cobrir 75% do
+telhado com materiais de SRI ≥ 82 (telhados inclinados) ou ≥ 64
+(telhados planos).
+Opção 2 — Vegetação (2 pontos): Telhado verde cobrindo pelo menos
+75% da área de cobertura disponível.
+
+SS Credit — Light Pollution Reduction
+Pontuação: 1 ponto
+Limitar a luz emitida para cima e para as propriedades vizinhas.
+Luminárias externas devem ter ângulo de emissão superior ≤ 90°.
+
+===============================================================
+CATEGORIA: WATER EFFICIENCY (WE)
+===============================================================
+
+WE Prerequisite 1 — Outdoor Water Use Reduction
+REQUISITO OBRIGATÓRIO — sem pontuação
+Toda edificação deve instalar medidores de consumo de água separados
+e dedicados ao sistema de irrigação de áreas externas.
+A medição individualizada é requisito obrigatório para todas as
+categorias de certificação LEED.
+O sistema de medição deve registrar consumo diário com precisão de ±2%.
+
+WE Prerequisite 2 — Indoor Water Use Reduction
+REQUISITO OBRIGATÓRIO — sem pontuação
+Reduzir o consumo de água potável em pelo menos 20% em relação à
+linha de base calculada pelo LEED Water Use Reduction Calculator.
+
+Valores de linha de base por fixture (EPA WaterSense baselines):
+- Vasos sanitários: 6,0 L/descarga (flush)
+- Mictórios: 3,8 L/descarga
+- Lavatórios (público): 1,9 L/min
+- Chuveiros: 9,5 L/min
+- Pias de cozinha: 8,3 L/min
+
+WE Prerequisite 3 — Building-Level Water Metering
+REQUISITO OBRIGATÓRIO — sem pontuação
+Instalar medidores permanentes de água potável para toda a edificação.
+Os dados de consumo devem ser compartilhados com o USGBC por
+pelo menos 5 anos.
+
+WE Credit — Outdoor Water Use Reduction
+Pontuação: 1 a 2 pontos
+
+INTENT: Reduzir o consumo de água potável utilizada para irrigação
+de áreas externas paisagísticas.
+
+REQUISITO:
+Demonstrar redução mínima de 30% no consumo de água exterior em
+comparação com a linha de base calculada para a zona climática do
+projeto. A linha de base deve ser calculada usando o Landscape
+Irrigation Calculator disponibilizado pelo USGBC, que considera
+espécies vegetais, áreas irrigadas e evapotranspiração local.
+
+PONTUAÇÃO:
+Redução de 30%: 1 ponto
+Redução de 50% ou mais: 2 pontos (pontuação adicional)
+
+ESTRATÉGIAS:
+- Uso de espécies nativas e adaptadas ao clima local (prioritário)
+- Sistemas de irrigação de alta eficiência: gotejamento (drip) ou
+  micro-aspersão
+- Sensores de umidade do solo (soil moisture sensors)
+- Controladores climáticos de irrigação (weather-based)
+- Reúso de água cinza ou pluvial para irrigação
+
+Para edificações com área irrigada superior a 500 m², o dimensionamento
+deve incluir relatório de cálculo assinado por profissional habilitado.
+A verificação é realizada mediante apresentação de contas de água
+dos últimos 12 meses após a ocupação do edifício.
+
+WE Credit — Indoor Water Use Reduction
+Pontuação: 1 a 6 pontos
+
+Redução de 25%: 1 ponto
+Redução de 30%: 2 pontos
+Redução de 35%: 3 pontos
+Redução de 40%: 4 pontos
+Redução de 45%: 5 pontos
+Redução de 50%: 6 pontos
+
+Fixtures elegíveis para cálculo: vasos sanitários, mictórios,
+lavatórios, chuveiros e pias. Equipamentos de processo não são
+incluídos no cálculo de redução.
+
+WE Credit — Cooling Tower Water Use
+Pontuação: 1 a 2 pontos
+Medir consumo da torre de resfriamento e atingir ciclos de
+concentração mínimos, reduzindo purgas desnecessárias.
+
+WE Credit — Water Metering
+Pontuação: 1 ponto
+Instalar medidores permanentes para pelo menos dois dos seguintes
+subsistemas: irrigação, torres de resfriamento, chuveiros e vasos
+sanitários, lavagem de roupa, recuperação de condensado de HVAC.
+
+===============================================================
+CATEGORIA: ENERGY AND ATMOSPHERE (EA)
+===============================================================
+
+EA Prerequisite — Fundamental Commissioning and Verification
+REQUISITO OBRIGATÓRIO
+Designar um Commissioning Authority (CxA) independente.
+O CxA deve verificar sistemas de HVAC, iluminação, envelope e
+sistemas de geração de energia renovável.
+
+EA Prerequisite — Minimum Energy Performance
+REQUISITO OBRIGATÓRIO
+Atingir melhoria mínima de 5% no desempenho energético em relação
+à linha de base definida pela ASHRAE 90.1-2016.
+Para edificações sem sistemas de condicionamento de ar, a melhoria
+mínima é de 3%.
+
+EA Prerequisite — Building-Level Energy Metering
+REQUISITO OBRIGATÓRIO
+Instalar medidores de energia elétrica e combustíveis para toda
+a edificação. Compartilhar dados com USGBC por mínimo de 5 anos.
+
+EA Prerequisite — Fundamental Refrigerant Management
+REQUISITO OBRIGATÓRIO
+Não utilizar CFCs (clorofluorcarbonos) nos sistemas de HVAC.
+
+EA Credit — Enhanced Commissioning
+Pontuação: 2 a 6 pontos
+Expandir o escopo do commissioning para incluir sistemas de envelope
+e monitoramento avançado pós-ocupação.
+
+EA Credit — Optimize Energy Performance
+Pontuação: 1 a 20 pontos (maior pontuação individual do sistema LEED)
+Demonstrar melhoria percentual no desempenho energético:
+5% melhoria: 1 ponto
+10% melhoria: 3 pontos
+20% melhoria: 7 pontos
+30% melhoria: 12 pontos
+40% melhoria: 17 pontos
+50% ou mais: 20 pontos
+
+Métodos aceitos:
+Opção 1 — Whole Building Energy Simulation (ASHRAE 90.1 Appendix G)
+Opção 2 — ASHRAE 50% Advanced Energy Design Guide
+
+EA Credit — Advanced Energy Metering
+Pontuação: 1 ponto
+Instalar medidores avançados em todos os sistemas que consomem
+mais de 10% do consumo total do edifício.
+
+EA Credit — Demand Response
+Pontuação: 1 a 2 pontos
+Participar de programas de resposta à demanda (DR) da concessionária.
+Capacidade de redução de carga de pelo menos 10% da demanda de pico.
+
+EA Credit — Renewable Energy Production
+Pontuação: 1 a 3 pontos
+1% a 5% da demanda de energia por renováveis: 1 ponto
+5% a 10%: 2 pontos
+10% ou mais: 3 pontos
+
+EA Credit — Green Power and Carbon Offsets
+Pontuação: 1 a 2 pontos
+Contratar fornecimento de energia renovável certificada Green-e
+ou equivalente por pelo menos 5 anos.
+
+===============================================================
+CATEGORIA: MATERIALS AND RESOURCES (MR)
+===============================================================
+
+MR Prerequisite — Storage and Collection of Recyclables
+REQUISITO OBRIGATÓRIO
+Prover áreas dedicadas para coleta e armazenamento de materiais
+recicláveis: papel, vidro, plástico, metais e pilhas/baterias.
+
+MR Credit — Building Life-Cycle Impact Reduction
+Pontuação: 2 a 6 pontos
+Reúso de estrutura existente ou uso de materiais com análise de
+ciclo de vida (LCA) demonstrando redução de impactos ambientais.
+
+MR Credit — Building Product Disclosure and Optimization
+Pontuação: 1 a 3 pontos
+Usar produtos com Environmental Product Declarations (EPDs) e
+declarações de saúde de materiais (HPDs).
+
+MR Credit — Construction and Demolition Waste Management
+Pontuação: 1 a 2 pontos
+Desviar da disposição em aterro pelo menos 50% dos resíduos de
+construção e demolição (1 ponto) ou 75% (2 pontos).
+
+===============================================================
+CATEGORIA: INDOOR ENVIRONMENTAL QUALITY (EQ)
+===============================================================
+
+EQ Prerequisite — Minimum Indoor Air Quality Performance
+REQUISITO OBRIGATÓRIO
+Atender aos requisitos mínimos de ventilação da ASHRAE 62.1-2016
+ou código local equivalente mais restritivo.
+
+EQ Prerequisite — Environmental Tobacco Smoke Control
+REQUISITO OBRIGATÓRIO
+Proibir fumo em espaços interiores. Área de fumantes ao ar livre
+deve estar a pelo menos 8 metros de entradas e tomadas de ar.
+
+EQ Credit — Enhanced Indoor Air Quality Strategies
+Pontuação: 1 a 2 pontos
+Instalar filtros MERV 13 ou superior nas unidades de tratamento de ar.
+Prover monitores permanentes de CO2 em espaços com ocupação variável.
+
+EQ Credit — Low-Emitting Materials
+Pontuação: 1 a 3 pontos
+Usar materiais com baixa emissão de compostos orgânicos voláteis
+(VOCs): tintas, adesivos, selantes, pisos, forros e madeiras.
+
+EQ Credit — Construction Indoor Air Quality Management Plan
+Pontuação: 1 ponto
+Implementar plano de gestão da qualidade do ar durante a construção,
+protegendo dutos e vedando aberturas para evitar contaminação.
+
+EQ Credit — Indoor Air Quality Assessment
+Pontuação: 1 a 2 pontos
+Realizar avaliação da qualidade do ar interior antes da ocupação,
+medindo formaldeído, material particulado, COV totais e CO2.
+
+EQ Credit — Thermal Comfort
+Pontuação: 1 ponto
+Projetar sistemas de HVAC para atender às condições de conforto
+térmico da ASHRAE 55-2017 com controles individuais de temperatura.
+
+EQ Credit — Interior Lighting
+Pontuação: 1 a 2 pontos
+Prover controles de iluminação individuais para pelo menos 90% dos
+ocupantes em espaços de uso individual.
+
+EQ Credit — Daylight
+Pontuação: 1 a 3 pontos
+Prover iluminação natural (daylight) para pelo menos 55% dos espaços
+regularmente ocupados por meio de simulação (ASE e sDA).
+
+EQ Credit — Quality Views
+Pontuação: 1 ponto
+Prover visão direta para o exterior a partir de pelo menos 75% dos
+espaços regularmente ocupados.
+
+===============================================================
+CATEGORIA: INNOVATION (IN)
+===============================================================
+
+IN Credit — Innovation
+Pontuação: 1 a 5 pontos
+Implementar estratégias de sustentabilidade inovadoras não cobertas
+pelos créditos LEED existentes ou atingir desempenho exemplar
+(nível de pontuação máxima dobrado) em créditos elegíveis.
+
+IN Credit — LEED Accredited Professional
+Pontuação: 1 ponto
+Ter pelo menos um membro da equipe de projeto com credencial
+LEED AP com especialização (LEED AP BD+C).
+
+===============================================================
+CATEGORIA: REGIONAL PRIORITY (RP)
+===============================================================
+
+RP Credit — Regional Priority
+Pontuação: 1 a 4 pontos
+Créditos de prioridade regional são definidos pelo USGBC para cada
+localidade com base em problemáticas ambientais específicas da região.
+Atingir o crédito de prioridade regional equivalente garante 1 ponto
+bônus adicional além da pontuação do crédito original.
+
+===============================================================
+PROCESSO DE CERTIFICAÇÃO
+===============================================================
+
+1. REGISTRO DO PROJETO
+O projeto deve ser registrado no LEED Online antes do início da
+construção. Taxa de registro varia por tipo de edificação e área.
+
+2. DOCUMENTAÇÃO
+Toda a documentação é enviada pelo LEED Online. Cada crédito exige
+formulários específicos, cálculos, fotografias e declarações.
+
+3. REVISÃO TÉCNICA
+O GBCI (Green Building Certification Institute) realiza a revisão.
+Há duas fases: Design Review (projeto) e Construction Review (obra).
+
+4. CERTIFICAÇÃO
+Após aprovação, o projeto recebe a placa oficial LEED e o registro
+no banco de dados público do USGBC.
+
+5. RECERTIFICAÇÃO
+Edificações certificadas podem se recertificar a cada 5 anos pelo
+programa LEED for Operations and Maintenance (O+M).

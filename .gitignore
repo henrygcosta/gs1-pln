@@ -1,0 +1,13 @@
+.env
+.coverage
+.pytest_cache/
+__pycache__/
+*.py[cod]
+logs/
+chroma_db/
+models/
+.venv/
+htmlcov/
+dist/
+build/
+*.egg-info/

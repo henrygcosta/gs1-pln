@@ -1,0 +1,258 @@
+Guia Nacional de Coleta e Preservação de Amostras — Reúso de Água
+Agência Nacional de Águas e Saneamento Básico (ANA)
+Publicação técnica 2022 | Brasília, Brasil
+Idioma: Português
+
+===============================================================
+APRESENTAÇÃO
+===============================================================
+
+A Agência Nacional de Águas e Saneamento Básico (ANA) é a entidade
+federal responsável pela gestão dos recursos hídricos no Brasil.
+Esta publicação consolida as diretrizes nacionais para reúso de
+água não potável em edificações e setores produtivos.
+
+O reúso planejado de água é uma das estratégias mais eficazes para
+reduzir a pressão sobre as fontes de água doce. No Brasil, o setor
+de edificações consome aproximadamente 20% da água distribuída
+nas cidades, sendo um campo fértil para implementação do reúso.
+
+===============================================================
+CAPÍTULO 1 — FUNDAMENTOS DO REÚSO DE ÁGUA
+===============================================================
+
+1.1 CONCEITOS E DEFINIÇÕES
+
+Reúso de água: aproveitamento de efluentes tratados para fins
+em que a qualidade da água potável não é necessária.
+
+Categorias de água para reúso:
+- Água cinza: efluente de lavatórios, chuveiros, banheiras e pias.
+  Não contém urina ou fezes.
+- Água de chuva (pluvial): precipitação captada em superfícies
+  impermeáveis como telhados e coberturas.
+- Efluente tratado de ETE: água residuária tratada de estações
+  de tratamento de esgoto urbano.
+- Água de condensação de ar-condicionado: água limpa produzida
+  pela condensação do vapor d'água do ar.
+
+1.2 CLASSIFICAÇÃO POR NÍVEL DE REÚSO
+Conforme ABNT NBR 13969 e resolução CNRH 54/2005:
+
+Classe 1 — Reúso potável indireto planejado:
+Recarga de aquíferos. Exige tratamento avançado.
+Parâmetros mais restritivos de qualidade.
+
+Classe 2 — Reúso urbano restrito:
+Lavagem de ruas, irrigação de jardins públicos, combate a incêndio.
+Qualidade intermediária.
+
+Classe 3 — Reúso urbano irrestrito:
+Irrigação de parques, campos esportivos, jardins de condomínios
+onde há contato direto de pessoas.
+Tratamento terciário necessário.
+
+Classe 4 — Reúso para fins industriais:
+Torres de resfriamento, caldeiras, lavagem de veículos e pisos.
+
+Classe 5 — Reúso em edificações (descarga sanitária):
+Principal aplicação em edificações residenciais e comerciais.
+Tratamento básico (filtração + desinfecção) é suficiente.
+
+1.3 POTENCIAL DE REDUÇÃO DO CONSUMO
+
+Reúso de água cinza para descarga sanitária:
+A descarga de vasos sanitários representa 27 a 32% do consumo
+doméstico total. O reúso de água cinza (proveniente de banhos
+e lavatórios) para suprir essa demanda pode reduzir o consumo
+de água potável em até 40% em edificações multifamiliares.
+
+Volume disponível de água cinza por tipologia:
+Residencial: 45 a 80 L/pessoa/dia disponíveis para reúso
+Comercial (escritórios): 15 a 30 L/funcionário/dia
+Hotel: 50 a 120 L/apartamento/dia
+
+Volume demandado para descarga sanitária:
+Residencial: 30 a 50 L/pessoa/dia (3-6 L/descarga × 6-8 descargas/dia)
+Escritórios: 8 a 20 L/funcionário/dia
+
+Conclusão: O volume disponível de água cinza é suficiente para
+suprir toda a demanda de descarga sanitária na maioria das tipologias.
+
+===============================================================
+CAPÍTULO 2 — SISTEMAS DE APROVEITAMENTO DE ÁGUA CINZA
+===============================================================
+
+2.1 COMPONENTES TÍPICOS DO SISTEMA
+
+COLETA:
+- Ralos e caixas coletoras em chuveiros, banheiras e lavatórios
+- Tubulação separada de coleta (cinza — identificada)
+- Peneira de proteção na entrada do reservatório
+
+PRÉ-TRATAMENTO:
+- Caixa de gordura ou separador de cabelos
+- Filtro de areia ou cartucho (remoção de sólidos finos)
+
+TRATAMENTO:
+- Filtro biológico (leito percolador ou membrana biorreatora — MBR)
+  para sistemas maiores
+- Desinfecção: cloração ou UV
+
+ARMAZENAMENTO:
+- Reservatório de água cinza tratada (tampa hermética, sem luz)
+- Volume mínimo: 1 dia de demanda de descarga
+
+DISTRIBUIÇÃO:
+- Bomba de recalque ou sistema gravitacional
+- Tubulação de distribuição identificada (cor roxa ou cinza escuro)
+- Etiquetas "ÁGUA NÃO POTÁVEL" a cada 2 metros
+
+CONTROLE:
+- Boia de nível no reservatório (evita esvaziamento e contaminação)
+- Alimentação automática de água potável em caso de falta de água cinza
+  (com válvula unidirecional para evitar contaminação da rede potável)
+
+2.2 DIMENSIONAMENTO DO SISTEMA
+
+PASSO 1 — Cálculo da geração de água cinza:
+Q_cinza = Número de moradores × Volume per capita de geração
+
+PASSO 2 — Cálculo da demanda para descarga:
+Q_descarga = Número de moradores × Descargas/dia × Volume/descarga
+
+PASSO 3 — Volume do reservatório de coleta:
+V_coleta = Q_cinza × Tempo de detenção hidráulica (TDH)
+TDH recomendado: 6 a 24 horas para sistemas residenciais
+
+PASSO 4 — Volume do reservatório de distribuição:
+V_distribuição = Q_descarga × 1 dia (autonomia mínima)
+
+PASSO 5 — Dimensionamento da bomba (se necessário):
+Q_bomba ≥ Q_pico de demanda de descarga
+Altura manométrica conforme distribuição vertical
+
+2.3 PARÂMETROS DE QUALIDADE (NBR 13969 — Classe 5)
+Parâmetro | Valor máximo permitido
+Turbidez | 5 UNT
+DBO5 | 10 mg/L
+Coliformes termotolerantes | Ausência em 100 mL
+pH | 6,0 a 9,0
+Nitrogênio total | 20 mg/L
+Cloro residual livre | 0,5 a 2,0 mg/L
+Surfactantes (tensioativos) | 0,5 mg/L
+Sólidos totais dissolvidos | 500 mg/L
+
+===============================================================
+CAPÍTULO 3 — SISTEMAS DE APROVEITAMENTO DE ÁGUA PLUVIAL
+===============================================================
+
+3.1 NORMA BRASILEIRA — ABNT NBR 15527:2019
+Esta norma estabelece os requisitos para aproveitamento de água
+de chuva de coberturas em áreas urbanas.
+
+Aplicações permitidas (sem tratamento avançado):
+- Descarga de bacias sanitárias
+- Irrigação de jardins externos
+- Lavagem de pisos, veículos e fachadas
+- Resfriamento de coberturas e equipamentos
+
+3.2 QUALIDADE DA ÁGUA PLUVIAL POR FASE
+Fase inicial ("first flush"):
+Os primeiros 1 a 2 mm de chuva são mais contaminados, pois
+arrastam poluentes depositados na cobertura.
+Dispositivo de descarte do "first flush" é obrigatório na norma.
+Volume a descartar: 1 a 2 L/m² de área de captação.
+
+Água pluvial após o first flush:
+Turbidez: 0,5 a 5 UNT
+Coliformes totais: < 1.000 UFC/100 mL (varia com condições locais)
+pH: 5,5 a 7,5 (levemente ácido pela CO2 atmosférico)
+
+3.3 TRATAMENTO MÍNIMO PARA DESCARGA SANITÁRIA
+ETAPA 1 — Descarte do first flush (automático)
+ETAPA 2 — Filtração grosseira (tela de mosquito na calha)
+ETAPA 3 — Filtração fina (filtro de areia ou cartucho 50 μm)
+ETAPA 4 — Desinfecção (cloração: 0,5 a 2,0 mg/L)
+
+3.4 DIMENSIONAMENTO DO RESERVATÓRIO
+
+Método de Rippl (mensal):
+V_mês = Demanda_mês - Volume_captado_mês
+V_captado = Precipitação_mês × Área_captação × Coef_escoamento × 0,001
+
+Coeficiente de escoamento:
+Telha cerâmica: 0,80
+Telha metálica: 0,90
+Laje impermeabilizada: 0,85
+
+O volume do reservatório é o máximo acumulado da série simulada.
+Para simplificação, pode-se adotar: V = 10% × Demanda anual.
+
+3.5 IDENTIFICAÇÃO E SEGURANÇA
+Reservatório: Tampa hermética, sem entrada de luz e insetos.
+Tubulações: Identificadas com cor específica (cinza claro ou verde).
+Registro geral: deve ser facilmente acessível para manutenção.
+Proibição absoluta: interligação com a rede de água potável.
+
+===============================================================
+CAPÍTULO 4 — APROVEITAMENTO DO CONDENSADO DE AR-CONDICIONADO
+===============================================================
+
+4.1 POTENCIAL DE CAPTAÇÃO
+O ar-condicionado de expansão direta produz água de condensação
+a partir da desumidificação do ar ambiente.
+
+Volume de condensado produzido:
+Depende da temperatura e umidade do ar de retorno e da potência do equipamento.
+Produção típica: 0,5 a 3 L/hora por tonelada de refrigeração (TR).
+
+Exemplo: 5 TR de ar-condicionado operando 8h/dia:
+Volume estimado: 5 × 1,5 × 8 = 60 L/dia
+
+4.2 QUALIDADE DO CONDENSADO
+O condensado de ar-condicionado é água destilada de alta qualidade:
+- pH: 6,0 a 7,0
+- Sólidos totais dissolvidos: < 10 mg/L (praticamente destilada)
+- Coliformes: ausência (não há contato com superfícies contaminadas)
+- Cloro: ausência
+
+O condensado pode ser usado diretamente para:
+- Irrigação de plantas (ideal: sem sal)
+- Reposição de reservatórios de água cinza
+- Limpeza de vidros (evita manchas de cal)
+- Alimentação de umidificadores
+
+===============================================================
+CAPÍTULO 5 — LEGISLAÇÃO E NORMAS
+===============================================================
+
+5.1 MARCO LEGAL DO SANEAMENTO (Lei 14.026/2020)
+Estabelece metas nacionais de universalização do saneamento:
+- Abastecimento de água: 99% da população até 2033
+- Coleta de esgoto: 90% da população até 2033
+- Tratamento de esgoto: 90% do coletado até 2033
+Incentiva o reúso como instrumento de gestão hídrica.
+
+5.2 POLÍTICA NACIONAL DE RECURSOS HÍDRICOS (Lei 9.433/1997)
+Define a água como bem público de valor econômico.
+A cobrança pelo uso da água incentiva o uso eficiente.
+O reúso reduz a captação de água bruta e a geração de efluentes.
+
+5.3 NORMAS TÉCNICAS RELEVANTES
+ABNT NBR 13969:1997 — Tanques sépticos: reúso local
+ABNT NBR 15527:2019 — Aproveitamento de água pluvial
+ABNT NBR 16782:2019 — Conservação de água em edificações
+ABNT NBR 5626:2020 — Sistemas prediais de água fria e quente
+Resolução CNRH 54/2005 — Modalidades, condições e padrões de reúso
+Resolução CONAMA 357/2005 — Classificação dos corpos d'água
+
+5.4 OBRIGATORIEDADE EM MUNICÍPIOS
+Alguns municípios brasileiros tornaram obrigatório o reúso de água
+em edificações acima de determinado porte:
+- São Paulo: Lei 14.018/2005 exige uso de água da chuva em condomínios
+  com área de captação acima de 500 m²
+- Brasília: Lei 3.885/2006 exige aproveitamento pluvial em novos
+  empreendimentos acima de 200 m²
+- Rio de Janeiro: Lei 4.248/2003 para grandes edificações
+Tendência de obrigatoriedade crescente em municípios com estresse hídrico.

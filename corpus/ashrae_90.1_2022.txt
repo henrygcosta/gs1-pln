@@ -1,0 +1,283 @@
+ANSI/ASHRAE/IES Standard 90.1-2022
+Energy Standard for Sites and Buildings Except Low-Rise Residential Buildings
+American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE)
+Atlanta, Georgia, USA — 2022 Edition
+Idioma: Inglês
+
+===============================================================
+INTRODUCTION AND SCOPE
+===============================================================
+
+ASHRAE Standard 90.1 establishes the minimum energy efficiency
+requirements for the design and construction of new buildings and
+additions to existing buildings, except for low-rise residential
+buildings (covered by ASHRAE Standard 90.2).
+
+SCOPE:
+- Commercial buildings: offices, retail, hotels, hospitals, schools
+- Industrial buildings with conditioned spaces
+- Buildings receiving federal funding or incentives
+- Buildings seeking LEED certification (mandatory reference)
+
+This standard is adopted by reference in the energy codes of all
+50 US states and many international jurisdictions including Canada,
+Mexico, and various countries.
+
+EDITIONS: Standard updated approximately every 3 years.
+2022 edition supersedes 2019 edition (most widely adopted globally).
+
+===============================================================
+CHAPTER 5 — BUILDING ENVELOPE
+===============================================================
+
+5.1 CLIMATE ZONES
+ASHRAE 90.1 organizes requirements by climate zone (1 to 8):
+
+Zone 1 — Very Hot: Miami, FL; Houston, TX; San Juan, PR
+Zone 2 — Hot: Las Vegas, NV; Tampa, FL; New Orleans, LA
+Zone 3 — Warm: Los Angeles, CA; Atlanta, GA; Dallas, TX
+Zone 4 — Mixed: Seattle, WA; Baltimore, MD; Albuquerque, NM
+Zone 5 — Cool: Chicago, IL; Denver, CO; Boston, MA
+Zone 6 — Cold: Minneapolis, MN; Helena, MT; Burlington, VT
+Zone 7 — Very Cold: Duluth, MN; International Falls, MN
+Zone 8 — Subarctic: Fairbanks, AK; Barrow, AK
+
+Subcategories:
+A = Moist (precipitation > 635 mm/year)
+B = Dry (precipitation ≤ 635 mm/year)
+C = Marine (ratio of sensible solar heating ≥ 1)
+
+5.2 ENVELOPE REQUIREMENTS — ROOFS
+
+Maximum U-factor (W/m²K) for roofs:
+                    Zone 1-2  Zone 3    Zone 4    Zone 5-6  Zone 7-8
+Insulation above deck: 0.273   0.220    0.183     0.164     0.148
+Metal building roof:   0.247   0.247    0.220     0.182     0.162
+
+Alternative: Maximum assembly U-factor includes all components.
+Solar Reflectance Index (SRI) requirements:
+Low-slope roof (< 2:12 pitch): SRI ≥ 82 for Zones 1-3
+Steep-slope roof (≥ 2:12 pitch): SRI ≥ 39 for Zones 1-3
+
+5.3 ENVELOPE REQUIREMENTS — WALLS
+
+Maximum U-factor for above-grade walls (W/m²K):
+Mass walls (thermal mass ≥ 23.5 kg/m²):
+Zone 1: U ≤ 0.701
+Zone 2: U ≤ 0.513
+Zone 3A & 3B: U ≤ 0.422
+Zone 4 except Marine: U ≤ 0.326
+Zone 5 & Marine: U ≤ 0.278
+Zone 6: U ≤ 0.243
+Zone 7: U ≤ 0.208
+Zone 8: U ≤ 0.172
+
+Steel-frame walls (with continuous insulation):
+Zone 1: U ≤ 0.516
+Zone 2: U ≤ 0.352
+Zone 3: U ≤ 0.294
+Zone 4: U ≤ 0.247
+Zone 5: U ≤ 0.220
+Zone 6: U ≤ 0.199
+Zone 7: U ≤ 0.172
+Zone 8: U ≤ 0.148
+
+5.4 FENESTRATION REQUIREMENTS (Windows and Skylights)
+
+SHGC (Solar Heat Gain Coefficient):
+Measure of solar heat transmitted through glazing (0 = no gain, 1 = max gain).
+Lower SHGC required in hot climates; higher allowed in cold climates.
+
+Maximum SHGC for vertical fenestration (all orientations):
+Zone 1: SHGC ≤ 0.25
+Zone 2: SHGC ≤ 0.25
+Zone 3: SHGC ≤ 0.25
+Zone 4: SHGC ≤ 0.40
+Zone 5: no requirement (PF adjustable)
+Zone 6-8: no requirement
+
+Maximum U-factor for vertical fenestration (W/m²K):
+Zone 1: U ≤ 6.81
+Zone 2: U ≤ 3.98
+Zone 3: U ≤ 3.24
+Zone 4: U ≤ 3.24
+Zone 5: U ≤ 2.56
+Zone 6: U ≤ 2.27
+Zone 7: U ≤ 1.99
+Zone 8: U ≤ 1.99
+
+Maximum window-to-wall ratio (WWR):
+No mandatory limit, but higher WWR requires lower U-factor and SHGC.
+Trade-off compliance path allows compensations between parameters.
+
+5.5 DOORS AND OPAQUE ASSEMBLIES
+
+Opaque doors (non-fenestration): U ≤ 0.37 W/m²K for all zones.
+Exception: Doors in conditioned spaces ≤ 0.67 m² and
+doors primarily opaque may use wall requirements.
+
+5.6 AIR LEAKAGE
+Building envelope maximum air leakage:
+0.2 L/s/m² at 75 Pa pressure difference (commercial buildings)
+Tested by whole-building pressurization at project completion.
+
+===============================================================
+CHAPTER 6 — HVAC SYSTEMS
+===============================================================
+
+6.1 EQUIPMENT EFFICIENCY MINIMUMS
+
+Unitary Air Conditioners and Heat Pumps — Cooling:
+≤ 65,000 BTU/h: SEER2 ≥ 14.3
+65,000-135,000 BTU/h: EER2 ≥ 11.5
+135,000-240,000 BTU/h: EER2 ≥ 11.0
+> 240,000 BTU/h: EER2 ≥ 10.0
+
+Chillers (Water-cooled):
+Centrifugal: IPLV ≥ 7.2 kW/kW (EER)
+Positive Displacement: IPLV ≥ 6.3 kW/kW
+Absorption: COP ≥ 0.72 (single effect), COP ≥ 1.22 (double effect)
+
+Air-cooled chillers:
+< 155 kW: EER ≥ 2.93
+155 to 700 kW: EER ≥ 2.93
+> 700 kW: EER ≥ 3.23
+
+Heat pumps:
+Air-source ≤ 19 kW: HSPF2 ≥ 7.5 (heating), SEER2 ≥ 14.3 (cooling)
+Variable Refrigerant Flow (VRF): EER ≥ 3.3 (cooling), COP ≥ 3.3 (heating)
+
+6.2 ECONOMIZER REQUIREMENTS
+Air-side economizers required in most climate zones for systems > 9,400 L/s.
+Exception: Systems using 100% outdoor air, or in zones where
+economizer hours are insufficient (dry bulb or enthalpy controlled).
+
+6.3 VENTILATION
+Minimum ventilation per ASHRAE Standard 62.1-2019:
+Office spaces: 2.5 L/s/person + 0.3 L/s/m²
+Conference rooms: 2.5 L/s/person + 0.3 L/s/m²
+Lobbies: 3.8 L/s/person + 0.3 L/s/m²
+Classrooms: 5.0 L/s/person + 0.6 L/s/m²
+
+Demand-controlled ventilation (DCV) required for:
+Spaces > 25 persons with occupant density > 0.25 persons/m²
+CO2 sensors as occupancy proxy are the most common DCV method.
+
+6.4 ENERGY RECOVERY
+Heat/energy recovery required when:
+Outdoor air fraction ≥ 70% of supply air AND
+System in climate zones with ≥ 750 hours at extremes per year.
+Minimum effectiveness:
+Sensible: 50% for supply and exhaust
+Latent (energy recovery): 50%
+
+===============================================================
+CHAPTER 7 — SERVICE WATER HEATING
+===============================================================
+
+7.1 EQUIPMENT EFFICIENCY
+Storage water heaters (electric resistance):
+> 75 L: Uniform Energy Factor (UEF) ≥ 0.91
+
+Heat pump water heaters (residential-type):
+≤ 110 L: UEF ≥ 3.75
+> 110 L: UEF ≥ 4.00
+
+Gas-fired storage water heaters:
+≤ 75 L: Energy Factor ≥ 0.67
+> 75 L: Et ≥ 80%
+
+7.2 PIPING INSULATION
+All hot water supply pipes must be insulated:
+Pipe diameter ≤ 25 mm: minimum 25 mm insulation
+Pipe diameter 25-50 mm: minimum 38 mm insulation
+Pipe diameter > 50 mm: minimum 50 mm insulation
+
+7.3 SOLAR WATER HEATING
+Not mandated by Standard 90.1, but may be credit toward
+energy budget in performance path compliance.
+
+===============================================================
+CHAPTER 9 — LIGHTING
+===============================================================
+
+9.1 LIGHTING POWER DENSITY (LPD) — INTERIOR
+
+Building Area Method (LPD in W/m²):
+Office: 9.7 W/m²
+Retail: 13.0 W/m²
+Hospital: 11.3 W/m²
+Hotel/motel: 7.6 W/m²
+School/university: 9.7 W/m²
+Warehouse: 7.0 W/m²
+Restaurant: 12.0 W/m²
+Convention center: 8.6 W/m²
+
+9.2 LIGHTING CONTROLS
+Automatic shutoff required in:
+- All enclosed spaces ≤ 280 m²: occupancy sensor or automatic timer
+- Open offices > 280 m²: daylight dimming in perimeter zones
+
+Daylight zone controls:
+Continuous dimming required in daylight zones ≤ 1.5 m from windows
+and ≤ 3.0 m from skylights.
+
+9.3 EXTERIOR LIGHTING
+Lighting Power Allowance (LPA) limits for each exterior zone:
+Zone 1 (dark sky): 0.5 W/m²
+Zone 2 (rural): 1.0 W/m²
+Zone 3 (suburban): 1.5 W/m²
+Zone 4 (urban): 2.0 W/m²
+
+Exterior luminaires ≥ 1,000 lumens: uplight fraction ≤ 0% for Zones 1-2.
+All exterior luminaires ≥ 60 W: full cutoff required.
+
+===============================================================
+CHAPTER 11 — ENERGY COST BUDGET METHOD (ECB)
+===============================================================
+
+11.1 PERFORMANCE COMPLIANCE PATH
+Alternative to prescriptive compliance.
+Proposed design energy cost ≤ Budget building energy cost.
+
+Budget building: same geometry as proposed, but using standard
+systems and equipment meeting prescriptive requirements.
+Simulation required: ASHRAE 90.1 Appendix G methodology.
+
+Approved simulation software:
+EnergyPlus, eQUEST, DOE-2, EnergyWizard, Trace 700, IES-VE
+(must be validated per ASHRAE Standard 140)
+
+11.2 EXCEPTIONAL CALCULATION METHODS
+Allowed for innovative technologies not covered by Appendix G:
+- Detailed daylighting analysis
+- Natural ventilation modeling
+- Phase-change material thermal storage
+- Radiant heating/cooling systems
+Requires documentation and peer review.
+
+===============================================================
+APPENDIX — NORMATIVE REQUIREMENTS
+===============================================================
+
+COMMISSIONING:
+Fundamental commissioning of HVAC and lighting control systems
+is required for all projects.
+Enhanced commissioning required for projects seeking LEED certification.
+
+ENERGY METERING:
+Whole-building energy metering required for all new buildings.
+Sub-metering required for each tenant space > 185 m².
+Data must be retained for minimum 3 years.
+
+ON-SITE RENEWABLE ENERGY:
+Not required by 90.1, but additional compliance points available
+through Appendix F (On-Site Renewable Energy).
+PV or solar thermal generation reduces energy cost budget.
+
+BUILDING AUTOMATION SYSTEMS (BAS):
+Required for HVAC systems > 7,000 L/s supply air or > 100 kW cooling.
+Must include:
+- System-level control sequences
+- Monitoring and diagnostics capability
+- Integration with utility demand response programs

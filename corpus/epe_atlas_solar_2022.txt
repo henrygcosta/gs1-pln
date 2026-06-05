@@ -1,0 +1,256 @@
+Atlas de Energia Elétrica do Brasil — Recurso Solar Fotovoltaico
+Empresa de Pesquisa Energética (EPE) / Ministério de Minas e Energia
+Edição 2022 | Brasília, Brasil
+Idioma: Português
+
+===============================================================
+APRESENTAÇÃO
+===============================================================
+
+A Empresa de Pesquisa Energética (EPE) é a instituição responsável
+pelo planejamento do setor energético brasileiro. O Atlas Solar EPE
+consolida os dados de irradiação solar no território nacional
+e o potencial de geração fotovoltaica por região.
+
+O Brasil possui um dos maiores recursos solares do mundo,
+com irradiação global horizontal (GHI) variando entre
+1.500 e 2.350 kWh/m²/ano em todo o território.
+
+===============================================================
+CAPÍTULO 1 — RECURSO SOLAR BRASILEIRO
+===============================================================
+
+1.1 IRRADIAÇÃO GLOBAL HORIZONTAL (GHI)
+
+Valores médios anuais de GHI por região:
+- Nordeste (sertão): 2.200 a 2.350 kWh/m²/ano (melhor recurso)
+- Centro-Oeste: 2.000 a 2.200 kWh/m²/ano
+- Sudeste interior: 1.900 a 2.100 kWh/m²/ano
+- Sul: 1.500 a 1.800 kWh/m²/ano (pior recurso, ainda bom)
+- Norte (Amazônia): 1.800 a 2.100 kWh/m²/ano (alta nebulosidade)
+- Nordeste litoral: 2.000 a 2.200 kWh/m²/ano
+
+Comparação internacional:
+- Alemanha (referência em FV): 1.000 a 1.200 kWh/m²/ano
+- Espanha: 1.400 a 1.900 kWh/m²/ano
+- Brasil (mínimo): 1.500 kWh/m²/ano
+- Brasil (máximo): 2.350 kWh/m²/ano
+
+Conclusão: O PIOR recurso solar do Brasil é melhor que a MÉDIA
+da Alemanha, líder histórico em energia solar fotovoltaica.
+
+1.2 IRRADIAÇÃO NO PLANO INCLINADO (POA)
+A irradiação no plano dos módulos (POA) é superior à GHI quando
+os módulos são inclinados na orientação e ângulo ideais.
+
+Orientação e inclinação ótimas para cada região:
+- Norte do Brasil (latitude < 5°N): inclinação 0 a 5°, face norte
+- Nordeste (latitude 5°S a 15°S): inclinação 5°a 15°, face norte
+- Centro-Oeste (latitude 15°S a 20°S): inclinação 15°, face norte
+- Sudeste (latitude 20°S a 25°S): inclinação 20°, face norte
+- Sul (latitude 25°S a 33°S): inclinação 25° a 30°, face norte
+
+Ganho com inclinação ótima vs. módulos horizontais: 5 a 15%
+
+1.3 HORAS DE SOL PLENO (HSP)
+Horas de Sol Pleno (HSP): número equivalente de horas de irradiância
+de 1.000 W/m² que geraria a mesma irradiação diária total.
+
+Valores médios anuais de HSP (kWh/m²/dia):
+- Nordeste: 5,5 a 6,5 HSP
+- Centro-Oeste: 5,0 a 6,0 HSP
+- Sudeste: 4,5 a 5,5 HSP
+- Sul: 4,0 a 5,0 HSP
+- Média Brasil: 5,0 HSP
+
+===============================================================
+CAPÍTULO 2 — TECNOLOGIAS FOTOVOLTAICAS
+===============================================================
+
+2.1 TIPOS DE MÓDULOS FOTOVOLTAICOS
+
+Silício monocristalino (mono-Si):
+- Eficiência: 20 a 24%
+- Temperatura de coeficiente: -0,35 a -0,45 %/°C
+- Vida útil: 25 a 30 anos
+- Desempenho em baixa irradiância: bom
+- Custo: maior entre as tecnologias maduras
+- Participação no mercado global: ~70%
+
+Silício policristalino (poli-Si):
+- Eficiência: 15 a 19%
+- Temperatura de coeficiente: -0,40 a -0,50 %/°C
+- Vida útil: 25 anos
+- Custo: intermediário
+- Participação no mercado: ~20% (em declínio)
+
+Filme fino (CdTe, CIGS, a-Si):
+- Eficiência: 8 a 16%
+- Temperatura de coeficiente: -0,25 a -0,30 %/°C (vantagem em climas quentes)
+- Vida útil: 20 a 25 anos
+- Melhor desempenho em altas temperaturas e luz difusa
+- Participação no mercado: ~10%
+
+Silício heterojunção (HJT):
+- Eficiência: 22 a 25%
+- Temperatura de coeficiente: -0,25 a -0,30 %/°C
+- Vida útil: 30 anos
+- Custo: mais elevado, performance superior
+- Tecnologia emergente de alto crescimento
+
+Perovskita (em desenvolvimento):
+- Eficiência laboratorial: até 29% (células simples) e 33% (tândem)
+- Vida útil: ainda limitada (5 a 10 anos em campo)
+- Custo potencial: muito baixo quando em escala
+
+2.2 IMPACTO DA TEMPERATURA NO DESEMPENHO
+A eficiência dos módulos FV reduz com o aumento de temperatura.
+A temperatura de referência é 25°C (condições STC).
+
+Temperatura de célula = Temperatura ambiente + (NOCT - 20) × (G/800)
+
+onde:
+NOCT = Normal Operating Cell Temperature (tipicamente 45-48°C)
+G = irradiância incidente (W/m²)
+
+Em climas tropicais quentes (temperatura ambiente 30-40°C),
+a temperatura de célula pode atingir 60-75°C, reduzindo a
+eficiência em 12 a 18% em relação às condições STC.
+
+===============================================================
+CAPÍTULO 3 — DIMENSIONAMENTO DE SISTEMAS FOTOVOLTAICOS
+===============================================================
+
+3.1 SISTEMAS CONECTADOS À REDE (SFCR)
+
+Componentes de um SFCR:
+- Módulos fotovoltaicos: geração de energia elétrica CC
+- Inversor solar: conversão CC → CA, MPPT, proteções
+- String box (caixa de junção CC): proteção e monitoramento CC
+- Medidor bidirecional: medição de injeção e consumo na rede
+- Estruturas de fixação: suporte dos módulos
+
+3.2 DIMENSIONAMENTO PELA DEMANDA (método simplificado)
+
+PASSO 1 — Consumo mensal da unidade:
+Levantar conta de energia dos últimos 12 meses
+Calcular média mensal (kWh/mês)
+
+PASSO 2 — Geração unitária esperada por kWp instalado:
+Gu = HSP × PR × 30
+
+onde:
+HSP = horas de sol pleno médio mensal (kWh/m².dia)
+PR = Performance Ratio do sistema (0,75 a 0,85 típico)
+30 = dias do mês
+
+Exemplo para São Paulo: HSP = 4,7 h/dia, PR = 0,80
+Gu = 4,7 × 0,80 × 30 = 112,8 kWh/kWp/mês
+
+PASSO 3 — Potência necessária:
+Ppico (kWp) = Consumo mensal (kWh/mês) / Gu (kWh/kWp/mês)
+
+PASSO 4 — Área necessária:
+Área (m²) = Ppico (kWp) × 1000 / (Eficiência módulo × 1000)
+Área (m²) = Ppico (kWp) / Eficiência módulo
+
+Exemplo: 5 kWp com módulos de 21% de eficiência:
+Área = 5 / 0,21 = 23,8 m²
+
+PASSO 5 — Número de módulos:
+N = Ppico / Pmodulo
+
+Exemplo: 5.000 Wp / 400 Wp por módulo = 12,5 → 13 módulos
+
+3.3 PERFORMANCE RATIO (PR)
+
+O Performance Ratio representa a eficiência real do sistema
+em relação ao desempenho teórico ideal (sem perdas).
+
+PR = Egerada_real / (GHI × Área_módulos / Eficiência_STC)
+
+Valores típicos de PR para sistemas brasileiros:
+- Sistemas residenciais bem instalados: 0,75 a 0,82
+- Sistemas comerciais com monitoramento: 0,80 a 0,85
+- Sistemas industriais de grande porte: 0,78 a 0,84
+- Sistemas com sombreamento significativo: 0,60 a 0,70
+
+Componentes de perda do PR:
+- Temperatura dos módulos (climas quentes): 5 a 12% de perda
+- Perdas resistivas nos cabos CC e CA: 2 a 4%
+- Eficiência do inversor: 2 a 4% (inversores modernos >97%)
+- Sujidade superficial dos módulos: 2 a 6% (varia por região)
+- Sombreamento parcial: 0 a 15% (depende do layout)
+- Mismatch entre módulos: 1 a 3%
+- Refletância da superfície: 2 a 4%
+
+3.4 CÁLCULO DE GERAÇÃO ANUAL
+
+Fórmula geral:
+Egerada (kWh/ano) = Ppico (kWp) × GHI_anual (kWh/m²/ano) × PR
+
+Exemplos por cidade brasileira com sistema de 5 kWp e PR = 0,80:
+- Fortaleza: 5 × 2.200 × 0,80 = 8.800 kWh/ano
+- São Paulo: 5 × 1.700 × 0,80 = 6.800 kWh/ano
+- Porto Alegre: 5 × 1.650 × 0,80 = 6.600 kWh/ano
+- Brasília: 5 × 2.000 × 0,80 = 8.000 kWh/ano
+- Manaus: 5 × 1.900 × 0,80 = 7.600 kWh/ano
+
+===============================================================
+CAPÍTULO 4 — ANÁLISE ECONÔMICA
+===============================================================
+
+4.1 CUSTO DE SISTEMAS FOTOVOLTAICOS NO BRASIL (2022)
+
+Custo médio por faixa de potência:
+- 1 a 5 kWp (residencial): R$ 4.000 a 6.000/kWp
+- 5 a 75 kWp (comercial): R$ 3.500 a 5.000/kWp
+- 75 a 750 kWp (industrial): R$ 3.000 a 4.500/kWp
+- Acima de 750 kWp (geração distribuída): R$ 2.500 a 3.500/kWp
+
+4.2 TEMPO DE RETORNO DO INVESTIMENTO (PAYBACK)
+
+Payback simples:
+TRS = Custo do sistema (R$) / Economia anual (R$/ano)
+
+Economia anual = Geração anual (kWh) × Tarifa de energia (R$/kWh)
+
+Exemplos com tarifa de R$ 0,80/kWh e custo de R$ 5.000/kWp:
+- Sistema 5 kWp em São Paulo (6.800 kWh/ano):
+  Economia = 6.800 × 0,80 = R$ 5.440/ano
+  TRS = 25.000 / 5.440 = 4,6 anos
+
+- Sistema 5 kWp em Fortaleza (8.800 kWh/ano):
+  Economia = 8.800 × 0,80 = R$ 7.040/ano
+  TRS = 25.000 / 7.040 = 3,5 anos
+
+Payback descontado (VPL com taxa de desconto de 8% a.a.): 6 a 9 anos.
+
+4.3 TARIFA DE ENERGIA ELÉTRICA E COMPENSAÇÃO
+Resolução Normativa ANEEL 482/2012 e atualização 1.000/2021:
+- Sistemas de microgeração (até 75 kWp): compensação de energia elétrica
+- Excedente gerado: creditado na conta de energia (net metering)
+- Créditos têm validade de 60 meses (5 anos) a partir da injeção
+
+===============================================================
+CAPÍTULO 5 — MARCO REGULATÓRIO
+===============================================================
+
+5.1 RESOLUÇÃO NORMATIVA ANEEL 1.000/2021
+Regulamenta o Sistema de Compensação de Energia Elétrica (SCEE):
+- Microgeração distribuída: até 75 kWp
+- Minigeração distribuída: 75 kWp a 5 MW
+- Geração compartilhada: autoconsumo em múltiplas unidades
+- Empreendimento com múltiplas unidades consumidoras
+
+5.2 LEI 14.300/2022 — MARCO LEGAL DO SETOR
+Institui o Marco Legal da Microgeração e Minigeração Distribuída:
+- Garante o direito de compensação por 25 anos para sistemas instalados
+- Estabelece tarifa de uso do fio (TUSD/TUST) a partir de 2023
+- Define regras para armazenamento de energia em baterias
+
+5.3 IMPACTO NA CONTA DE ENERGIA
+A compensação é calculada com base na tarifa de energia (kWh):
+- Distribuidoras cobram apenas a diferença entre consumo e geração
+- Créditos nunca são pagos em dinheiro (apenas compensados)
+- A tarifa de disponibilidade mínima (mínimo da conta) é sempre cobrada
