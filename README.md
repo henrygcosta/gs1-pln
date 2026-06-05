@@ -1,4 +1,4 @@
-# GS 2026.1 PLN - 
+# GS 2026.1 PLN - RAG API
 
 Assistente técnico de recuperação aumentada por geração (RAG) especializado em edificações sustentáveis, eficiência energética, eficiência hídrica e certificações ambientais (LEED, AQUA-HQE, Selo Casa Azul+, normas ABNT).
 
