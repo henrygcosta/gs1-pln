@@ -1,0 +1,167 @@
+[
+  {
+    "consulta": 1,
+    "pergunta": "Quais são os requisitos mínimos de eficiência hídrica do LEED v4.1 para redução de água exterior?",
+    "trace_id": "aqe_20260605_220937_40fdb15c",
+    "modelo": "mistral:7b-instruct-v0.3-q4_K_M",
+    "latencia_ms": 57407,
+    "confianca": 0.567,
+    "cobertura": "full",
+    "fallback": false,
+    "chunks_count": 3,
+    "chunks": [
+      {
+        "chunk_id": "DOC-001_s1_c0000",
+        "doc_title": "LEED v4.1 BD+C",
+        "section": "Introdução",
+        "page": 1,
+        "score": 0.0579,
+        "citation_short": "[LEED v4.1 BD+C, Seção 1, p. 1]",
+        "citation_abnt": "U.S. GREEN BUILDING COUNCIL. LEED v4.1 Building Design and Construction Reference Guide. USA: U.S. Green Building Council, 2019. p. 1-1."
+      },
+      {
+        "chunk_id": "DOC-001_s4_c0003",
+        "doc_title": "LEED v4.1 BD+C",
+        "section": "Introdução",
+        "page": 4,
+        "score": 0.0156,
+        "citation_short": "[LEED v4.1 BD+C, Seção 4, p. 4]",
+        "citation_abnt": "U.S. GREEN BUILDING COUNCIL. LEED v4.1 Building Design and Construction Reference Guide. USA: U.S. Green Building Council, 2019. p. 4-4."
+      },
+      {
+        "chunk_id": "DOC-001_s5_c0004",
+        "doc_title": "LEED v4.1 BD+C",
+        "section": "Introdução",
+        "page": 5,
+        "score": 0.0,
+        "citation_short": "[LEED v4.1 BD+C, Seção 5, p. 5]",
+        "citation_abnt": "U.S. GREEN BUILDING COUNCIL. LEED v4.1 Building Design and Construction Reference Guide. USA: U.S. Green Building Council, 2019. p. 5-5."
+      }
+    ],
+    "resposta": "## Resposta técnica\nOs requisitos mínimos de eficiência hídrica do LEED v4.1 para redução de água exterior incluem:\n\n1. [T3] - Atingir a cobertura mínima de 50% dos resíduos de construção e demolição (1 ponto) ou 75% (2 pontos).\n2. [T4] - Prover áreas dedicadas para coleta e armazenamento de materiais recicláveis: papel, vidro, plástico, metais e pilhas/baterias (requisito obrigatório).\n3. [T5] - Usar materiais com baixa emissão de compostos orgânicos voláteis (VOCs): tintas, adesivos, selantes, pisos, forros e madeiras.\n4. [T6] - Prover iluminação natural (daylight) para pelo menos 55% dos espaços regularmente ocupados por meio de simulação (ASE e sDA).\n\n## Documentos consultados\n\n1. **LEED v4.1 BD+C** (DOC-001)\n\n\n## Trechos utilizados\n\n**[T3]** — [LEED v4.1 BD+C, Seção 1, p. 1]\n*Seção:* Introdução\n> \"[DOC: LEED v4.1 BD+C | SEÇÃO: Introdução | p. 1]\n\nLEED v4.1 BD+C Reference Guide\nU.S. Green Building Council (USGBC)\nVersão 4.1 — 2019, atualizado 2021\nIdioma: Inglês\n\nINTRODUÇÃO AO SISTEMA LEED\n\nO LE...\"\n*Relevância:* 0.06\n\n**[T4]** — [LEED v4.1 BD+C, Seção 4, p. 4]\n*Seção:* Introdução\n> \"[DOC: LEED v4.1 BD+C | SEÇÃO: Introdução | p. 4]\n\nós-ocupação.\n\nEA Credit — Optimize Energy Performance\nPontuação: 1 a 20 pontos (maior pontuação individual do sistema LEED)\nDemonstrar melhoria percen...\"\n*Relevância:* 0.02\n\n**[T5]** — [LEED v4.1 BD+C, Seção 5, p. 5]\n*Seção:* Introdução\n> \"[DOC: LEED v4.1 BD+C | SEÇÃO: Introdução | p. 5]\n\nvoláteis\n(VOCs): tintas, adesivos, selantes, pisos, forros e madeiras.\n\nEQ Credit — Construction Indoor Air Quality Management Plan\nImplementar plano ...\"\n*Relevância:* 0.00\n\n\n## Fontes\n\nU.S. GREEN BUILDING COUNCIL. LEED v4.1 Building Design and Construction Reference Guide. USA: U.S. Green Building Council, 2019. p. 1-1.\n",
+    "hallucination_flags": [],
+    "numeric_discrepancies": []
+  },
+  {
+    "consulta": 2,
+    "pergunta": "Como o PROCEL Edifica classifica o nível de eficiência energética de edificações comerciais?",
+    "trace_id": "aqe_20260605_221035_71969309",
+    "modelo": "mistral:7b-instruct-v0.3-q4_K_M",
+    "latencia_ms": 27645,
+    "confianca": 0.647,
+    "cobertura": "full",
+    "fallback": false,
+    "chunks_count": 2,
+    "chunks": [
+      {
+        "chunk_id": "DOC-007_s1_c0000",
+        "doc_title": "PROCEL Edifica",
+        "section": "Introdução",
+        "page": 1,
+        "score": 1.0,
+        "citation_short": "[PROCEL Edifica, Seção 1, p. 1]",
+        "citation_abnt": "INMETRO / ELETROBRAS PROCEL. Regulamento Técnico da Qualidade para o Nível de Eficiência Energética — RTQ-C e RTQ-R. BR: INMETRO / ELETROBRAS PROCEL, 2021. p. 1-1."
+      },
+      {
+        "chunk_id": "DOC-007_s2_c0001",
+        "doc_title": "PROCEL Edifica",
+        "section": "Introdução",
+        "page": 2,
+        "score": 0.26,
+        "citation_short": "[PROCEL Edifica, Seção 2, p. 2]",
+        "citation_abnt": "INMETRO / ELETROBRAS PROCEL. Regulamento Técnico da Qualidade para o Nível de Eficiência Energética — RTQ-C e RTQ-R. BR: INMETRO / ELETROBRAS PROCEL, 2021. p. 2-2."
+      }
+    ],
+    "resposta": "## Resposta técnica\nO PROCEL Edifica classifica a eficiência energética de edificações comerciais através do sistema de etiquetagem energética (ENCE), que avalia três sistemas prediais de forma independente: envoltória, sistema de iluminação artificial e sistema de condicionamento de ar. Cada sistema é classificado em níveis A, B, C, D ou E, com A sendo o mais eficiente e E o menos eficiente. A classificação final (ENCE geral) é calculada por média ponderada dos três sistemas. [T1], [T2]\n\n## Referências\n- Documento: PROCEL Edifica, SEÇÃO 2 - PONTUAÇÃO E CLASSIFICAÇÃO FINAL, EqNum_total = (EqNum_env × A_env + EqNum_il × A_il + EqNum_ac × A_ac) / (A_env + A_il + A_ac), [T1]\n- Documento: PROCEL Edifica, SEÇÃO 3 - MÉTODOS DE AVALIAÇÃO, MÉTODO PRESCRITIVO e MÉTODO DE SIMULAÇÃO, [T1]\n\n## Documentos consultados\n\n1. **PROCEL Edifica** (DOC-007)\n\n\n## Trechos utilizados\n\n**[T1]** — [PROCEL Edifica, Seção 1, p. 1]\n*Seção:* Introdução\n> \"[DOC: PROCEL Edifica | SEÇÃO: Introdução | p. 1]\n\nPROCEL Edifica — Regulamento Técnico da Qualidade para Eficiência Energética\nRTQ-C (Edificações Comerciais, de Serviços e Públicas)\nRTQ-R (Edificações...\"\n*Relevância:* 1.00\n\n**[T2]** — [PROCEL Edifica, Seção 2, p. 2]\n*Seção:* Introdução\n> \"[DOC: PROCEL Edifica | SEÇÃO: Introdução | p. 2]\n\no aceitos para nível A.\n\nAutomação de iluminação (adicional de pontos):\n- Sensor de presença em ambientes com ocupação variável: +0,5 ponto\n- Sensor d...\"\n*Relevância:* 0.26\n\n\n## Fontes\n\nINMETRO / ELETROBRAS PROCEL. Regulamento Técnico da Qualidade para o Nível de Eficiência Energética — RTQ-C e RTQ-R. BR: INMETRO / ELETROBRAS PROCEL, 2021. p. 1-1.\n",
+    "hallucination_flags": [
+      "Low citation coverage: 0% of technical sentences cited"
+    ],
+    "numeric_discrepancies": []
+  },
+  {
+    "consulta": 3,
+    "pergunta": "Quais são as etapas de tratamento recomendadas para reúso de água cinza em edificações segundo a ANA?",
+    "trace_id": "aqe_20260605_221102_94bae45d",
+    "modelo": "mistral:7b-instruct-v0.3-q4_K_M",
+    "latencia_ms": 30812,
+    "confianca": 0.588,
+    "cobertura": "full",
+    "fallback": false,
+    "chunks_count": 1,
+    "chunks": [
+      {
+        "chunk_id": "DOC-008_s3_c0002",
+        "doc_title": "CBCS — Água em Edificações",
+        "section": "Introdução",
+        "page": 3,
+        "score": 0.8469,
+        "citation_short": "[CBCS — Água em Edificações, Seção 3, p. 3]",
+        "citation_abnt": "CBCS. Uso Racional da Água em Edificações — Conselho Brasileiro de Construção Sustentável. BR: CBCS, 2022. p. 3-3."
+      }
+    ],
+    "resposta": "## Resposta técnica\nAs etapas de tratamento recomendadas para reuso de água cinza em edificações segundo a ANA são:\n\n1. Coleção (coleta) - Ralos e caixas coletoras em chuveiros, banheiras e lavatórios; tubulação separada de coleta identificada; peneira de proteção na entrada do reservatório. [T2]\n\n2. Pré-tratamento - Caixa de gordura ou separador de cabelos; filtro de areia ou cartucho (remoção de sólidos finos). [T2]\n\n3. Tratamento - Filtro biológico (leito percolador ou membrana biorreatora - MBR) para sistemas maiores; desinfecção: cloração ou UV. [T2]\n\n4. Armazenamento - Reservatório de água cinza tratada com tampa hermética, sem luz; volume mínimo: 1 dia de demanda de descarga. [T2]\n\n5. Distribuição - Bomba de recalque ou sistema gravitacional; tubulação de distribuição identificada (cor roxa ou cinza escuro); etiquetas \"ÁGUA NÃO POTÁVEL\" a cada 2 metros. [T2]\n\n6. Controle - Boia de nível no reservatório; alimentação automática de água potável em caso de falta de água cinza (com válvula unidirecional para evitar contaminação da rede potável). [T2]\n\n## Documentos consultados\n\n1. **CBCS — Água em Edificações** (DOC-008)\n\n\n## Trechos utilizados\n\n**[T2]** — [CBCS — Água em Edificações, Seção 3, p. 3]\n*Seção:* Introdução\n> \"[DOC: CBCS — Água em Edificações | SEÇÃO: Introdução | p. 3]\n\ndo reúso)\nIrrigação e limpeza: 10% do consumo total\n\nVolume de água cinza disponível:\n- Lavatórios: ~15 L/pessoa/dia\n- Chuveiros: ~45 L/pe...\"\n*Relevância:* 0.85\n\n\n## Fontes\n\nCBCS. Uso Racional da Água em Edificações — Conselho Brasileiro de Construção Sustentável. BR: CBCS, 2022. p. 3-3.\n",
+    "hallucination_flags": [],
+    "numeric_discrepancies": []
+  },
+  {
+    "consulta": 4,
+    "pergunta": "Quais são os requisitos de irradiação solar para dimensionamento de sistemas fotovoltaicos residenciais no Brasil?",
+    "trace_id": "aqe_20260605_221133_bd9a3077",
+    "modelo": "mistral:7b-instruct-v0.3-q4_K_M",
+    "latencia_ms": 26445,
+    "confianca": 0.702,
+    "cobertura": "full",
+    "fallback": false,
+    "chunks_count": 2,
+    "chunks": [
+      {
+        "chunk_id": "DOC-010_s1_c0000",
+        "doc_title": "Atlas Solar EPE 2022",
+        "section": "Introdução",
+        "page": 1,
+        "score": 1.0,
+        "citation_short": "[Atlas Solar EPE 2022, Seção 1, p. 1]",
+        "citation_abnt": "EMPRESA DE PESQUISA ENERGÉTICA. Atlas de Energia Solar do Brasil — Empresa de Pesquisa Energética 2022. BR: Empresa de Pesquisa Energética, 2022. p. 1-1."
+      },
+      {
+        "chunk_id": "DOC-010_s3_c0002",
+        "doc_title": "Atlas Solar EPE 2022",
+        "section": "Introdução",
+        "page": 3,
+        "score": 0.9892,
+        "citation_short": "[Atlas Solar EPE 2022, Seção 3, p. 3]",
+        "citation_abnt": "EMPRESA DE PESQUISA ENERGÉTICA. Atlas de Energia Solar do Brasil — Empresa de Pesquisa Energética 2022. BR: Empresa de Pesquisa Energética, 2022. p. 3-3."
+      }
+    ],
+    "resposta": "## Resposta técnica\nOs requisitos de irradiação solar para o dimensionamento de sistemas fotovoltaicos residenciais no Brasil podem ser obtidos a partir de várias fontes de dados, como:\n\n1. CRESESB/CEPEL (Atlas Solarimétrico do Brasil) - fonte gratuita [T1]\n2. NASA POWER (base de dados por coordenada geográfica) - fonte gratuita [T1]\n3. SolarGIS (base de dados global de alta precisão) - fonte paga [T1]\n4. EPE (Atlas de Energia Elétrica do Brasil)\n\nPara projetos de engenharia, recomenda-se usar dados mensais por coordenada geográfica para considerar sazonalidade [T2].\n\n## Documentos consultados\n\n1. **Atlas Solar EPE 2022** (DOC-010)\n\n\n## Trechos utilizados\n\n**[T1]** — [Atlas Solar EPE 2022, Seção 1, p. 1]\n*Seção:* Introdução\n> \"[DOC: Atlas Solar EPE 2022 | SEÇÃO: Introdução | p. 1]\n\nAtlas de Energia Elétrica do Brasil — Recurso Solar Fotovoltaico\nEmpresa de Pesquisa Energética (EPE) / Ministério de Minas e Energia\nEdição 202...\"\n*Relevância:* 1.00\n\n**[T2]** — [Atlas Solar EPE 2022, Seção 3, p. 3]\n*Seção:* Introdução\n> \"[DOC: Atlas Solar EPE 2022 | SEÇÃO: Introdução | p. 3]\n\nos:\n- Sistemas residenciais bem instalados: 0,75 a 0,82\n- Sistemas comerciais com monitoramento: 0,80 a 0,85\n- Sistemas industriais de grande po...\"\n*Relevância:* 0.99\n\n\n## Fontes\n\nEMPRESA DE PESQUISA ENERGÉTICA. Atlas de Energia Solar do Brasil — Empresa de Pesquisa Energética 2022. BR: Empresa de Pesquisa Energética, 2022. p. 1-1.\n",
+    "hallucination_flags": [
+      "Low citation coverage: 0% of technical sentences cited"
+    ],
+    "numeric_discrepancies": []
+  },
+  {
+    "consulta": 5,
+    "pergunta": "O que é BEMS e quais são os benefícios de eficiência energética descritos no guia ABESCO?",
+    "trace_id": "aqe_20260605_221159_1243a2b7",
+    "modelo": "mistral:7b-instruct-v0.3-q4_K_M",
+    "latencia_ms": 29416,
+    "confianca": 0.488,
+    "cobertura": "full",
+    "fallback": false,
+    "chunks_count": 1,
+    "chunks": [
+      {
+        "chunk_id": "DOC-015_s4_c0003",
+        "doc_title": "ABESCO — BEMS e Automação Predial",
+        "section": "Introdução",
+        "page": 4,
+        "score": 0.0,
+        "citation_short": "[ABESCO — BEMS e Automação Predial, Seção 4, p. 4]",
+        "citation_abnt": "ABESCO. Sistemas de Gestão de Energia Predial (BEMS) — Guia de Implementação. BR: ABESCO, 2022. p. 4-4."
+      }
+    ],
+    "resposta": "## Resposta técnica\nO Building Energy Management System (BEMS) é um sistema de automação que permite o monitoramento, controle e gerenciamento da energia em edifícios. Os benefícios de eficiência energética descritos no guia ABESCO incluem:\n\n- Economia relativa (Energy Savings %): [T5]\n- Indicadores de desempenho (KPIs) como EUI (Energy Use Intensity) e PUE (Power Usage Effectiveness) para avaliar o desempenho energético do edifício: [T4.3]\n- Certificações relacionadas ao BEMS, como LEED (Leadership in Energy and Environmental Design), AQUA-Haute Qualité Environnementale (HQE) e ISO 50001: [T4.4]\n- Gerenciamento de demanda para reduzir os picos de consumo e custos de energia elétrica: [T3.4]\n- Programação horária para economizar energia durante períodos de baixa ocupação do edifício: [T3.3]\n- Economia ciclo noturna para reduzir o consumo de energia em edificações desocupadas: [T3.2]\n- Estratégias de redução de pico para gerenciamento de demanda: [T3.4]\n- Tarifa branca e horosazonal para incentivar a redução de consumo durante períodos de maior custo energético: [T3.4]\n\n## Documentos consultados\n\n1. **ABESCO — BEMS e Automação Predial** (DOC-015)\n\n\n## Trechos utilizados\n\n**[T5]** — [ABESCO — BEMS e Automação Predial, Seção 4, p. 4]\n*Seção:* Introdução\n> \"[DOC: ABESCO — BEMS e Automação Predial | SEÇÃO: Introdução | p. 4]\n\nlho.\nEconomia típica em zonas perimetrais com janelas: 20 a 40%.\n\nCenas de iluminação programadas:\nProgramação de diferentes níveis...\"\n*Relevância:* 0.00\n\n\n## Fontes\n\nABESCO. Sistemas de Gestão de Energia Predial (BEMS) — Guia de Implementação. BR: ABESCO, 2022. p. 4-4.\n",
+    "hallucination_flags": [],
+    "numeric_discrepancies": []
+  }
+]
