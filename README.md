@@ -28,7 +28,7 @@
 
 ## 1. Contexto do Desafio
 
-**Disciplina:** Processamento de Linguagem Natural — Global Solution 2025.1, FIAP
+**Disciplina:** Processamento de Linguagem Natural — Global Solution 2026.1, FIAP
 
 O desafio propõe a construção de um **assistente técnico especializado em Edifícios Verdes e Net Zero de Energia e Água**, capaz de responder perguntas técnicas com precisão, citando sempre a fonte que embasou a resposta.
 
